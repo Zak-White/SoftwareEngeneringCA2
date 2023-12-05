@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"D:/Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/68/1HY4DTHIZLEZUSI9I0CKP5.uasset",
+				"D:/Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/EnviormentCA/Levels/Enviorment.umap",
+				"D:/Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/BN/M433EPZ9FJXEC3HLAU24SI.uasset",
+				"D:/Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/EX/440J0UVSG4JPRT56GCQQGW.uasset",
+				"D:/Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
