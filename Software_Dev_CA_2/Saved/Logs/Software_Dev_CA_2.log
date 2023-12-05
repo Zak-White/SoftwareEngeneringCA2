@@ -3563,3 +3563,1023 @@ Scale3D: 1.000000 1.000000 1.000000
 [2023.12.05-21.16.23:569][741]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2
 [2023.12.05-21.16.23:569][741]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/BP_ThirdPersonCharacter_Auto24F5682124F55918ECD12A89C104D79FE.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2.uasset'
 [2023.12.05-21.16.23:569][741]LogFileHelpers: Auto-saving content packages took 0.055
+[2023.12.05-21.18.04:683][800]LogViewport: Scene viewport resized to 1170x900, mode Windowed.
+[2023.12.05-21.18.11:902][626]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_0_0.Heightmap_4 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.18.11:904][626]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_0_0.Heightmap_6 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.18.11:906][626]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_1_0.Heightmap_4 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.18.12:293][656]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_1_0.Heightmap_6 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.18.14:443][844]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_0_0.Heightmap_7 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.18.14:444][844]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_1_0.Heightmap_5 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.18.14:614][856]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_1_0.Heightmap_7 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.18.15:917][972]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_0_0.Heightmap_6 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.18.15:919][972]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_1_0.Heightmap_4 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.18.15:920][972]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_1_0.Heightmap_6 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.18.16:462][ 15]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_2_0.Heightmap_5 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.18.16:464][ 15]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_2_0.Heightmap_4 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.18.17:674][121]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_1_0.Heightmap_5 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.18.17:676][121]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_1_0.Heightmap_7 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.18.17:702][122]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_2_0.Heightmap_5 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.18.18:723][211]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_0_0.Heightmap_7 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.18.19:101][244]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_0_0.Heightmap_5 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.18.19:206][253]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_0_0.Heightmap_4 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.18.20:897][407]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_0_0.Heightmap_5 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:048][136]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.05-21.19.08:130][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.12.05-21.19.08:145][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.12.05-21.19.08:157][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.12.05-21.19.08:161][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_0_0_0.Heightmap_2 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:162][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_0_0_0.Heightmap_3 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:164][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_0_0_0.Heightmap_6 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:165][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_0_0_0.Heightmap_7 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:172][136]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8N/P5CMZ8XHNV2XYM7JUUQU94
+[2023.12.05-21.19.08:172][136]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/P5CMZ8XHNV2XYM7JUUQU94B74F87324B9F5B16A98E88A37497C333.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8N/P5CMZ8XHNV2XYM7JUUQU94.uasset'
+[2023.12.05-21.19.08:174][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_1_0_0.Heightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:175][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_1_0_0.Heightmap_1 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:176][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_1_0_0.Heightmap_2 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:177][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_1_0_0.Heightmap_3 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:178][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_1_0_0.Heightmap_4 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:179][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_1_0_0.Heightmap_5 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:180][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_1_0_0.Heightmap_6 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:182][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_1_0_0.Heightmap_7 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:189][136]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/OD/S2M5FK2PTLA1NDSXTE1A98
+[2023.12.05-21.19.08:189][136]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/S2M5FK2PTLA1NDSXTE1A986F4F7CD34A082D60785DDAA883E827D9.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/OD/S2M5FK2PTLA1NDSXTE1A98.uasset'
+[2023.12.05-21.19.08:191][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_0_1_0.Heightmap_4 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:193][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_0_1_0.Heightmap_5 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:194][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_0_1_0.Heightmap_6 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:195][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_0_1_0.Heightmap_7 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:201][136]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/KU/LU8T1UJDJWAYFI9YWPQ3UH
+[2023.12.05-21.19.08:202][136]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/LU8T1UJDJWAYFI9YWPQ3UHAD83D7BE43D017884B30F69E090B82A0.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/KU/LU8T1UJDJWAYFI9YWPQ3UH.uasset'
+[2023.12.05-21.19.08:204][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_1_1_0.Heightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:205][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_1_1_0.Heightmap_1 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:206][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_1_1_0.Heightmap_2 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:207][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_1_1_0.Heightmap_3 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:208][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_1_1_0.Heightmap_4 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:209][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_1_1_0.Heightmap_5 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:210][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_1_1_0.Heightmap_6 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:211][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_1_1_0.Heightmap_7 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:218][136]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/2B/1RTV9PEU9TADP1ZCRBOCZT
+[2023.12.05-21.19.08:218][136]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/1RTV9PEU9TADP1ZCRBOCZT1DF9E9854409DEBD3D331FB9A18AB4F3.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/2B/1RTV9PEU9TADP1ZCRBOCZT.uasset'
+[2023.12.05-21.19.08:220][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_0_0.Heightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:221][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_0_0.Heightmap_1 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:222][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_0_0.Heightmap_2 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:223][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_0_0.Heightmap_3 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:224][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_0_0.Heightmap_4 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:225][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_0_0.Heightmap_5 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:226][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_0_0.Heightmap_6 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:228][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_0_0.Heightmap_7 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:234][136]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/3G/1BYEO2KXZZ2WCRXBMJ0YO7
+[2023.12.05-21.19.08:235][136]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/1BYEO2KXZZ2WCRXBMJ0YO79ADD61194C03195F86B6AA8C7364F515.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/3G/1BYEO2KXZZ2WCRXBMJ0YO7.uasset'
+[2023.12.05-21.19.08:237][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_0_0.Heightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:238][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_0_0.Heightmap_1 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:239][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_0_0.Heightmap_2 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:240][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_0_0.Heightmap_3 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:241][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_0_0.Heightmap_4 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:242][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_0_0.Heightmap_5 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:243][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_0_0.Heightmap_6 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:244][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_0_0.Heightmap_7 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:251][136]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/7Z/VSPRZ327YEE2Z3F0I37DC6
+[2023.12.05-21.19.08:251][136]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/VSPRZ327YEE2Z3F0I37DC6A94CF612455A5AC3C52CAAB4AA09E505.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/7Z/VSPRZ327YEE2Z3F0I37DC6.uasset'
+[2023.12.05-21.19.08:253][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_1_0.Heightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:254][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_1_0.Heightmap_1 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:255][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_1_0.Heightmap_2 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:256][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_1_0.Heightmap_3 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:258][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_1_0.Heightmap_4 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:259][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_1_0.Heightmap_5 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:260][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_1_0.Heightmap_6 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:261][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_1_0.Heightmap_7 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:268][136]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XB/UKOPGKPKJEZ5D1HBFBZ3EZ
+[2023.12.05-21.19.08:269][136]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/UKOPGKPKJEZ5D1HBFBZ3EZ30D7458648776D0B0CB40CA3F4EF3902.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XB/UKOPGKPKJEZ5D1HBFBZ3EZ.uasset'
+[2023.12.05-21.19.08:271][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_1_0.Heightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:272][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_1_0.Heightmap_1 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:273][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_1_0.Heightmap_2 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:274][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_1_0.Heightmap_3 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:275][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_1_0.Heightmap_4 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:276][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_1_0.Heightmap_5 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:277][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_1_0.Heightmap_6 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:278][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_1_0.Heightmap_7 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:285][136]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/HO/LWCLT7MEPBRTRBFWKJBV21
+[2023.12.05-21.19.08:286][136]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/LWCLT7MEPBRTRBFWKJBV21B85397C24D39F5E874FCAEBA88C7DD13.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/HO/LWCLT7MEPBRTRBFWKJBV21.uasset'
+[2023.12.05-21.19.08:292][136]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/UF/KCEGQOJ44DC7RD5C6HK88D
+[2023.12.05-21.19.08:293][136]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/KCEGQOJ44DC7RD5C6HK88DCA6EB3D5475CEA30A497EDA4C768C052.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/UF/KCEGQOJ44DC7RD5C6HK88D.uasset'
+[2023.12.05-21.19.08:299][136]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/EY/7NK7QFA6H0FFR24R3XSBB3
+[2023.12.05-21.19.08:299][136]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/7NK7QFA6H0FFR24R3XSBB303B05B904E555DBD77C4418EB22A7B10.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/EY/7NK7QFA6H0FFR24R3XSBB3.uasset'
+[2023.12.05-21.19.08:301][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_2_0.Heightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:303][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_2_0.Heightmap_1 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:304][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_2_0.Heightmap_5 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:313][136]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/0J/00RIQ2WS6X5B9ITR4PUI38
+[2023.12.05-21.19.08:313][136]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/00RIQ2WS6X5B9ITR4PUI388CEBE7EF49AF2FE167A520A62ADAA095.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/0J/00RIQ2WS6X5B9ITR4PUI38.uasset'
+[2023.12.05-21.19.08:315][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_2_0.Heightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:316][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_2_0.Heightmap_1 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:317][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_2_0.Heightmap_4 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:319][136]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_2_0.Heightmap_5 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.05-21.19.08:325][136]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/A2/JT8VUZEOP69TK0KEAADVC5
+[2023.12.05-21.19.08:326][136]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/JT8VUZEOP69TK0KEAADVC5FB2D43B943563851737414AC9C43D20E.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/A2/JT8VUZEOP69TK0KEAADVC5.uasset'
+[2023.12.05-21.19.08:332][136]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/AX/UH2LHZ9CRFINDEIY6ZD5MM
+[2023.12.05-21.19.08:333][136]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/UH2LHZ9CRFINDEIY6ZD5MM4F269F8449457D4BDB42AABC00A38835.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/AX/UH2LHZ9CRFINDEIY6ZD5MM.uasset'
+[2023.12.05-21.19.08:335][136]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/RC/AY0YUV8I707RFYCQ9XS7G8
+[2023.12.05-21.19.08:335][136]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/AY0YUV8I707RFYCQ9XS7G88887DB6A4B79DF8D398F9181BFBFCAFD.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/RC/AY0YUV8I707RFYCQ9XS7G8.uasset'
+[2023.12.05-21.19.08:337][136]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/LB/16UEAPR206XTBL6YH2SBE7
+[2023.12.05-21.19.08:337][136]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/16UEAPR206XTBL6YH2SBE74CEE6A4A4C9FBA53A98A32BC12F03104.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/LB/16UEAPR206XTBL6YH2SBE7.uasset'
+[2023.12.05-21.19.08:339][136]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/LX/39NYGXFIEQ9N3K57WF3MMD
+[2023.12.05-21.19.08:339][136]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/39NYGXFIEQ9N3K57WF3MMD8E997FA44D6DF07ED52BE4987219F2F5.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/LX/39NYGXFIEQ9N3K57WF3MMD.uasset'
+[2023.12.05-21.19.08:341][136]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/WS/AWJ84V6HN5H84LP3TJ147E
+[2023.12.05-21.19.08:341][136]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/AWJ84V6HN5H84LP3TJ147E0A2259D646F3B1CECE0F7D839D3DE06A.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/WS/AWJ84V6HN5H84LP3TJ147E.uasset'
+[2023.12.05-21.19.08:343][136]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/N2/CXG878QFH3XJV0MB39ED62
+[2023.12.05-21.19.08:343][136]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/CXG878QFH3XJV0MB39ED62CD8D62BE4A0085A4FC20ADAE959B9E74.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/N2/CXG878QFH3XJV0MB39ED62.uasset'
+[2023.12.05-21.19.08:344][136]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/JO/5LTQ27VQZLS1DZHWSKJBMG
+[2023.12.05-21.19.08:344][136]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/5LTQ27VQZLS1DZHWSKJBMG3215345E4FB552EECBE466B45F9F908E.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/JO/5LTQ27VQZLS1DZHWSKJBMG.uasset'
+[2023.12.05-21.19.08:346][136]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/W5/J38YSCSUUCFDC9F4PFQ8FL
+[2023.12.05-21.19.08:346][136]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/J38YSCSUUCFDC9F4PFQ8FL18EE91AA47544FDED5D199A95EE7CA53.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/W5/J38YSCSUUCFDC9F4PFQ8FL.uasset'
+[2023.12.05-21.19.08:348][136]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/S6/CGQG47TY5NK48RD7DDQCQS
+[2023.12.05-21.19.08:348][136]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/CGQG47TY5NK48RD7DDQCQS8B53DCAA46CC6838E329BD90E0EAF055.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/S6/CGQG47TY5NK48RD7DDQCQS.uasset'
+[2023.12.05-21.19.08:350][136]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/99/KY7ZNDV1CNPW61WWZGJOPN
+[2023.12.05-21.19.08:350][136]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/KY7ZNDV1CNPW61WWZGJOPN9C2836AF4DFEEA6C0E3E9EB9A30D05F1.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/99/KY7ZNDV1CNPW61WWZGJOPN.uasset'
+[2023.12.05-21.19.08:352][136]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/ZB/YGLVCG7Y1Y05T5KOUERT62
+[2023.12.05-21.19.08:352][136]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/YGLVCG7Y1Y05T5KOUERT62461E2F48454273B35C2A92A791667424.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/ZB/YGLVCG7Y1Y05T5KOUERT62.uasset'
+[2023.12.05-21.19.08:354][136]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/90/JFCGALVZ7OVLDB8WBQ3356
+[2023.12.05-21.19.08:354][136]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/JFCGALVZ7OVLDB8WBQ3356BA6D17604BC816C47B157B90B75EEE60.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/90/JFCGALVZ7OVLDB8WBQ3356.uasset'
+[2023.12.05-21.19.08:356][136]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/YY/GQJQCPFM1B8XYKV6PWZ7OQ
+[2023.12.05-21.19.08:356][136]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/GQJQCPFM1B8XYKV6PWZ7OQDDB399554630E862C5020B93A26A959B.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/YY/GQJQCPFM1B8XYKV6PWZ7OQ.uasset'
+[2023.12.05-21.19.08:365][136]LogFileHelpers: InternalPromptForCheckoutAndSave took 316 ms (total: 1.37 sec)
+[2023.12.05-21.19.08:370][136]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.05-21.19.08:370][136]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_0_0_0
+[2023.12.05-21.19.08:370][136]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_1_0_0
+[2023.12.05-21.19.08:370][136]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_0_1_0
+[2023.12.05-21.19.08:370][136]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_1_1_0
+[2023.12.05-21.19.08:370][136]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_0_0
+[2023.12.05-21.19.08:370][136]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_0_0
+[2023.12.05-21.19.08:370][136]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_1_0
+[2023.12.05-21.19.08:370][136]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_1_0
+[2023.12.05-21.19.08:370][136]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_0_2_0
+[2023.12.05-21.19.08:370][136]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_1_2_0
+[2023.12.05-21.19.08:370][136]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_2_0
+[2023.12.05-21.19.08:370][136]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_2_0
+[2023.12.05-21.19.08:370][136]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_3_0
+[2023.12.05-21.19.08:370][136]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6103C301_1578367620
+[2023.12.05-21.19.08:370][136]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6103C301_1956802632
+[2023.12.05-21.19.08:370][136]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6103C301_1668682622
+[2023.12.05-21.19.08:370][136]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6103C301_1691994623
+[2023.12.05-21.19.08:370][136]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6103C301_1940074631
+[2023.12.05-21.19.08:370][136]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6103C301_1707010624
+[2023.12.05-21.19.08:370][136]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6103C301_1923175630
+[2023.12.05-21.19.08:370][136]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6103C301_1731897625
+[2023.12.05-21.19.08:370][136]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PointLight_UAID_6C6A77E26A6103C301_1769173626
+[2023.12.05-21.19.08:370][136]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6103C301_1912898629
+[2023.12.05-21.19.08:370][136]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6103C301_1826577627
+[2023.12.05-21.19.08:370][136]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6103C301_1882617628
+[2023.12.05-21.19.09:787][292]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.05-21.19.09:853][292]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.12.05-21.19.09:853][292]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/BP_ThirdPersonCharacterA3584A164026FE913156E38C5E09A9A8.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.12.05-21.19.09:859][292]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 1.45 sec)
+[2023.12.05-21.19.09:861][292]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.12.05-21.19.09:861][292]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.12.05-21.20.09:703][263]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.12.05-21.20.09:703][263]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.12.05-21.20.58:154][ 77]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.12.05-21.27.32:263][407]LogDerivedDataCache: C:/Users/zakwh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.226 and deleted 0 files with total size 0 MiB and 734 empty folders. Scanned 1463 files in 3037 folders with total size 27 MiB.
+[2023.12.05-21.30.52:437][139]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_1_0.Heightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.30.53:553][250]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_0_0.Heightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.30.54:117][316]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_0_0.Heightmap_2 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.30.58:218][784]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_-1_0.Heightmap_2 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.31.04:696][537]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_-1_0_0.Heightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.31.10:213][191]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_0_-1_0.Heightmap_2 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.31.15:926][866]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_-1_0.Heightmap_2 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.31.17:252][ 21]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_-1_3_0.Heightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.31.19:563][291]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_-1_1_0.Heightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.31.22:061][585]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_3_0.Heightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.31.22:391][622]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_3_0.Heightmap_2 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.31.22:724][660]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_2_0.Heightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.31.34:997][ 40]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_0_4_0.Heightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.31.37:615][339]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_4_0.Heightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.31.38:444][431]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_4_0.Heightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.32.05:694][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.12.05-21.32.05:703][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8N/P5CMZ8XHNV2XYM7JUUQU94_Auto3
+[2023.12.05-21.32.05:703][314]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/P5CMZ8XHNV2XYM7JUUQU94_Auto32054004E4045D1CF184FDA8D623B5BF0.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8N/P5CMZ8XHNV2XYM7JUUQU94_Auto3.uasset'
+[2023.12.05-21.32.05:705][314]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_1_0_0.Heightmap_4 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.32.05:711][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/OD/S2M5FK2PTLA1NDSXTE1A98_Auto3
+[2023.12.05-21.32.05:711][314]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/S2M5FK2PTLA1NDSXTE1A98_Auto388665D8D4EE67CEF241BEF8017A11438.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/OD/S2M5FK2PTLA1NDSXTE1A98_Auto3.uasset'
+[2023.12.05-21.32.05:717][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/KU/LU8T1UJDJWAYFI9YWPQ3UH_Auto3
+[2023.12.05-21.32.05:717][314]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/LU8T1UJDJWAYFI9YWPQ3UH_Auto3A61329FF4299FF6842240797F55F263A.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/KU/LU8T1UJDJWAYFI9YWPQ3UH_Auto3.uasset'
+[2023.12.05-21.32.05:718][314]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_0_0.Heightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.32.05:719][314]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_0_0.Heightmap_1 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.32.05:726][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/3G/1BYEO2KXZZ2WCRXBMJ0YO7_Auto3
+[2023.12.05-21.32.05:726][314]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/1BYEO2KXZZ2WCRXBMJ0YO7_Auto3F299BFA5496D1227DEFFAFA9D217D943.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/3G/1BYEO2KXZZ2WCRXBMJ0YO7_Auto3.uasset'
+[2023.12.05-21.32.05:727][314]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_0_0.Heightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.32.05:728][314]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_0_0.Heightmap_1 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.32.05:729][314]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_0_0.Heightmap_3 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.32.05:736][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/7Z/VSPRZ327YEE2Z3F0I37DC6_Auto3
+[2023.12.05-21.32.05:736][314]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/VSPRZ327YEE2Z3F0I37DC6_Auto38BD9421C4B7A79C70E65159B51AC4D5C.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/7Z/VSPRZ327YEE2Z3F0I37DC6_Auto3.uasset'
+[2023.12.05-21.32.05:742][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XB/UKOPGKPKJEZ5D1HBFBZ3EZ_Auto3
+[2023.12.05-21.32.05:742][314]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/UKOPGKPKJEZ5D1HBFBZ3EZ_Auto3B93C65444295D921FB9A63AA692B2C52.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XB/UKOPGKPKJEZ5D1HBFBZ3EZ_Auto3.uasset'
+[2023.12.05-21.32.05:744][314]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_1_0.Heightmap_1 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.32.05:745][314]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_1_0.Heightmap_3 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.32.05:751][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/HO/LWCLT7MEPBRTRBFWKJBV21_Auto3
+[2023.12.05-21.32.05:751][314]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/LWCLT7MEPBRTRBFWKJBV21_Auto356188A45482ABC3BFA6B6A8B118207FB.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/HO/LWCLT7MEPBRTRBFWKJBV21_Auto3.uasset'
+[2023.12.05-21.32.05:757][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/UF/KCEGQOJ44DC7RD5C6HK88D_Auto3
+[2023.12.05-21.32.05:757][314]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/KCEGQOJ44DC7RD5C6HK88D_Auto3B7631D7B4FAD154CEDFC18B75D40A21C.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/UF/KCEGQOJ44DC7RD5C6HK88D_Auto3.uasset'
+[2023.12.05-21.32.05:763][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/AG/PWZ7RPPEL1SKG5KGMORISF_Auto3
+[2023.12.05-21.32.05:763][314]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/PWZ7RPPEL1SKG5KGMORISF_Auto3BA929134450B0AAC90ECB0B4EE2BC103.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/AG/PWZ7RPPEL1SKG5KGMORISF_Auto3.uasset'
+[2023.12.05-21.32.05:769][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6P/GPW1RGUPVNMIPVAFY8WP6B_Auto3
+[2023.12.05-21.32.05:769][314]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/GPW1RGUPVNMIPVAFY8WP6B_Auto366B607384CAB946CAD5B06B21156F5BF.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6P/GPW1RGUPVNMIPVAFY8WP6B_Auto3.uasset'
+[2023.12.05-21.32.05:771][314]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_2_0.Heightmap_1 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.32.05:776][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/A2/JT8VUZEOP69TK0KEAADVC5_Auto3
+[2023.12.05-21.32.05:776][314]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/JT8VUZEOP69TK0KEAADVC5_Auto3CDE6C7404AF405BF946309B386882AAA.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/A2/JT8VUZEOP69TK0KEAADVC5_Auto3.uasset'
+[2023.12.05-21.32.05:782][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FH/H8UTW5Z9CW0PEWSGSNUC9M_Auto3
+[2023.12.05-21.32.05:782][314]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/H8UTW5Z9CW0PEWSGSNUC9M_Auto3658E21CA4504C58210185EB6B028EF89.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FH/H8UTW5Z9CW0PEWSGSNUC9M_Auto3.uasset'
+[2023.12.05-21.32.05:788][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/AX/UH2LHZ9CRFINDEIY6ZD5MM_Auto3
+[2023.12.05-21.32.05:788][314]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/UH2LHZ9CRFINDEIY6ZD5MM_Auto3BA4038E4484ED2D109B09E9769667509.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/AX/UH2LHZ9CRFINDEIY6ZD5MM_Auto3.uasset'
+[2023.12.05-21.32.05:789][314]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_1_0.Heightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.32.05:790][314]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_1_0.Heightmap_2 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.32.05:794][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/OD/62J46R0EALIDLGOIDUCEE3_Auto3
+[2023.12.05-21.32.05:794][314]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/62J46R0EALIDLGOIDUCEE3_Auto325FCD26545C32B702103818283AC5805.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/OD/62J46R0EALIDLGOIDUCEE3_Auto3.uasset'
+[2023.12.05-21.32.05:795][314]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_0_0.Heightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.32.05:796][314]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_0_0.Heightmap_2 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.32.05:800][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/WS/HLZNR2Q7FUD1Q1J3B1LVT2_Auto3
+[2023.12.05-21.32.05:800][314]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/HLZNR2Q7FUD1Q1J3B1LVT2_Auto3A51ACD4448A33CBBE50856B9915D4EF3.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/WS/HLZNR2Q7FUD1Q1J3B1LVT2_Auto3.uasset'
+[2023.12.05-21.32.05:802][314]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_-1_0.Heightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.32.05:806][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/FM/W27CZKFK4GP6QDHWNTPVQH_Auto3
+[2023.12.05-21.32.05:806][314]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/W27CZKFK4GP6QDHWNTPVQH_Auto3BABBCDEE424F915481861AB0E30B7753.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/FM/W27CZKFK4GP6QDHWNTPVQH_Auto3.uasset'
+[2023.12.05-21.32.05:810][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/EY/DARMVNXUUZ1U2NEZ60M2BM_Auto3
+[2023.12.05-21.32.05:810][314]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/DARMVNXUUZ1U2NEZ60M2BM_Auto36455C98B4F115CD9F85942B9B49685F8.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/EY/DARMVNXUUZ1U2NEZ60M2BM_Auto3.uasset'
+[2023.12.05-21.32.05:815][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/H3/O698JVRYLV3909C3NOVT9U_Auto3
+[2023.12.05-21.32.05:815][314]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/O698JVRYLV3909C3NOVT9U_Auto33B898AF34EACCF0C46EEFAA3140BC485.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/H3/O698JVRYLV3909C3NOVT9U_Auto3.uasset'
+[2023.12.05-21.32.05:820][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/1Y/47Y5HMIAENONUURRQET61K_Auto3
+[2023.12.05-21.32.05:820][314]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/47Y5HMIAENONUURRQET61K_Auto32DAD7FA34A34F8E9306AD8ADB7CED090.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/1Y/47Y5HMIAENONUURRQET61K_Auto3.uasset'
+[2023.12.05-21.32.05:824][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/A3/G369Y424H5PNUH85KWJGG5_Auto3
+[2023.12.05-21.32.05:824][314]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/G369Y424H5PNUH85KWJGG5_Auto3DAFDC305461E8851DA94ED9E1B444647.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/A3/G369Y424H5PNUH85KWJGG5_Auto3.uasset'
+[2023.12.05-21.32.05:825][314]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_-1_0.Heightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.32.05:826][314]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_-1_0.Heightmap_2 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.32.05:830][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/MV/6M7UJIPTZLWGXP7E3IDP6L_Auto3
+[2023.12.05-21.32.05:830][314]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/6M7UJIPTZLWGXP7E3IDP6L_Auto32B348F4C44AF358A95BB02944ADD6541.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/MV/6M7UJIPTZLWGXP7E3IDP6L_Auto3.uasset'
+[2023.12.05-21.32.05:832][314]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_1_-1_0.Heightmap_2 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.05-21.32.05:836][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/9X/MY27LOGSR8A5O435ZPDBXP_Auto3
+[2023.12.05-21.32.05:836][314]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/MY27LOGSR8A5O435ZPDBXP_Auto394E4F2BC40F7196204EFCDB7DBD119BE.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/9X/MY27LOGSR8A5O435ZPDBXP_Auto3.uasset'
+[2023.12.05-21.32.05:841][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/S5/J2CJ5AE6B4J8EAMTLMXLIS_Auto3
+[2023.12.05-21.32.05:841][314]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/J2CJ5AE6B4J8EAMTLMXLIS_Auto3E9047DF84B719AE5D4D0ED8310679B45.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/S5/J2CJ5AE6B4J8EAMTLMXLIS_Auto3.uasset'
+[2023.12.05-21.32.05:847][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/1E/2KVRRH6N3DYDV7MY91AQYD_Auto3
+[2023.12.05-21.32.05:847][314]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/2KVRRH6N3DYDV7MY91AQYD_Auto3AA6417D34209AF565F5B01ACF4FCC00D.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/1E/2KVRRH6N3DYDV7MY91AQYD_Auto3.uasset'
+[2023.12.05-21.32.05:854][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/PL/NLR8FBOPOBQAQ5TSOD41K9_Auto3
+[2023.12.05-21.32.05:854][314]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/NLR8FBOPOBQAQ5TSOD41K9_Auto3FD605C8549C502F91BD5559C2F456C32.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/PL/NLR8FBOPOBQAQ5TSOD41K9_Auto3.uasset'
+[2023.12.05-21.32.05:859][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/DI/FPTL9JXY9XC7PM04JM44DV_Auto3
+[2023.12.05-21.32.05:859][314]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/FPTL9JXY9XC7PM04JM44DV_Auto3883F893E40ED32D803E11CA6B53BF9DF.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/DI/FPTL9JXY9XC7PM04JM44DV_Auto3.uasset'
+[2023.12.05-21.32.05:864][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/LY/P99YL1QZKUPWCL71MNDDL3_Auto3
+[2023.12.05-21.32.05:864][314]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/P99YL1QZKUPWCL71MNDDL3_Auto382A026654B689D5506B8CC9EA82B5160.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/LY/P99YL1QZKUPWCL71MNDDL3_Auto3.uasset'
+[2023.12.05-21.32.05:868][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/VT/BVUFLM7O01K4NOE2L5THIN_Auto3
+[2023.12.05-21.32.05:868][314]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/BVUFLM7O01K4NOE2L5THIN_Auto36B3021F2417E74D746A2A2A50DFE2F63.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/VT/BVUFLM7O01K4NOE2L5THIN_Auto3.uasset'
+[2023.12.05-21.32.05:873][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/40/BCOMYOKS16XTV4E3HW1LID_Auto3
+[2023.12.05-21.32.05:873][314]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/BCOMYOKS16XTV4E3HW1LID_Auto381FBF6074C1A6FED112779ACF5055210.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/40/BCOMYOKS16XTV4E3HW1LID_Auto3.uasset'
+[2023.12.05-21.32.05:881][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/F6/7W4I4I5AEV9DDZYZHCLUSW_Auto3
+[2023.12.05-21.32.05:881][314]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/7W4I4I5AEV9DDZYZHCLUSW_Auto31F9F224C49F9359E7085E49296A2E364.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/F6/7W4I4I5AEV9DDZYZHCLUSW_Auto3.uasset'
+[2023.12.05-21.32.05:887][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/SH/LWPK6VKIBUHSIAGZZY65IY_Auto3
+[2023.12.05-21.32.05:887][314]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/LWPK6VKIBUHSIAGZZY65IY_Auto38BFB4B5E4F9BBB433BDF8D9DADD6E2EF.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/SH/LWPK6VKIBUHSIAGZZY65IY_Auto3.uasset'
+[2023.12.05-21.32.05:892][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/13/7VZ0SPJADTHILH6FN3KDMH_Auto3
+[2023.12.05-21.32.05:892][314]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/7VZ0SPJADTHILH6FN3KDMH_Auto34734BB7342E4065973FCA79185506C41.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/13/7VZ0SPJADTHILH6FN3KDMH_Auto3.uasset'
+[2023.12.05-21.32.05:896][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/YQ/QU5T9MU8352052GIJX3WSC_Auto3
+[2023.12.05-21.32.05:897][314]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/QU5T9MU8352052GIJX3WSC_Auto3BFF750BA47469AC9495DB28CC2AA3DD8.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/YQ/QU5T9MU8352052GIJX3WSC_Auto3.uasset'
+[2023.12.05-21.32.05:897][314]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.219
+[2023.12.05-21.32.05:897][314]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.219
+[2023.12.05-21.38.56:080][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.12.05-21.38.57:414][260]LogSlate: Window 'Save Content' being destroyed
+[2023.12.05-21.38.57:425][260]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.05-21.38.57:478][260]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/A3/G369Y424H5PNUH85KWJGG5
+[2023.12.05-21.38.57:478][260]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/G369Y424H5PNUH85KWJGG5FC0B6E2C49DA37755B6743B606C6F0D9.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/A3/G369Y424H5PNUH85KWJGG5.uasset'
+[2023.12.05-21.38.57:483][260]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/1Y/47Y5HMIAENONUURRQET61K
+[2023.12.05-21.38.57:483][260]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/47Y5HMIAENONUURRQET61KF7F7669B4FB288F892A71FBCA135C75A.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/1Y/47Y5HMIAENONUURRQET61K.uasset'
+[2023.12.05-21.38.57:489][260]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/PL/NLR8FBOPOBQAQ5TSOD41K9
+[2023.12.05-21.38.57:489][260]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/NLR8FBOPOBQAQ5TSOD41K9340622B74C9BA2DEDEB191A21C17CD8F.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/PL/NLR8FBOPOBQAQ5TSOD41K9.uasset'
+[2023.12.05-21.38.57:494][260]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/1E/2KVRRH6N3DYDV7MY91AQYD
+[2023.12.05-21.38.57:494][260]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/2KVRRH6N3DYDV7MY91AQYD585C3C2347B43CA50E6703A6730F0251.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/1E/2KVRRH6N3DYDV7MY91AQYD.uasset'
+[2023.12.05-21.38.57:499][260]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/S5/J2CJ5AE6B4J8EAMTLMXLIS
+[2023.12.05-21.38.57:499][260]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/J2CJ5AE6B4J8EAMTLMXLISD4E687474C54D34D57CCF69155DE5914.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/S5/J2CJ5AE6B4J8EAMTLMXLIS.uasset'
+[2023.12.05-21.38.57:502][260]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/VT/BVUFLM7O01K4NOE2L5THIN
+[2023.12.05-21.38.57:502][260]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/BVUFLM7O01K4NOE2L5THINF2C582434437FD372A69D79622064316.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/VT/BVUFLM7O01K4NOE2L5THIN.uasset'
+[2023.12.05-21.38.57:507][260]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/H3/O698JVRYLV3909C3NOVT9U
+[2023.12.05-21.38.57:507][260]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/O698JVRYLV3909C3NOVT9U9D22997642F4BF7E72A7DAA787E3E9B0.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/H3/O698JVRYLV3909C3NOVT9U.uasset'
+[2023.12.05-21.38.57:513][260]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8N/P5CMZ8XHNV2XYM7JUUQU94
+[2023.12.05-21.38.57:513][260]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/P5CMZ8XHNV2XYM7JUUQU94ADCC9AA9419AC352F356C49E6BCD0805.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8N/P5CMZ8XHNV2XYM7JUUQU94.uasset'
+[2023.12.05-21.38.57:519][260]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/KU/LU8T1UJDJWAYFI9YWPQ3UH
+[2023.12.05-21.38.57:520][260]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/LU8T1UJDJWAYFI9YWPQ3UH99FEE0784FA6008A471F20BDB3E87577.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/KU/LU8T1UJDJWAYFI9YWPQ3UH.uasset'
+[2023.12.05-21.38.57:526][260]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/UF/KCEGQOJ44DC7RD5C6HK88D
+[2023.12.05-21.38.57:526][260]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/KCEGQOJ44DC7RD5C6HK88D58719D884531D8AEAE0EDC8D736EDA8B.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/UF/KCEGQOJ44DC7RD5C6HK88D.uasset'
+[2023.12.05-21.38.57:532][260]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/AG/PWZ7RPPEL1SKG5KGMORISF
+[2023.12.05-21.38.57:532][260]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/PWZ7RPPEL1SKG5KGMORISF04A627F643436D208507379DF5221BCD.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/AG/PWZ7RPPEL1SKG5KGMORISF.uasset'
+[2023.12.05-21.38.57:537][260]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/40/BCOMYOKS16XTV4E3HW1LID
+[2023.12.05-21.38.57:537][260]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/BCOMYOKS16XTV4E3HW1LIDDE42542446EB973523F5C2A7844FBC27.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/40/BCOMYOKS16XTV4E3HW1LID.uasset'
+[2023.12.05-21.38.57:541][260]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/9X/MY27LOGSR8A5O435ZPDBXP
+[2023.12.05-21.38.57:541][260]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/MY27LOGSR8A5O435ZPDBXP37CE9B564AD9699A70DD4B839B8422FD.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/9X/MY27LOGSR8A5O435ZPDBXP.uasset'
+[2023.12.05-21.38.57:548][260]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/OD/S2M5FK2PTLA1NDSXTE1A98
+[2023.12.05-21.38.57:548][260]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/S2M5FK2PTLA1NDSXTE1A98E338770748BEEDE7502EE9B97569E1E7.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/OD/S2M5FK2PTLA1NDSXTE1A98.uasset'
+[2023.12.05-21.38.57:554][260]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6P/GPW1RGUPVNMIPVAFY8WP6B
+[2023.12.05-21.38.57:554][260]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/GPW1RGUPVNMIPVAFY8WP6B16F39036423454930BE9D78510B03448.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6P/GPW1RGUPVNMIPVAFY8WP6B.uasset'
+[2023.12.05-21.38.57:559][260]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/F6/7W4I4I5AEV9DDZYZHCLUSW
+[2023.12.05-21.38.57:559][260]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/7W4I4I5AEV9DDZYZHCLUSW05506DBF43E1A3769A0A9D982DCD0D6F.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/F6/7W4I4I5AEV9DDZYZHCLUSW.uasset'
+[2023.12.05-21.38.57:564][260]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/MV/6M7UJIPTZLWGXP7E3IDP6L
+[2023.12.05-21.38.57:564][260]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/6M7UJIPTZLWGXP7E3IDP6LDE8402EB4D05156C35C17AB4B75D73C4.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/MV/6M7UJIPTZLWGXP7E3IDP6L.uasset'
+[2023.12.05-21.38.57:570][260]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/3G/1BYEO2KXZZ2WCRXBMJ0YO7
+[2023.12.05-21.38.57:570][260]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/1BYEO2KXZZ2WCRXBMJ0YO7F9125EBA4D8200EBF002E3870DD1A092.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/3G/1BYEO2KXZZ2WCRXBMJ0YO7.uasset'
+[2023.12.05-21.38.57:577][260]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XB/UKOPGKPKJEZ5D1HBFBZ3EZ
+[2023.12.05-21.38.57:577][260]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/UKOPGKPKJEZ5D1HBFBZ3EZA7EB316F4F80913BCE27ED9D1E559C53.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XB/UKOPGKPKJEZ5D1HBFBZ3EZ.uasset'
+[2023.12.05-21.38.57:583][260]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FH/H8UTW5Z9CW0PEWSGSNUC9M
+[2023.12.05-21.38.57:583][260]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/H8UTW5Z9CW0PEWSGSNUC9M908DB7724038A9EB625EB599A2F34E4D.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FH/H8UTW5Z9CW0PEWSGSNUC9M.uasset'
+[2023.12.05-21.38.57:587][260]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/SH/LWPK6VKIBUHSIAGZZY65IY
+[2023.12.05-21.38.57:587][260]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/LWPK6VKIBUHSIAGZZY65IY745D389E498DFD5B7390139163C0CBC8.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/SH/LWPK6VKIBUHSIAGZZY65IY.uasset'
+[2023.12.05-21.38.57:592][260]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/FM/W27CZKFK4GP6QDHWNTPVQH
+[2023.12.05-21.38.57:592][260]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/W27CZKFK4GP6QDHWNTPVQH1202E086414C7866442507BA754A8293.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/FM/W27CZKFK4GP6QDHWNTPVQH.uasset'
+[2023.12.05-21.38.57:599][260]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/7Z/VSPRZ327YEE2Z3F0I37DC6
+[2023.12.05-21.38.57:599][260]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/VSPRZ327YEE2Z3F0I37DC601CBAE734E0352DEF38BB481BD32A412.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/7Z/VSPRZ327YEE2Z3F0I37DC6.uasset'
+[2023.12.05-21.38.57:606][260]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/HO/LWCLT7MEPBRTRBFWKJBV21
+[2023.12.05-21.38.57:606][260]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/LWCLT7MEPBRTRBFWKJBV21228E7FD248C64B342DA42C97D392CC3E.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/HO/LWCLT7MEPBRTRBFWKJBV21.uasset'
+[2023.12.05-21.38.57:612][260]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/A2/JT8VUZEOP69TK0KEAADVC5
+[2023.12.05-21.38.57:612][260]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/JT8VUZEOP69TK0KEAADVC5A8AEFCA84AE1CED9A070D6B5195EF5B1.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/A2/JT8VUZEOP69TK0KEAADVC5.uasset'
+[2023.12.05-21.38.57:618][260]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/AX/UH2LHZ9CRFINDEIY6ZD5MM
+[2023.12.05-21.38.57:618][260]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/UH2LHZ9CRFINDEIY6ZD5MM5028467D4B209E120FCF7BA811E55EB8.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/AX/UH2LHZ9CRFINDEIY6ZD5MM.uasset'
+[2023.12.05-21.38.57:623][260]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/13/7VZ0SPJADTHILH6FN3KDMH
+[2023.12.05-21.38.57:623][260]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/7VZ0SPJADTHILH6FN3KDMH0D69A5594FFB483659E9F898F5F1A616.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/13/7VZ0SPJADTHILH6FN3KDMH.uasset'
+[2023.12.05-21.38.57:626][260]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/EY/DARMVNXUUZ1U2NEZ60M2BM
+[2023.12.05-21.38.57:626][260]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/DARMVNXUUZ1U2NEZ60M2BM658BFA98465528A85E1DB89EE20DB604.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/EY/DARMVNXUUZ1U2NEZ60M2BM.uasset'
+[2023.12.05-21.38.57:630][260]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/WS/HLZNR2Q7FUD1Q1J3B1LVT2
+[2023.12.05-21.38.57:631][260]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/HLZNR2Q7FUD1Q1J3B1LVT2D4A307CE4EA4FB1F47050CA555ACCBD8.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/WS/HLZNR2Q7FUD1Q1J3B1LVT2.uasset'
+[2023.12.05-21.38.57:635][260]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/OD/62J46R0EALIDLGOIDUCEE3
+[2023.12.05-21.38.57:635][260]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/62J46R0EALIDLGOIDUCEE361911F6A48470264CC0DC1A593C46B35.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/OD/62J46R0EALIDLGOIDUCEE3.uasset'
+[2023.12.05-21.38.57:639][260]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/LY/P99YL1QZKUPWCL71MNDDL3
+[2023.12.05-21.38.57:639][260]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/P99YL1QZKUPWCL71MNDDL399D472DB42009A7F161A4792DA2D4D5A.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/LY/P99YL1QZKUPWCL71MNDDL3.uasset'
+[2023.12.05-21.38.57:643][260]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/DI/FPTL9JXY9XC7PM04JM44DV
+[2023.12.05-21.38.57:643][260]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/FPTL9JXY9XC7PM04JM44DVDC201A644CF416DA767CCAB2F709F3D9.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/DI/FPTL9JXY9XC7PM04JM44DV.uasset'
+[2023.12.05-21.38.57:647][260]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/YQ/QU5T9MU8352052GIJX3WSC
+[2023.12.05-21.38.57:647][260]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/QU5T9MU8352052GIJX3WSC836B096840B0058EBC82B28D260DBC3B.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/YQ/QU5T9MU8352052GIJX3WSC.uasset'
+[2023.12.05-21.38.57:672][260]LogFileHelpers: InternalPromptForCheckoutAndSave took 245 ms (total: 1.69 sec)
+[2023.12.05-21.38.57:734][260]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.12.05-21.38.57:734][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.05-21.38.57:780][260]LogSlate: Window 'Software_Dev_CA_2 - Unreal Editor' being destroyed
+[2023.12.05-21.38.57:831][260]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.05-21.38.57:831][260]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_-1_-1_0
+[2023.12.05-21.38.57:831][260]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_-1_0_0
+[2023.12.05-21.38.57:831][260]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_-1_1_0
+[2023.12.05-21.38.57:831][260]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_-1_2_0
+[2023.12.05-21.38.57:831][260]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_-1_3_0
+[2023.12.05-21.38.57:831][260]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_-1_4_0
+[2023.12.05-21.38.57:831][260]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_0_-1_0
+[2023.12.05-21.38.57:831][260]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_0_0_0
+[2023.12.05-21.38.57:831][260]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_0_1_0
+[2023.12.05-21.38.57:831][260]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_0_2_0
+[2023.12.05-21.38.57:831][260]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_0_3_0
+[2023.12.05-21.38.57:831][260]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_0_4_0
+[2023.12.05-21.38.57:831][260]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_1_-1_0
+[2023.12.05-21.38.57:831][260]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_1_0_0
+[2023.12.05-21.38.57:831][260]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_1_3_0
+[2023.12.05-21.38.57:831][260]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_1_4_0
+[2023.12.05-21.38.57:832][260]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_-1_0
+[2023.12.05-21.38.57:832][260]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_0_0
+[2023.12.05-21.38.57:832][260]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_1_0
+[2023.12.05-21.38.57:832][260]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_3_0
+[2023.12.05-21.38.57:832][260]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_4_0
+[2023.12.05-21.38.57:832][260]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_-1_0
+[2023.12.05-21.38.57:832][260]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_0_0
+[2023.12.05-21.38.57:832][260]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_1_0
+[2023.12.05-21.38.57:832][260]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_2_0
+[2023.12.05-21.38.57:832][260]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_3_0
+[2023.12.05-21.38.57:832][260]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_4_0
+[2023.12.05-21.38.57:832][260]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_-1_0
+[2023.12.05-21.38.57:832][260]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_0_0
+[2023.12.05-21.38.57:832][260]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_1_0
+[2023.12.05-21.38.57:832][260]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_2_0
+[2023.12.05-21.38.57:832][260]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_3_0
+[2023.12.05-21.38.57:832][260]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_4_0
+[2023.12.05-21.38.57:836][261]Cmd: QUIT_EDITOR
+[2023.12.05-21.38.57:836][261]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.12.05-21.38.57:839][261]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.12.05-21.38.57:839][261]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.12.05-21.38.57:839][261]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.12.05-21.38.57:842][261]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.12.05-21.38.57:847][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.05-21.38.57:847][261]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.12.05-21.38.57:851][261]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.12.05-21.38.58:786][261]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.12.05-21.38.58:786][261]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.12.05-21.38.58:786][261]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2023.12.05-21.38.58:786][261]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2023.12.05-21.38.58:786][261]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.12.05-21.38.58:787][261]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.12.05-21.38.58:792][261]LogAudio: Display: Audio Device Manager Shutdown
+[2023.12.05-21.38.58:792][261]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2023.12.05-21.38.58:796][261]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.12.05-21.38.58:796][261]LogExit: Preparing to exit.
+[2023.12.05-21.38.58:817][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.12.05-21.38.58:835][261]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.05-21.38.58:835][261]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.05-21.38.58:835][261]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.05-21.38.58:835][261]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.05-21.38.58:835][261]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.05-21.38.58:835][261]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.05-21.38.58:835][261]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.05-21.38.58:835][261]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.05-21.38.58:835][261]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.05-21.38.58:835][261]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.05-21.38.58:835][261]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.05-21.38.58:835][261]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.05-21.38.58:835][261]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.05-21.38.58:835][261]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.05-21.38.58:835][261]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.05-21.38.58:835][261]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.05-21.38.58:835][261]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.05-21.38.58:835][261]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.05-21.38.58:835][261]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.05-21.38.58:835][261]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.05-21.38.59:633][261]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.12.05-21.38.59:634][261]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.12.05-21.38.59:635][261]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.12.05-21.38.59:636][261]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.12.05-21.38.59:636][261]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.12.05-21.38.59:636][261]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.12.05-21.38.59:636][261]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.12.05-21.38.59:636][261]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.12.05-21.38.59:636][261]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.12.05-21.38.59:636][261]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.12.05-21.38.59:636][261]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.12.05-21.38.59:636][261]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.12.05-21.38.59:637][261]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.12.05-21.38.59:637][261]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.12.05-21.38.59:637][261]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.12.05-21.38.59:637][261]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.12.05-21.38.59:638][261]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.12.05-21.38.59:638][261]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.12.05-21.38.59:638][261]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.12.05-21.38.59:638][261]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.12.05-21.38.59:638][261]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.12.05-21.38.59:638][261]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.12.05-21.38.59:638][261]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.12.05-21.38.59:638][261]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.12.05-21.38.59:697][261]LogDirectoryWatcher: Display: Refresh of ReadDirectoryChangesW failed. GetLastError code [6] Handle [FFFFFFFFFFFFFFFF], Path [D:/Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/]. Aborting watch request...
+[2023.12.05-21.38.59:738][261]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.12.05-21.38.59:763][261]LogExit: Editor shut down
+[2023.12.05-21.38.59:765][261]LogExit: Transaction tracking system shut down
+[2023.12.05-21.38.59:894][261]LogExit: Object subsystem successfully closed.
+[2023.12.05-21.38.59:900][261]LogShaderCompilers: Display: ================================================
+[2023.12.05-21.38.59:900][261]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.05-21.38.59:900][261]LogShaderCompilers: Display: Total job queries 501, among them cache hits 0 (0.00%)
+[2023.12.05-21.38.59:900][261]LogShaderCompilers: Display: Tracking 501 distinct input hashes that result in 257 distinct outputs (51.30%)
+[2023.12.05-21.38.59:900][261]LogShaderCompilers: Display: RAM used: 11.79 MiB of 1.60 GiB budget. Usage: 0.72%
+[2023.12.05-21.38.59:900][261]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.05-21.38.59:900][261]LogShaderCompilers: Display: Shaders Compiled: 501
+[2023.12.05-21.38.59:900][261]LogShaderCompilers: Display: Jobs assigned 501, completed 501 (100%)
+[2023.12.05-21.38.59:900][261]LogShaderCompilers: Display: Average time worker was idle: 93.24 s
+[2023.12.05-21.38.59:900][261]LogShaderCompilers: Display: Time job spent in pending queue: average 2.29 s, longest 7.12 s
+[2023.12.05-21.38.59:900][261]LogShaderCompilers: Display: Job execution time: average 1.73 s, max 4.69 s
+[2023.12.05-21.38.59:900][261]LogShaderCompilers: Display: Job life time (pending + execution): average 4.02 s, max 7.45
+[2023.12.05-21.38.59:900][261]LogShaderCompilers: Display: Shader code size: average 45.524 KiB, min 2.262 KiB, max 74.742 KiB
+[2023.12.05-21.38.59:900][261]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 18.06 s
+[2023.12.05-21.38.59:900][261]LogShaderCompilers: Display: Jobs were issued in 239 batches (only local compilation was used), average 2.10 jobs/batch
+[2023.12.05-21.38.59:900][261]LogShaderCompilers: Display: Average processing rate: 27.75 jobs/sec
+[2023.12.05-21.38.59:900][261]LogShaderCompilers: Display: Total thread time: 173.275 s
+[2023.12.05-21.38.59:900][261]LogShaderCompilers: Display: Total thread preprocess time: 11.83 s
+[2023.12.05-21.38.59:900][261]LogShaderCompilers: Display: Percentage time preprocessing: 6.83%
+[2023.12.05-21.38.59:900][261]LogShaderCompilers: Display: Effective parallelization: 9.60 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.12.05-21.38.59:900][261]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.12.05-21.38.59:900][261]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    3 times, average 0.79 sec, max 0.86 sec, min 0.70 sec)
+[2023.12.05-21.38.59:900][261]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    8 times, average 0.68 sec, max 1.46 sec, min 0.21 sec)
+[2023.12.05-21.38.59:900][261]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    8 times, average 0.68 sec, max 1.43 sec, min 0.21 sec)
+[2023.12.05-21.38.59:900][261]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled    8 times, average 0.68 sec, max 1.42 sec, min 0.19 sec)
+[2023.12.05-21.38.59:900][261]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    8 times, average 0.68 sec, max 1.50 sec, min 0.22 sec)
+[2023.12.05-21.38.59:900][261]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.12.05-21.38.59:900][261]LogShaderCompilers: Display:                                             FDebugViewModePS - 9.98% of total time (compiled   50 times, average 0.35 sec, max 0.74 sec, min 0.21 sec)
+[2023.12.05-21.38.59:900][261]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.79% of total time (compiled   50 times, average 0.34 sec, max 1.23 sec, min 0.21 sec)
+[2023.12.05-21.38.59:900][261]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.78% of total time (compiled   47 times, average 0.32 sec, max 0.44 sec, min 0.12 sec)
+[2023.12.05-21.38.59:900][261]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.62% of total time (compiled   44 times, average 0.34 sec, max 1.27 sec, min 0.21 sec)
+[2023.12.05-21.38.59:900][261]LogShaderCompilers: Display:                                             FDebugViewModeVS - 6.14% of total time (compiled   47 times, average 0.23 sec, max 0.31 sec, min 0.11 sec)
+[2023.12.05-21.38.59:900][261]LogShaderCompilers: Display: ================================================
+[2023.12.05-21.38.59:911][261]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.12.05-21.38.59:927][261]LogVirtualization: UE::Virtualization was shutdown
+[2023.12.05-21.38.59:940][261]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1054)
+[2023.12.05-21.38.59:940][261]LogModuleManager: Shutting down and abandoning module Voice (1052)
+[2023.12.05-21.38.59:940][261]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1050)
+[2023.12.05-21.38.59:940][261]LogModuleManager: Shutting down and abandoning module SceneOutliner (1048)
+[2023.12.05-21.38.59:940][261]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1046)
+[2023.12.05-21.38.59:940][261]LogModuleManager: Shutting down and abandoning module StatusBar (1044)
+[2023.12.05-21.38.59:940][261]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1042)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1040)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module DataLayerEditor (1038)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module StatsViewer (1036)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module AddContentDialog (1034)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1033)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1030)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module AutomationWorker (1028)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (1026)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (1024)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (1022)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (1020)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module WebMMedia (1018)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (1016)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (1014)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module SequenceRecorder (1013)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (1010)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (1008)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (1006)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (1004)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (1002)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (1000)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (998)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (996)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (994)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (992)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module TextureAlignMode (990)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module BspMode (988)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module GeometryMode (986)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (984)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module WaveTableEditor (982)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (980)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module RigVMEditor (978)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (976)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module GooglePADEditor (974)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (972)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (970)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module PlanarCut (968)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module FractureEngine (966)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module CharacterAI (964)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module IKRigEditor (962)
+[2023.12.05-21.38.59:941][261]LogModuleManager: Shutting down and abandoning module ControlRigEditor (960)
+[2023.12.05-21.38.59:942][261]LogModuleManager: Shutting down and abandoning module SmartSnapping (958)
+[2023.12.05-21.38.59:942][261]LogModuleManager: Shutting down and abandoning module SessionServices (956)
+[2023.12.05-21.38.59:943][261]LogModuleManager: Shutting down and abandoning module MeshPaint (954)
+[2023.12.05-21.38.59:943][261]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (952)
+[2023.12.05-21.38.59:943][261]LogModuleManager: Shutting down and abandoning module PlacementMode (951)
+[2023.12.05-21.38.59:943][261]LogModuleManager: Shutting down and abandoning module FoliageEdit (948)
+[2023.12.05-21.38.59:943][261]LogModuleManager: Shutting down and abandoning module LandscapeEditor (946)
+[2023.12.05-21.38.59:943][261]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (944)
+[2023.12.05-21.38.59:943][261]LogModuleManager: Shutting down and abandoning module ActorPickerMode (942)
+[2023.12.05-21.38.59:943][261]LogModuleManager: Shutting down and abandoning module ViewportSnapping (940)
+[2023.12.05-21.38.59:943][261]LogModuleManager: Shutting down and abandoning module EditorWidgets (938)
+[2023.12.05-21.38.59:943][261]LogModuleManager: Shutting down and abandoning module ViewportInteraction (936)
+[2023.12.05-21.38.59:943][261]LogModuleManager: Shutting down and abandoning module ClothPainter (934)
+[2023.12.05-21.38.59:943][261]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (933)
+[2023.12.05-21.38.59:943][261]LogModuleManager: Shutting down and abandoning module WidgetRegistration (930)
+[2023.12.05-21.38.59:943][261]LogModuleManager: Shutting down and abandoning module LogVisualizer (928)
+[2023.12.05-21.38.59:943][261]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (926)
+[2023.12.05-21.38.59:943][261]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (924)
+[2023.12.05-21.38.59:943][261]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (923)
+[2023.12.05-21.38.59:943][261]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (921)
+[2023.12.05-21.39.00:894][261]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (918)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module MacPlatformEditor (916)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (914)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (912)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (910)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (908)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module AnimationSettings (906)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (904)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module CSVtoSVG (902)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (900)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module EditorConfig (898)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module EditorFramework (896)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (894)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module TraceInsights (892)
+[2023.12.05-21.39.00:895][261]MemoryProfiler: Shutdown
+[2023.12.05-21.39.00:895][261]NetworkingProfiler: Shutdown
+[2023.12.05-21.39.00:895][261]LoadingProfiler: Shutdown
+[2023.12.05-21.39.00:895][261]TimingProfiler: Shutdown
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module TraceServices (891)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module TraceAnalysis (890)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (886)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (885)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module InputBindingEditor (882)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module MergeActors (880)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (878)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module LocalizationService (877)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module HardwareTargeting (874)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (872)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module UndoHistory (870)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module XmlParser (868)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module Blutility (866)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (864)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (863)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (860)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (859)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module SettingsEditor (856)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module ProjectLauncher (854)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module SessionFrontend (852)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module ProfilerClient (850)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module DeviceManager (848)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module AutomationController (846)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module AutomationWindow (844)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module Layers (842)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (840)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module DetailCustomizations (838)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module PackagesDialog (836)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (834)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module Persona (832)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (831)
+[2023.12.05-21.39.00:895][261]LogModuleManager: Shutting down and abandoning module Kismet (828)
+[2023.12.05-21.39.00:905][261]LogModuleManager: Shutting down and abandoning module KismetWidgets (827)
+[2023.12.05-21.39.00:905][261]LogModuleManager: Shutting down and abandoning module GraphEditor (824)
+[2023.12.05-21.39.00:905][261]LogModuleManager: Shutting down and abandoning module StructViewer (822)
+[2023.12.05-21.39.00:905][261]LogModuleManager: Shutting down and abandoning module ClassViewer (820)
+[2023.12.05-21.39.00:905][261]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (818)
+[2023.12.05-21.39.00:905][261]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (816)
+[2023.12.05-21.39.00:905][261]LogModuleManager: Shutting down and abandoning module SourceControlWindows (814)
+[2023.12.05-21.39.00:905][261]LogModuleManager: Shutting down and abandoning module OutputLog (812)
+[2023.12.05-21.39.00:906][261]LogModuleManager: Shutting down and abandoning module Documentation (810)
+[2023.12.05-21.39.00:906][261]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (808)
+[2023.12.05-21.39.00:906][261]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (806)
+[2023.12.05-21.39.00:906][261]LogModuleManager: Shutting down and abandoning module MovieScene (804)
+[2023.12.05-21.39.00:906][261]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (802)
+[2023.12.05-21.39.00:906][261]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (800)
+[2023.12.05-21.39.00:906][261]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (798)
+[2023.12.05-21.39.00:906][261]LogModuleManager: Shutting down and abandoning module AudioMixer (797)
+[2023.12.05-21.39.00:906][261]LogModuleManager: Shutting down and abandoning module AudioMixerCore (796)
+[2023.12.05-21.39.00:906][261]LogModuleManager: Shutting down and abandoning module LauncherPlatform (792)
+[2023.12.05-21.39.00:906][261]LogModuleManager: Shutting down and abandoning module AnalyticsET (790)
+[2023.12.05-21.39.00:906][261]LogModuleManager: Shutting down and abandoning module PortalServices (788)
+[2023.12.05-21.39.00:906][261]LogModuleManager: Shutting down and abandoning module PortalRpc (786)
+[2023.12.05-21.39.00:906][261]LogModuleManager: Shutting down and abandoning module MessagingRpc (784)
+[2023.12.05-21.39.00:906][261]LogModuleManager: Shutting down and abandoning module AIModule (782)
+[2023.12.05-21.39.00:906][261]LogModuleManager: Shutting down and abandoning module GameplayDebugger (781)
+[2023.12.05-21.39.00:906][261]LogModuleManager: Shutting down and abandoning module AITestSuite (779)
+[2023.12.05-21.39.00:906][261]LogModuleManager: Shutting down and abandoning module NavigationSystem (777)
+[2023.12.05-21.39.00:906][261]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (774)
+[2023.12.05-21.39.00:906][261]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (772)
+[2023.12.05-21.39.00:906][261]LogModuleManager: Shutting down and abandoning module TypedElementFramework (770)
+[2023.12.05-21.39.00:906][261]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (768)
+[2023.12.05-21.39.00:906][261]LogModuleManager: Shutting down and abandoning module ProfilerService (766)
+[2023.12.05-21.39.01:158][261]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (764)
+[2023.12.05-21.39.01:158][261]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (762)
+[2023.12.05-21.39.01:158][261]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (760)
+[2023.12.05-21.39.01:158][261]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (758)
+[2023.12.05-21.39.01:158][261]LogModuleManager: Shutting down and abandoning module TakesCore (756)
+[2023.12.05-21.39.01:158][261]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (754)
+[2023.12.05-21.39.01:158][261]LogModuleManager: Shutting down and abandoning module MegascansPlugin (752)
+[2023.12.05-21.39.01:158][261]LogModuleManager: Shutting down and abandoning module Bridge (750)
+[2023.12.05-21.39.01:158][261]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (748)
+[2023.12.05-21.39.01:158][261]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (746)
+[2023.12.05-21.39.01:158][261]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (744)
+[2023.12.05-21.39.01:158][261]LogModuleManager: Shutting down and abandoning module CollectionManager (743)
+[2023.12.05-21.39.01:158][261]LogModuleManager: Shutting down and abandoning module PortableObjectFileDataSource (740)
+[2023.12.05-21.39.01:158][261]LogModuleManager: Shutting down and abandoning module LightMixer (738)
+[2023.12.05-21.39.01:158][261]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (736)
+[2023.12.05-21.39.01:158][261]LogModuleManager: Shutting down and abandoning module VariantManager (734)
+[2023.12.05-21.39.01:158][261]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (732)
+[2023.12.05-21.39.01:158][261]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (730)
+[2023.12.05-21.39.01:158][261]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (728)
+[2023.12.05-21.39.01:158][261]LogModuleManager: Shutting down and abandoning module MediaPlate (726)
+[2023.12.05-21.39.01:158][261]LogModuleManager: Shutting down and abandoning module MediaCompositing (724)
+[2023.12.05-21.39.01:158][261]LogModuleManager: Shutting down and abandoning module ImgMedia (722)
+[2023.12.05-21.39.01:158][261]LogModuleManager: Shutting down and abandoning module TakeSequencer (720)
+[2023.12.05-21.39.01:158][261]LogModuleManager: Shutting down and abandoning module TakeMovieScene (718)
+[2023.12.05-21.39.01:158][261]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (716)
+[2023.12.05-21.39.01:158][261]LogModuleManager: Shutting down and abandoning module InterchangeTests (714)
+[2023.12.05-21.39.01:158][261]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (712)
+[2023.12.05-21.39.01:159][261]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (710)
+[2023.12.05-21.39.01:159][261]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (708)
+[2023.12.05-21.39.01:159][261]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (706)
+[2023.12.05-21.39.01:159][261]LogModuleManager: Shutting down and abandoning module InterchangeExport (704)
+[2023.12.05-21.39.01:159][261]LogModuleManager: Shutting down and abandoning module InterchangeMessages (702)
+[2023.12.05-21.39.01:159][261]LogModuleManager: Shutting down and abandoning module GLTFCore (700)
+[2023.12.05-21.39.01:159][261]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (698)
+[2023.12.05-21.39.01:159][261]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (696)
+[2023.12.05-21.39.01:159][261]LogModuleManager: Shutting down and abandoning module InterchangeEditor (694)
+[2023.12.05-21.39.01:159][261]LogModuleManager: Shutting down and abandoning module AlembicImporter (692)
+[2023.12.05-21.39.01:159][261]LogModuleManager: Shutting down and abandoning module AlembicLibrary (691)
+[2023.12.05-21.39.01:159][261]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (688)
+[2023.12.05-21.39.01:159][261]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (686)
+[2023.12.05-21.39.01:159][261]LogModuleManager: Shutting down and abandoning module UObjectPlugin (684)
+[2023.12.05-21.39.01:159][261]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (682)
+[2023.12.05-21.39.01:159][261]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (680)
+[2023.12.05-21.39.01:159][261]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (678)
+[2023.12.05-21.39.01:159][261]LogModuleManager: Shutting down and abandoning module TemplateSequence (676)
+[2023.12.05-21.39.01:159][261]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (674)
+[2023.12.05-21.39.01:159][261]LogModuleManager: Shutting down and abandoning module SequencerScripting (672)
+[2023.12.05-21.39.01:159][261]LogModuleManager: Shutting down and abandoning module PluginUtils (670)
+[2023.12.05-21.39.01:159][261]LogModuleManager: Shutting down and abandoning module N10XSourceCodeAccess (668)
+[2023.12.05-21.39.01:159][261]LogModuleManager: Shutting down and abandoning module GitSourceControl (666)
+[2023.12.05-21.39.01:159][261]LogModuleManager: Shutting down and abandoning module DumpGPUServices (664)
+[2023.12.05-21.39.01:159][261]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (662)
+[2023.12.05-21.39.01:159][261]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (660)
+[2023.12.05-21.39.01:159][261]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (658)
+[2023.12.05-21.39.01:159][261]LogModuleManager: Shutting down and abandoning module UVEditorTools (656)
+[2023.12.05-21.39.01:159][261]LogModuleManager: Shutting down and abandoning module UVEditor (654)
+[2023.12.05-21.39.01:159][261]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (652)
+[2023.12.05-21.39.01:159][261]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (650)
+[2023.12.05-21.39.01:159][261]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (648)
+[2023.12.05-21.39.01:159][261]LogModuleManager: Shutting down and abandoning module PluginBrowser (646)
+[2023.12.05-21.39.01:159][261]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (644)
+[2023.12.05-21.39.01:159][261]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (642)
+[2023.12.05-21.39.01:160][261]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (640)
+[2023.12.05-21.39.01:160][261]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (638)
+[2023.12.05-21.39.01:160][261]LogModuleManager: Shutting down and abandoning module EditorDebugTools (636)
+[2023.12.05-21.39.01:160][261]LogModuleManager: Shutting down and abandoning module CurveEditorTools (634)
+[2023.12.05-21.39.01:160][261]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (632)
+[2023.12.05-21.39.01:160][261]LogModuleManager: Shutting down and abandoning module CryptoKeys (630)
+[2023.12.05-21.39.01:160][261]LogModuleManager: Shutting down and abandoning module ChangelistReview (628)
+[2023.12.05-21.39.01:160][261]LogModuleManager: Shutting down and abandoning module SynthesisEditor (626)
+[2023.12.05-21.39.01:160][261]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (624)
+[2023.12.05-21.39.01:160][261]LogModuleManager: Shutting down and abandoning module ResonanceAudio (622)
+[2023.12.05-21.39.01:160][261]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (620)
+[2023.12.05-21.39.01:160][261]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (618)
+[2023.12.05-21.39.01:160][261]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (616)
+[2023.12.05-21.39.01:160][261]LogModuleManager: Shutting down and abandoning module ModelingOperators (614)
+[2023.12.05-21.39.01:160][261]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (612)
+[2023.12.05-21.39.01:160][261]LogModuleManager: Shutting down and abandoning module ModelingComponents (610)
+[2023.12.05-21.39.01:160][261]LogModuleManager: Shutting down and abandoning module GeometryFramework (609)
+[2023.12.05-21.39.01:160][261]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (606)
+[2023.12.05-21.39.01:160][261]LogModuleManager: Shutting down and abandoning module MeshModelingTools (604)
+[2023.12.05-21.39.01:160][261]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (602)
+[2023.12.05-21.39.01:160][261]LogModuleManager: Shutting down and abandoning module InputDebugging (600)
+[2023.12.05-21.39.01:160][261]LogModuleManager: Shutting down and abandoning module GooglePAD (598)
+[2023.12.05-21.39.01:160][261]LogModuleManager: Shutting down and abandoning module DynamicMesh (596)
+[2023.12.05-21.39.01:160][261]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (594)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (592)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module GeometryCache (590)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (588)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (586)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (584)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module AudioCapture (582)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module AudioCaptureWasapi (581)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (578)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module AssetTags (576)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (574)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module AppleImageUtils (572)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module AndroidPermission (570)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (568)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (566)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module ToolPresetEditor (564)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module ToolPresetAsset (562)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module StructUtilsTestSuite (560)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module StructUtilsNodes (558)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module StructUtilsEditor (556)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module StructUtilsEngine (554)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (552)
+[2023.12.05-21.39.01:161][261]LogOpenImageDenoise: OIDN shutting down
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module SkeletalMeshModifiers (550)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (548)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (546)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (544)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (542)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module LocalizableMessageBlueprint (540)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module LocalizableMessage (538)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module MeshLODToolset (536)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (534)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (532)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (531)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (529)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (526)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (524)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (522)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (520)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module DataflowNodes (518)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (516)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module DataflowEditor (514)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (512)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (510)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module ChaosNiagara (508)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (506)
+[2023.12.05-21.39.01:161][261]LogModuleManager: Shutting down and abandoning module FractureEditor (504)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module BackChannel (502)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (500)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module AutomationUtils (498)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module ControlRigSpline (496)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (494)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (492)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module ACLPluginEditor (490)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (486)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (484)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module Paper2DEditor (482)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (480)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module TraceUtilities (478)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (476)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (474)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module InputEditor (472)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (470)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (468)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module Niagara (466)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module NiagaraEditor (465)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module NiagaraCore (462)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module InterchangePipelines (460)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module InterchangeImport (458)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (456)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module InterchangeNodes (454)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (452)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (450)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module ActorSequence (448)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module AnimationSharing (446)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (444)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (442)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module FacialAnimation (440)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module DataValidation (438)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module Synthesis (436)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (434)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module ContentBrowser (433)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module ContentBrowserData (432)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module TreeMap (429)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module SoundFields (426)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module GameplayCameras (424)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module SignificanceManager (422)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module RigVMDeveloper (420)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module RigVM (418)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (416)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (414)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module MsQuicRuntime (412)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module MetasoundEditor (410)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module ToolMenus (409)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module AudioWidgets (407)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (406)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (402)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module MetasoundEngine (400)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module WaveTable (399)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (397)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (394)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (392)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (390)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (388)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (386)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (380)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (379)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (376)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module SignalProcessing (375)
+[2023.12.05-21.39.01:162][261]LogModuleManager: Shutting down and abandoning module UdpMessaging (372)
+[2023.12.05-21.39.01:263][261]LogModuleManager: Shutting down and abandoning module TcpMessaging (370)
+[2023.12.05-21.39.01:363][261]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (368)
+[2023.12.05-21.39.01:363][261]LogModuleManager: Shutting down and abandoning module StructUtils (366)
+[2023.12.05-21.39.01:363][261]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (364)
+[2023.12.05-21.39.01:388][261]LogModuleManager: Shutting down and abandoning module PBIK (362)
+[2023.12.05-21.39.01:388][261]LogModuleManager: Shutting down and abandoning module FullBodyIK (360)
+[2023.12.05-21.39.01:388][261]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (358)
+[2023.12.05-21.39.01:388][261]LogModuleManager: Shutting down and abandoning module TakeRecorder (357)
+[2023.12.05-21.39.01:388][261]LogModuleManager: Shutting down and abandoning module LevelEditor (355)
+[2023.12.05-21.39.01:390][261]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (354)
+[2023.12.05-21.39.01:390][261]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (352)
+[2023.12.05-21.39.01:390][261]LogModuleManager: Shutting down and abandoning module MainFrame (350)
+[2023.12.05-21.39.01:390][261]LogModuleManager: Shutting down and abandoning module HotReload (349)
+[2023.12.05-21.39.01:390][261]LogModuleManager: Shutting down and abandoning module ChaosCaching (344)
+[2023.12.05-21.39.01:390][261]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (342)
+[2023.12.05-21.39.01:390][261]LogModuleManager: Shutting down and abandoning module IKRig (340)
+[2023.12.05-21.39.01:390][261]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (338)
+[2023.12.05-21.39.01:390][261]LogModuleManager: Shutting down and abandoning module ControlRig (336)
+[2023.12.05-21.39.01:390][261]LogModuleManager: Shutting down and abandoning module Constraints (335)
+[2023.12.05-21.39.01:390][261]LogModuleManager: Shutting down and abandoning module LevelSequence (333)
+[2023.12.05-21.39.01:390][261]LogModuleManager: Shutting down and abandoning module AnimationData (330)
+[2023.12.05-21.39.01:390][261]LogModuleManager: Shutting down and abandoning module Paper2D (328)
+[2023.12.05-21.39.01:390][261]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (326)
+[2023.12.05-21.39.01:390][261]LogModuleManager: Shutting down and abandoning module BlueprintGraph (325)
+[2023.12.05-21.39.01:391][261]LogModuleManager: Shutting down and abandoning module EnhancedInput (322)
+[2023.12.05-21.39.01:391][261]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (320)
+[2023.12.05-21.39.01:392][261]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (318)
+[2023.12.05-21.39.01:392][261]LogModuleManager: Shutting down and abandoning module AndroidFileServer (316)
+[2023.12.05-21.39.01:392][261]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (314)
+[2023.12.05-21.39.01:392][261]LogModuleManager: Shutting down and abandoning module PacketHandler (312)
+[2023.12.05-21.39.01:392][261]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (310)
+[2023.12.05-21.39.01:392][261]LogModuleManager: Shutting down and abandoning module AnimGraph (308)
+[2023.12.05-21.39.01:392][261]LogModuleManager: Shutting down and abandoning module TimeManagement (306)
+[2023.12.05-21.39.01:392][261]LogModuleManager: Shutting down and abandoning module AnimationDataController (304)
+[2023.12.05-21.39.01:392][261]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (302)
+[2023.12.05-21.39.01:392][261]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (300)
+[2023.12.05-21.39.01:392][261]LogModuleManager: Shutting down and abandoning module MediaAssets (298)
+[2023.12.05-21.39.01:392][261]LogModuleManager: Shutting down and abandoning module Overlay (296)
+[2023.12.05-21.39.01:392][261]LogModuleManager: Shutting down and abandoning module OverlayEditor (295)
+[2023.12.05-21.39.01:392][261]LogModuleManager: Shutting down and abandoning module VREditor (292)
+[2023.12.05-21.39.01:392][261]LogModuleManager: Shutting down and abandoning module StringTableEditor (290)
+[2023.12.05-21.39.01:392][261]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (288)
+[2023.12.05-21.39.01:392][261]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (286)
+[2023.12.05-21.39.01:392][261]LogModuleManager: Shutting down and abandoning module FunctionalTesting (284)
+[2023.12.05-21.39.01:392][261]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (282)
+[2023.12.05-21.39.01:392][261]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (281)
+[2023.12.05-21.39.01:392][261]LogModuleManager: Shutting down and abandoning module ScriptableEditorWidgets (278)
+[2023.12.05-21.39.01:392][261]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2023.12.05-21.39.01:392][261]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2023.12.05-21.39.01:392][261]LogModuleManager: Shutting down and abandoning module EditorStyle (270)
+[2023.12.05-21.39.01:392][261]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2023.12.05-21.39.01:392][261]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2023.12.05-21.39.01:392][261]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2023.12.05-21.39.01:393][261]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (262)
+[2023.12.05-21.39.01:393][261]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (260)
+[2023.12.05-21.39.01:393][261]LogModuleManager: Shutting down and abandoning module UnrealEd (258)
+[2023.12.05-21.39.01:393][261]LogModuleManager: Shutting down and abandoning module MRMesh (256)
+[2023.12.05-21.39.01:393][261]LogModuleManager: Shutting down and abandoning module Messaging (254)
+[2023.12.05-21.39.01:393][261]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (252)
+[2023.12.05-21.39.01:393][261]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (250)
+[2023.12.05-21.39.01:393][261]LogModuleManager: Shutting down and abandoning module LiveCoding (248)
+[2023.12.05-21.39.01:401][261]LogModuleManager: Shutting down and abandoning module Networking (246)
+[2023.12.05-21.39.01:401][261]LogModuleManager: Shutting down and abandoning module Core (244)
+[2023.12.05-21.39.01:401][261]LogModuleManager: Shutting down and abandoning module AssetDefinition (242)
+[2023.12.05-21.39.01:401][261]LogModuleManager: Shutting down and abandoning module MovieSceneTools (240)
+[2023.12.05-21.39.01:401][261]LogModuleManager: Shutting down and abandoning module CurveEditor (239)
+[2023.12.05-21.39.01:401][261]LogModuleManager: Shutting down and abandoning module Sequencer (237)
+[2023.12.05-21.39.01:401][261]LogModuleManager: Shutting down and abandoning module KismetCompiler (234)
+[2023.12.05-21.39.01:401][261]LogModuleManager: Shutting down and abandoning module MeshBuilder (232)
+[2023.12.05-21.39.01:401][261]LogModuleManager: Shutting down and abandoning module NaniteBuilder (230)
+[2023.12.05-21.39.01:401][261]LogModuleManager: Shutting down and abandoning module MeshUtilities (228)
+[2023.12.05-21.39.01:401][261]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (227)
+[2023.12.05-21.39.01:402][261]LogModuleManager: Shutting down and abandoning module StaticMeshDescription (226)
+[2023.12.05-21.39.01:402][261]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (225)
+[2023.12.05-21.39.01:402][261]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (222)
+[2023.12.05-21.39.01:402][261]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (221)
+[2023.12.05-21.39.01:402][261]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (219)
+[2023.12.05-21.39.01:402][261]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (217)
+[2023.12.05-21.39.01:402][261]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (215)
+[2023.12.05-21.39.01:402][261]LogModuleManager: Shutting down and abandoning module MaterialBaking (211)
+[2023.12.05-21.39.01:402][261]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (208)
+[2023.12.05-21.39.01:412][261]LogModuleManager: Shutting down and abandoning module TelemetryUtils (205)
+[2023.12.05-21.39.01:412][261]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (202)
+[2023.12.05-21.39.01:412][261]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (200)
+[2023.12.05-21.39.01:412][261]LogModuleManager: Shutting down and abandoning module DerivedDataCache (198)
+[2023.12.05-21.39.01:415][261]LogModuleManager: Shutting down and abandoning module TargetPlatform (196)
+[2023.12.05-21.39.01:415][261]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (195)
+[2023.12.05-21.39.01:415][261]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2023.12.05-21.39.01:415][261]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (191)
+[2023.12.05-21.39.01:415][261]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (189)
+[2023.12.05-21.39.01:415][261]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (187)
+[2023.12.05-21.39.01:415][261]LogModuleManager: Shutting down and abandoning module AudioFormatBINK (185)
+[2023.12.05-21.39.01:415][261]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (183)
+[2023.12.05-21.39.01:415][261]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (181)
+[2023.12.05-21.39.01:415][261]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (179)
+[2023.12.05-21.39.01:415][261]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (177)
+[2023.12.05-21.39.01:415][261]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (175)
+[2023.12.05-21.39.01:415][261]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (173)
+[2023.12.05-21.39.01:415][261]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (171)
+[2023.12.05-21.39.01:415][261]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (169)
+[2023.12.05-21.39.01:415][261]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (167)
+[2023.12.05-21.39.01:415][261]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (165)
+[2023.12.05-21.39.01:415][261]LogModuleManager: Shutting down and abandoning module TextureFormat (163)
+[2023.12.05-21.39.01:415][261]LogModuleManager: Shutting down and abandoning module ImageWrapper (162)
+[2023.12.05-21.39.01:415][261]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (160)
+[2023.12.05-21.39.01:415][261]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (158)
+[2023.12.05-21.39.01:415][261]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (156)
+[2023.12.05-21.39.01:415][261]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (154)
+[2023.12.05-21.39.01:415][261]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (152)
+[2023.12.05-21.39.01:415][261]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (150)
+[2023.12.05-21.39.01:415][261]LogModuleManager: Shutting down and abandoning module TurnkeySupport (147)
+[2023.12.05-21.39.01:415][261]LogModuleManager: Shutting down and abandoning module InputCore (144)
+[2023.12.05-21.39.01:415][261]LogModuleManager: Shutting down and abandoning module Settings (142)
+[2023.12.05-21.39.01:415][261]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (140)
+[2023.12.05-21.39.01:416][261]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (138)
+[2023.12.05-21.39.01:416][261]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (137)
+[2023.12.05-21.39.01:416][261]LogModuleManager: Shutting down and abandoning module Chaos (134)
+[2023.12.05-21.39.01:416][261]LogModuleManager: Shutting down and abandoning module GeometryCore (133)
+[2023.12.05-21.39.01:416][261]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (130)
+[2023.12.05-21.39.01:416][261]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (129)
+[2023.12.05-21.39.01:416][261]LogModuleManager: Shutting down and abandoning module AVEncoder (128)
+[2023.12.05-21.39.01:416][261]LogModuleManager: Shutting down and abandoning module D3D12RHI (124)
+[2023.12.05-21.39.01:416][261]LogModuleManager: Shutting down and abandoning module VariantManagerContent (122)
+[2023.12.05-21.39.01:416][261]LogModuleManager: Shutting down and abandoning module GLTFExporter (120)
+[2023.12.05-21.39.01:416][261]LogModuleManager: Shutting down and abandoning module DatasmithContent (118)
+[2023.12.05-21.39.01:416][261]LogModuleManager: Shutting down and abandoning module WmfMedia (116)
+[2023.12.05-21.39.01:418][261]LogModuleManager: Shutting down and abandoning module Media (115)
+[2023.12.05-21.39.01:419][261]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (112)
+[2023.12.05-21.39.01:419][261]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (110)
+[2023.12.05-21.39.01:419][261]LogModuleManager: Shutting down and abandoning module NiagaraShader (108)
+[2023.12.05-21.39.01:419][261]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (106)
+[2023.12.05-21.39.01:419][261]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (104)
+[2023.12.05-21.39.01:419][261]RenderDocPlugin: plugin has been unloaded.
+[2023.12.05-21.39.01:419][261]LogModuleManager: Shutting down and abandoning module PixWinPlugin (102)
+[2023.12.05-21.39.01:419][261]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (100)
+[2023.12.05-21.39.01:419][261]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2023.12.05-21.39.01:419][261]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2023.12.05-21.39.01:419][261]LogModuleManager: Shutting down and abandoning module AISupportModule (94)
+[2023.12.05-21.39.01:419][261]LogModuleManager: Shutting down and abandoning module ChaosCloth (92)
+[2023.12.05-21.39.01:419][261]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (90)
+[2023.12.05-21.39.01:419][261]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (88)
+[2023.12.05-21.39.01:419][261]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (86)
+[2023.12.05-21.39.01:420][261]LogModuleManager: Shutting down and abandoning module XMPP (81)
+[2023.12.05-21.39.01:420][261]LogModuleManager: Shutting down and abandoning module WebSockets (80)
+[2023.12.05-21.39.01:453][261]LogModuleManager: Shutting down and abandoning module HTTP (77)
+[2023.12.05-21.39.01:453][261]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2023.12.05-21.39.01:453][261]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B094D807C-4D5F-E4C5-0A9F-0C9B25F4CBA6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1cf4d70b4d93ce472e56c890ce4a1d30%7Ce0c3d44cfbd1458aa174616c8fa046c9%7C245c12bb-4537-4e80-b7fa-8f3970e0332e&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.12.05-21.39.01:469][261]LogModuleManager: Shutting down and abandoning module SSL (76)
+[2023.12.05-21.39.01:469][261]LogModuleManager: Shutting down and abandoning module ACLPlugin (72)
+[2023.12.05-21.39.01:469][261]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (70)
+[2023.12.05-21.39.01:469][261]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (68)
+[2023.12.05-21.39.01:469][261]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (66)
+[2023.12.05-21.39.01:469][261]LogModuleManager: Shutting down and abandoning module DesktopPlatform (64)
+[2023.12.05-21.39.01:469][261]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (62)
+[2023.12.05-21.39.01:469][261]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (60)
+[2023.12.05-21.39.01:469][261]LogModuleManager: Shutting down and abandoning module SourceControl (59)
+[2023.12.05-21.39.01:470][261]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (56)
+[2023.12.05-21.39.01:470][261]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (54)
+[2023.12.05-21.39.01:470][261]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (52)
+[2023.12.05-21.39.01:470][261]LogModuleManager: Shutting down and abandoning module PlatformCrypto (50)
+[2023.12.05-21.39.01:470][261]LogModuleManager: Shutting down and abandoning module XGEController (48)
+[2023.12.05-21.39.01:470][261]LogModuleManager: Shutting down and abandoning module FastBuildController (46)
+[2023.12.05-21.39.01:470][261]LogModuleManager: Shutting down and abandoning module IoStoreOnDemand (44)
+[2023.12.05-21.39.01:470][261]LogModuleManager: Shutting down and abandoning module AnimationModifiers (42)
+[2023.12.05-21.39.01:470][261]LogModuleManager: Shutting down and abandoning module AudioEditor (40)
+[2023.12.05-21.39.01:470][261]LogModuleManager: Shutting down and abandoning module PropertyEditor (39)
+[2023.12.05-21.39.01:470][261]LogModuleManager: Shutting down and abandoning module Virtualization (36)
+[2023.12.05-21.39.01:470][261]LogModuleManager: Shutting down and abandoning module MessageLog (35)
+[2023.12.05-21.39.01:470][261]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2023.12.05-21.39.01:470][261]LogModuleManager: Shutting down and abandoning module OpenColorIOWrapper (31)
+[2023.12.05-21.39.01:470][261]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2023.12.05-21.39.01:470][261]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2023.12.05-21.39.01:470][261]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2023.12.05-21.39.01:471][261]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2023.12.05-21.39.01:471][261]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2023.12.05-21.39.01:471][261]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2023.12.05-21.39.01:471][261]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2023.12.05-21.39.01:471][261]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2023.12.05-21.39.01:471][261]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2023.12.05-21.39.01:471][261]LogPakFile: Destroying PakPlatformFile
+[2023.12.05-21.39.01:471][261]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2023.12.05-21.39.01:471][261]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2023.12.05-21.39.01:471][261]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2023.12.05-21.39.01:471][261]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2023.12.05-21.39.01:471][261]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.12.05-21.39.01:841][261]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.12.05-21.39.01:909][261]LogExit: Exiting.
+[2023.12.05-21.39.01:914][261]Log file closed, 12/05/23 21:39:01
