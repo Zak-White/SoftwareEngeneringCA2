@@ -2362,3 +2362,22 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.11-19.31.41:522][ 97]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_-1_0
 [2023.12.11-19.31.41:522][ 97]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_1_0
 [2023.12.11-19.31.41:522][ 97]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_4_0
+[2023.12.11-19.32.25:437][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.12.11-19.32.25:441][321]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.010
+[2023.12.11-19.32.25:442][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/EnviormentCA/Materials/Grass_LayerInfo] ([1] browsable assets)...
+[2023.12.11-19.32.25:442][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnviormentCA/Materials/Grass_LayerInfo]
+[2023.12.11-19.32.25:445][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/EnviormentCA/Materials/Grass_LayerInfo_Auto2
+[2023.12.11-19.32.25:445][321]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Grass_LayerInfo_Auto2AF3E073C4265CACACB1C298575413F6C.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/EnviormentCA/Materials/Grass_LayerInfo_Auto2.uasset'
+[2023.12.11-19.32.25:446][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/EnviormentCA/Materials/Path_LayerInfo] ([1] browsable assets)...
+[2023.12.11-19.32.25:446][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnviormentCA/Materials/Path_LayerInfo]
+[2023.12.11-19.32.25:447][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/EnviormentCA/Materials/Path_LayerInfo_Auto2
+[2023.12.11-19.32.25:447][321]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Path_LayerInfo_Auto25FBA9BE5426E640E5526989CC18FBD12.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/EnviormentCA/Materials/Path_LayerInfo_Auto2.uasset'
+[2023.12.11-19.32.25:448][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/EnviormentCA/Materials/GrassNormal_LayerInfo] ([1] browsable assets)...
+[2023.12.11-19.32.25:448][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnviormentCA/Materials/GrassNormal_LayerInfo]
+[2023.12.11-19.32.25:449][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/EnviormentCA/Materials/GrassNormal_LayerInfo_Auto2
+[2023.12.11-19.32.25:449][321]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/GrassNormal_LayerInfo_Auto28EE2CACD4F7707E6B05A12B722169E09.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/EnviormentCA/Materials/GrassNormal_LayerInfo_Auto2.uasset'
+[2023.12.11-19.32.25:449][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/EnviormentCA/Materials/PathNormal_LayerInfo] ([1] browsable assets)...
+[2023.12.11-19.32.25:449][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnviormentCA/Materials/PathNormal_LayerInfo]
+[2023.12.11-19.32.25:450][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/EnviormentCA/Materials/PathNormal_LayerInfo_Auto2
+[2023.12.11-19.32.25:450][321]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/PathNormal_LayerInfo_Auto2AA0C93B0468E455C915D818F780330CE.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/EnviormentCA/Materials/PathNormal_LayerInfo_Auto2.uasset'
+[2023.12.11-19.32.25:451][321]LogFileHelpers: Auto-saving content packages took 0.010
