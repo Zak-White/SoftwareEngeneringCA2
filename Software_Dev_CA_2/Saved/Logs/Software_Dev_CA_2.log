@@ -1168,3 +1168,166 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 
 [2023.12.12-21.20.03:857][  1]Running Python start-up script 'D:/Epic Games/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.033459 secs
 [2023.12.12-21.20.03:961][  1]LogD3D12RHI: Cannot end block when stack is empty
+[2023.12.12-21.20.50:781][351]LogSlate: Window 'Message Log' being destroyed
+[2023.12.12-21.20.50:783][351]LogSlate: Window 'Message Log' being destroyed
+[2023.12.12-21.22.18:000][613]LogDerivedDataCache: C:/Users/zakwh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:21.136 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 11136 files in 13259 folders with total size 2558 MiB.
+[2023.12.12-21.24.14:758][ 72]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.12.12-21.24.29:951][527]LogViewport: Scene viewport resized to 1170x900, mode Windowed.
+[2023.12.12-21.24.29:991][528]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-21.24.30:087][528]LogShaderCompilers: Display: ================================================
+[2023.12.12-21.24.30:087][528]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.12-21.24.30:087][528]LogShaderCompilers: Display: Total job queries 123, among them cache hits 11 (8.94%)
+[2023.12.12-21.24.30:087][528]LogShaderCompilers: Display: Tracking 112 distinct input hashes that result in 95 distinct outputs (84.82%)
+[2023.12.12-21.24.30:087][528]LogShaderCompilers: Display: RAM used: 3.11 MiB of 1.60 GiB budget. Usage: 0.19%
+[2023.12.12-21.24.30:087][528]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.12-21.24.30:087][528]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.12.12-21.24.30:087][528]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2023.12.12-21.24.30:087][528]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.12.12-21.24.30:087][528]LogShaderCompilers: Display: ================================================
+[2023.12.12-21.24.44:609][784]LogStaticMesh: Display: Building static mesh SM_Tree_Large_01...
+[2023.12.12-21.24.44:621][784]LogTexture: Display: Building textures: /Game/LUSH_StylizedEnvironmentSet/_SharedAssets/T_Tree_Leaves_02.T_Tree_Leaves_02 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 169.145823 MB), EncodeSpeed: Fast
+[2023.12.12-21.24.44:629][784]LogTexture: Display: Building textures: /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/Textures/T_Bark_01_D.T_Bark_01_D (TFO_BC7, 1024x1024 x1x1x1) (Required Memory Estimate: 86.645823 MB), EncodeSpeed: Fast
+[2023.12.12-21.24.44:630][784]LogTexture: Display: Building textures: /Game/LUSH_StylizedEnvironmentSet/_SharedAssets/T_Tree_Leaves_03.T_Tree_Leaves_03 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 169.145823 MB), EncodeSpeed: Fast
+[2023.12.12-21.24.44:648][784]LogTexture: Display: Building textures: /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/Textures/T_Bark_01_RAOH.T_Bark_01_RAOH (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 169.145823 MB), EncodeSpeed: Fast
+[2023.12.12-21.24.44:665][784]LogTexture: Display: Building textures: /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/Textures/T_Bark_04_D.T_Bark_04_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2023.12.12-21.24.44:679][784]LogTexture: Display: Building textures: /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/Textures/T_Bark_04_RAOH.T_Bark_04_RAOH (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2023.12.12-21.24.44:708][784]LogTexture: Display: Building textures: /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/Textures/T_Bark_01_N.T_Bark_01_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 307.562488 MB), EncodeSpeed: Fast
+[2023.12.12-21.24.44:898][791]LogTexture: Display: Building textures: /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/Textures/T_Bark_04_N.T_Bark_04_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 487.562488 MB), EncodeSpeed: Fast
+[2023.12.12-21.24.44:960][792]LogStaticMesh: Built static mesh [0.35s] /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/SM_Tree_Large_01.SM_Tree_Large_01
+[2023.12.12-21.24.45:004][794]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-21.24.46:862][955]LogShaderCompilers: Display: FShaderCompileThreadRunnable::WriteNewTasks() took too long (0.797 seconds, threshold is 0.300 s), will parallelize next time.
+[2023.12.12-21.24.46:949][961]LogMeshUtilities: Finished distance field build in 2.0s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 43% occupied, 1398 triangles, SM_Tree_Large_01
+[2023.12.12-21.24.55:367][892]Cmd: TRANSACTION UNDO
+[2023.12.12-21.24.55:367][892]LogEditorTransaction: Undo Foliage Editing
+[2023.12.12-21.25.04:777][621]LogStaticMesh: Display: Building static mesh SM_Tree_Medium_02...
+[2023.12.12-21.25.04:831][621]LogTexture: Display: Building textures: /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/Textures/T_Trunk_04_Moss_D.T_Trunk_04_Moss_D (TFO_BC7, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.12.12-21.25.04:855][621]LogTexture: Display: Building textures: /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/Textures/T_Trunk_04_Moss_RAOH.T_Trunk_04_Moss_RAOH (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2023.12.12-21.25.04:879][621]LogStaticMesh: Built static mesh [0.10s] /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/SM_Tree_Medium_02.SM_Tree_Medium_02
+[2023.12.12-21.25.05:078][637]LogTexture: Display: Building textures: /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/Textures/T_Trunk_04_Moss_N.T_Trunk_04_Moss_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 487.562488 MB), EncodeSpeed: Fast
+[2023.12.12-21.25.07:416][832]LogMeshUtilities: Finished distance field build in 2.2s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 45% occupied, 516 triangles, SM_Tree_Medium_02
+[2023.12.12-21.25.22:933][661]Cmd: TRANSACTION UNDO
+[2023.12.12-21.25.22:933][661]LogEditorTransaction: Undo Foliage Editing
+[2023.12.12-21.25.23:256][666]Cmd: TRANSACTION UNDO
+[2023.12.12-21.25.23:256][666]LogEditorTransaction: Undo Foliage Editing
+[2023.12.12-21.25.23:604][676]Cmd: TRANSACTION UNDO
+[2023.12.12-21.25.23:605][676]LogEditorTransaction: Undo Foliage Editing
+[2023.12.12-21.25.29:497][318]Cmd: TRANSACTION UNDO
+[2023.12.12-21.25.29:497][318]LogEditorTransaction: Undo Foliage Editing
+[2023.12.12-21.25.29:774][323]Cmd: TRANSACTION UNDO
+[2023.12.12-21.25.29:774][323]LogEditorTransaction: Undo Drag-drop Foliage
+[2023.12.12-21.25.42:182][618]LogStaticMesh: Display: Building static mesh SM_Tree_Medium_01...
+[2023.12.12-21.25.42:243][618]LogStaticMesh: Built static mesh [0.06s] /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/SM_Tree_Medium_01.SM_Tree_Medium_01
+[2023.12.12-21.25.43:729][749]LogMeshUtilities: Finished distance field build in 1.5s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 40% occupied, 807 triangles, SM_Tree_Medium_01
+[2023.12.12-21.25.49:020][359]Cmd: TRANSACTION UNDO
+[2023.12.12-21.25.49:020][359]LogEditorTransaction: Undo Foliage Editing
+[2023.12.12-21.26.00:180][548]Cmd: TRANSACTION UNDO
+[2023.12.12-21.26.00:181][548]LogEditorTransaction: Undo Foliage Editing
+[2023.12.12-21.26.00:608][556]Cmd: TRANSACTION UNDO
+[2023.12.12-21.26.00:608][556]LogEditorTransaction: Undo Foliage Editing
+[2023.12.12-21.26.00:918][578]Cmd: TRANSACTION UNDO
+[2023.12.12-21.26.00:918][578]LogEditorTransaction: Undo Foliage Editing
+[2023.12.12-21.26.01:254][610]Cmd: TRANSACTION UNDO
+[2023.12.12-21.26.01:254][610]LogEditorTransaction: Undo Foliage Editing
+[2023.12.12-21.26.09:220][336]LogStaticMesh: Display: Building static mesh SM_SwampTree_02...
+[2023.12.12-21.26.09:547][361]LogStaticMesh: Built static mesh [0.33s] /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/SM_SwampTree_02.SM_SwampTree_02
+[2023.12.12-21.26.10:252][424]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.12.12-21.26.11:282][518]LogMeshUtilities: Finished distance field build in 1.7s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 46% occupied, 976 triangles, SM_SwampTree_02
+[2023.12.12-21.26.12:719][676]LogStaticMesh: Display: Building static mesh SM_SwampTree_01...
+[2023.12.12-21.26.13:103][705]LogStaticMesh: Built static mesh [0.38s] /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/SM_SwampTree_01.SM_SwampTree_01
+[2023.12.12-21.26.14:455][797]LogMeshUtilities: Finished distance field build in 1.3s - 126x126x126 sparse distance field, 1.4Mb total, 0.1Mb always loaded, 39% occupied, 1149 triangles, SM_SwampTree_01
+[2023.12.12-21.26.26:564][174]Cmd: TRANSACTION UNDO
+[2023.12.12-21.26.26:564][174]LogEditorTransaction: Undo Foliage Editing
+[2023.12.12-21.27.57:031][408]Cmd: TRANSACTION UNDO
+[2023.12.12-21.27.57:031][408]LogEditorTransaction: Undo Foliage Editing
+[2023.12.12-21.28.33:141][ 10]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.12-21.28.33:146][ 10]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.12.12-21.28.33:146][ 10]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2023.12.12-21.28.33:149][ 10]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms
+[2023.12.12-21.28.33:149][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.12-21.28.33:149][ 10]PIE: New page: PIE session: ThirdPersonMap (12 Dec 2023, 21:28:33)
+[2023.12.12-21.28.33:153][ 10]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.12.12-21.28.33:153][ 10]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2023.12.12-21.28.33:153][ 10]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.12.12-21.28.33:172][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019404s)
+[2023.12.12-21.28.33:172][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.019461s)
+[2023.12.12-21.28.33:177][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.12.12-21.28.33:178][ 10]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-21.28.33:178][ 10]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-21.28.33:178][ 10]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.12.12-21.28.33:179][ 10]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.12.12-21.28.33:179][ 10]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.12.12-21.28.33:179][ 10]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.12.12-21.28.33:179][ 10]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.12.12-21.28.33:183][ 10]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.12.12-21.28.33:183][ 10]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 253 ms)
+[2023.12.12-21.28.33:183][ 10]LogPlayLevel: PIE: World Init took: (0.005776s)
+[2023.12.12-21.28.33:183][ 10]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.12.12-21.28.33:183][ 10]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.12-21.28.33:184][ 10]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.12-21.28.33:184][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.12-21.28.33:184][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.12-21.28.33:184][ 10]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.12-21.28.33:184][ 10]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.12-21.28.33:184][ 10]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.12-21.28.33:184][ 10]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.12-21.28.33:184][ 10]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.12-21.28.33:184][ 10]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.12-21.28.33:184][ 10]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.12-21.28.33:185][ 10]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.12-21.28.33:205][ 10]LogAudioMixer: Display: Using Audio Hardware Device Wave Link System (2- Elgato Wave:3)
+[2023.12.12-21.28.33:205][ 10]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.12-21.28.33:205][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.12-21.28.33:205][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.12-21.28.33:206][ 10]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.12.12-21.28.33:206][ 10]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.12.12-21.28.33:207][ 10]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.12.12-21.28.33:207][ 10]LogInit: FAudioDevice initialized with ID 2.
+[2023.12.12-21.28.33:207][ 10]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.12.12-21.28.33:207][ 10]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2023.12.12-21.28.33:207][ 10]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2023.12.12-21.28.33:211][ 10]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.12.12-21.28.33:223][ 10]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.12.12-21.28.33
+[2023.12.12-21.28.33:223][ 10]LogWorld: Bringing up level for play took: 0.012075
+[2023.12.12-21.28.33:225][ 10]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2023.12.12-21.28.33:231][ 10]PIE: Server logged in
+[2023.12.12-21.28.33:233][ 10]PIE: Play in editor total start time 0.088 seconds.
+[2023.12.12-21.29.08:581][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.12-21.29.08:581][690]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.12.12-21.29.08:581][690]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-21.29.08:584][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-21.29.08:584][690]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.12.12-21.29.08:587][690]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.12-21.29.08:590][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-21.29.08:594][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.12-21.29.08:594][690]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2023.12.12-21.29.08:594][690]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.12.12-21.29.08:596][690]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.12.12-21.29.08:604][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.12.12-21.29.08:668][692]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2023.12.12-21.29.12:117][ 13]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2023.12.12-21.29.50:765][687]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.12-21.29.50:835][687]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_1_1_0.Heightmap_4 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.12-21.29.50:835][687]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_1_1_0.Heightmap_6 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.12-21.29.50:836][687]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_1_1_0.Heightmap_7 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.12-21.29.50:844][687]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.006775 seconds
+[2023.12.12-21.29.50:848][687]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/V0/IJHNE6GIO7YGKBFDE06UAJ
+[2023.12.12-21.29.50:848][687]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/IJHNE6GIO7YGKBFDE06UAJC1D4E0A44D7F7BE2D3FE3984C720DC18.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/V0/IJHNE6GIO7YGKBFDE06UAJ.uasset'
+[2023.12.12-21.29.50:855][687]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_1_1_0.Heightmap_7 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.12-21.29.50:863][687]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/2B/1RTV9PEU9TADP1ZCRBOCZT
+[2023.12.12-21.29.50:864][687]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/1RTV9PEU9TADP1ZCRBOCZT71657E8241A66FDFBDEAFA978195712F.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/2B/1RTV9PEU9TADP1ZCRBOCZT.uasset'
+[2023.12.12-21.29.50:868][687]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/YY/EYJPQPROZT8UAHESPFQYL6
+[2023.12.12-21.29.50:868][687]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/EYJPQPROZT8UAHESPFQYL62FCB1549429C05F0BA3A17B9B313C0BB.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/YY/EYJPQPROZT8UAHESPFQYL6.uasset'
+[2023.12.12-21.29.50:872][687]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/OR/8RKYALE5KRYJ85UZ0DF32D
+[2023.12.12-21.29.50:872][687]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/8RKYALE5KRYJ85UZ0DF32D87C2FADE49CFB67096C63F957F72A494.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/OR/8RKYALE5KRYJ85UZ0DF32D.uasset'
+[2023.12.12-21.29.50:875][687]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/02/E2BBF4FVHFI8FR3HJ3867V
+[2023.12.12-21.29.50:875][687]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/E2BBF4FVHFI8FR3HJ3867VC4D7CC5F449534B1D7D8278EC19E3078.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/02/E2BBF4FVHFI8FR3HJ3867V.uasset'
+[2023.12.12-21.29.50:877][687]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/2Y/EXME7P4EBYMNNL5OIHFKNX
+[2023.12.12-21.29.50:877][687]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/EXME7P4EBYMNNL5OIHFKNX2DD601C846FEF1F64DB4F6A39F16BA75.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/2Y/EXME7P4EBYMNNL5OIHFKNX.uasset'
+[2023.12.12-21.29.50:886][687]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms
+[2023.12.12-21.29.50:889][687]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.12-21.29.50:889][687]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.InstancedFoliageActor_25600_-1_-1_-1
+[2023.12.12-21.29.50:889][687]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_1_1_0
+[2023.12.12-21.29.50:889][687]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.InstancedFoliageActor_25600_0_-1_0
+[2023.12.12-21.29.50:889][687]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.InstancedFoliageActor_25600_0_-1_-1
+[2023.12.12-21.29.50:889][687]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.InstancedFoliageActor_25600_-1_-1_0
+[2023.12.12-21.29.50:889][687]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.InstancedFoliageActor_25600_0_0_-1
