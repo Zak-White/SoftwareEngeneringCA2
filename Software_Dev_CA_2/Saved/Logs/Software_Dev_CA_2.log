@@ -2963,3 +2963,1117 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.18-18.53.35:621][ 25]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6112C701_1088006510
 [2023.12.18-18.53.35:621][ 25]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6112C701_1100710511
 [2023.12.18-18.53.35:621][ 25]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6112C701_1104403512
+[2023.12.18-18.58.33:402][357]Cmd: EDIT COPY
+[2023.12.18-18.58.33:675][371]Cmd: EDIT PASTE
+[2023.12.18-18.59.00:607][399]LogViewport: Scene viewport resized to 1170x900, mode Windowed.
+[2023.12.18-18.59.13:717][865]Cmd: TRANSACTION UNDO
+[2023.12.18-18.59.13:717][865]LogEditorTransaction: Undo Landscape Editing: Paint
+[2023.12.18-18.59.17:291][134]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_3_0.Weightmap_2 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.01.06:541][157]LogStaticMesh: Display: Building static mesh SM_entrance_temple...
+[2023.12.18-19.01.06:654][159]LogTexture: Display: Building textures: /Game/Greek_island/Textures/T_trim_temple_02/T_temple_trim_02_N.T_temple_trim_02_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 471.562488 MB), EncodeSpeed: Fast
+[2023.12.18-19.01.06:694][160]LogTexture: Display: Building textures: /Game/Greek_island/Textures/T_trim_temple_02/T_temple_trim_02_D.T_temple_trim_02_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2023.12.18-19.01.06:707][161]LogTexture: Display: Building textures: /Game/Greek_island/Textures/T_trim_temple_02/T_temple_trim_02_AORM.T_temple_trim_02_AORM (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2023.12.18-19.01.06:800][163]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Temple/SM_entrance_temple.SM_entrance_temple
+[2023.12.18-19.01.06:800][163]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Temple/SM_entrance_temple.SM_entrance_temple
+[2023.12.18-19.01.06:800][163]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Temple/SM_entrance_temple.SM_entrance_temple as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_41
+[2023.12.18-19.01.06:818][163]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Greek_island/Assets/Temple/SM_entrance_temple) ...
+[2023.12.18-19.01.06:838][163]LogStaticMesh: Built static mesh [0.30s] /Game/Greek_island/Assets/Temple/SM_entrance_temple.SM_entrance_temple
+[2023.12.18-19.01.08:580][326]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Temple/SM_entrance_temple.SM_entrance_temple
+[2023.12.18-19.01.08:580][326]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Temple/SM_entrance_temple.SM_entrance_temple
+[2023.12.18-19.01.08:582][326]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Temple/SM_entrance_temple.SM_entrance_temple as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6112C701_1567309514
+[2023.12.18-19.01.34:710][365]LogViewport: Scene viewport resized to 1526x900, mode Windowed.
+[2023.12.18-19.02.23:642][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.12.18-19.02.23:650][641]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_3_0.Weightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.02.23:656][641]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/DI/FPTL9JXY9XC7PM04JM44DV_Auto2
+[2023.12.18-19.02.23:656][641]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/FPTL9JXY9XC7PM04JM44DV_Auto21DB60BA7409F453DCEEDAE97A69AB18B.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/DI/FPTL9JXY9XC7PM04JM44DV_Auto2.uasset'
+[2023.12.18-19.02.23:657][641]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_4_0.Weightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.02.23:662][641]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/13/7VZ0SPJADTHILH6FN3KDMH_Auto2
+[2023.12.18-19.02.23:662][641]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/7VZ0SPJADTHILH6FN3KDMH_Auto29C330AB54AB6B39FFE1C5DB32EC88D8C.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/13/7VZ0SPJADTHILH6FN3KDMH_Auto2.uasset'
+[2023.12.18-19.02.23:664][641]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_3_0.Weightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.02.23:664][641]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_3_0.Weightmap_6 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.02.23:672][641]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/AX/UH2LHZ9CRFINDEIY6ZD5MM_Auto2
+[2023.12.18-19.02.23:672][641]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/UH2LHZ9CRFINDEIY6ZD5MM_Auto2D42EFE1449D568A7E75E57B8FDC6F730.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/AX/UH2LHZ9CRFINDEIY6ZD5MM_Auto2.uasset'
+[2023.12.18-19.02.23:674][641]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_3_0.Weightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.02.23:675][641]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_3_0.Weightmap_2 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.02.23:683][641]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FH/H8UTW5Z9CW0PEWSGSNUC9M_Auto2
+[2023.12.18-19.02.23:683][641]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/H8UTW5Z9CW0PEWSGSNUC9M_Auto26D8F322B46B72AFDA113B5B4D8CDB1D0.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FH/H8UTW5Z9CW0PEWSGSNUC9M_Auto2.uasset'
+[2023.12.18-19.02.23:684][641]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_4_0.Weightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.02.23:688][641]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/YQ/QU5T9MU8352052GIJX3WSC_Auto2
+[2023.12.18-19.02.23:688][641]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/QU5T9MU8352052GIJX3WSC_Auto2D8E2B2864742086711B3189665C2CD60.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/YQ/QU5T9MU8352052GIJX3WSC_Auto2.uasset'
+[2023.12.18-19.02.23:690][641]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/JP/UD1FF80BRSW08NGBI4JOKN_Auto2
+[2023.12.18-19.02.23:690][641]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/UD1FF80BRSW08NGBI4JOKN_Auto2DFE1E1A74865F7832546E9A0627CF085.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/JP/UD1FF80BRSW08NGBI4JOKN_Auto2.uasset'
+[2023.12.18-19.02.23:692][641]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/QA/ZSSVM09P88VHIH0V8MICIK_Auto2
+[2023.12.18-19.02.23:692][641]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/ZSSVM09P88VHIH0V8MICIK_Auto23C747EDB44B87D7B1DF4EBB54E0BE8EC.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/QA/ZSSVM09P88VHIH0V8MICIK_Auto2.uasset'
+[2023.12.18-19.02.23:693][641]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.057
+[2023.12.18-19.02.23:693][641]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.057
+[2023.12.18-19.02.29:048][134]LogStaticMesh: Display: Building static mesh SM_Front_Statue...
+[2023.12.18-19.02.29:074][134]LogTexture: Display: Building textures: /Game/Greek_island/Textures/T_roof/T_rooftile_height.T_rooftile_height (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 293.145823 MB), EncodeSpeed: Fast
+[2023.12.18-19.02.29:100][134]LogTexture: Display: Building textures: /Game/Greek_island/Textures/T_bronze/T_bronze_D.T_bronze_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2023.12.18-19.02.29:155][134]LogTexture: Display: Building textures: /Game/Greek_island/Textures/T_roof/T_rooftile_D.T_rooftile_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2023.12.18-19.02.29:183][135]LogTexture: Display: Building textures: /Game/Greek_island/Textures/T_roof/T_rooftile_AORM.T_rooftile_AORM (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2023.12.18-19.02.29:227][136]LogTexture: Display: Building textures: /Game/Greek_island/Textures/T_Athena/T_Armor_Athena/T_Armor_Athena_N.T_Armor_Athena_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 471.562488 MB), EncodeSpeed: Fast
+[2023.12.18-19.02.29:307][138]LogTexture: Display: Building textures: /Game/Greek_island/Textures/T_roof/T_rooftile_N.T_rooftile_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 487.562488 MB), EncodeSpeed: Fast
+[2023.12.18-19.02.29:347][138]LogTexture: Display: Building textures: /Game/Greek_island/Textures/T_bronze/T_bronze_R.T_bronze_R (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 321.145823 MB), EncodeSpeed: Fast
+[2023.12.18-19.02.29:445][142]LogTexture: Display: Building textures: /Game/Greek_island/Textures/T_bronze/T_bronze_N.T_bronze_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 487.562488 MB), EncodeSpeed: Fast
+[2023.12.18-19.02.29:564][144]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Temple/SM_Front_Statue.SM_Front_Statue
+[2023.12.18-19.02.29:564][144]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Temple/SM_Front_Statue.SM_Front_Statue
+[2023.12.18-19.02.29:564][144]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Temple/SM_Front_Statue.SM_Front_Statue as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_42
+[2023.12.18-19.02.29:581][144]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Greek_island/Assets/Temple/SM_Front_Statue) ...
+[2023.12.18-19.02.29:638][144]LogTexture: Display: Building textures: /Game/Greek_island/Textures/T_Front/T_Front_N.T_Front_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.12.18-19.02.39:568][144]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' exceeded budget of 10.000000s
+[2023.12.18-19.03.02:521][144]LogStaticMesh: Built static mesh [33.47s] /Game/Greek_island/Assets/Temple/SM_Front_Statue.SM_Front_Statue
+[2023.12.18-19.03.02:725][144]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' complete in 33.160263s (23.160263s overbudget)
+[2023.12.18-19.03.03:282][150]LogShaderCompilers: Display: ================================================
+[2023.12.18-19.03.03:282][150]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.18-19.03.03:283][150]LogShaderCompilers: Display: Total job queries 293, among them cache hits 54 (18.43%)
+[2023.12.18-19.03.03:283][150]LogShaderCompilers: Display: Tracking 236 distinct input hashes that result in 195 distinct outputs (82.63%)
+[2023.12.18-19.03.03:283][150]LogShaderCompilers: Display: RAM used: 6.21 MiB of 1.60 GiB budget. Usage: 0.38%
+[2023.12.18-19.03.03:283][150]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.18-19.03.03:283][150]LogShaderCompilers: Display: Shaders Compiled: 74
+[2023.12.18-19.03.03:283][150]LogShaderCompilers: Display: Jobs assigned 77, completed 74 (96.10%)
+[2023.12.18-19.03.03:283][150]LogShaderCompilers: Display: Average time worker was idle: 239.50 s
+[2023.12.18-19.03.03:283][150]LogShaderCompilers: Display: Time job spent in pending queue: average 0.16 s, longest 1.12 s
+[2023.12.18-19.03.03:283][150]LogShaderCompilers: Display: Job execution time: average 0.77 s, max 2.48 s
+[2023.12.18-19.03.03:283][150]LogShaderCompilers: Display: Job life time (pending + execution): average 0.93 s, max 2.50
+[2023.12.18-19.03.03:283][150]LogShaderCompilers: Display: Shader code size: average 37.886 KiB, min 30.809 KiB, max 57.273 KiB
+[2023.12.18-19.03.03:283][150]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.77 s
+[2023.12.18-19.03.03:283][150]LogShaderCompilers: Display: Jobs were issued in 77 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.12.18-19.03.03:283][150]LogShaderCompilers: Display: Average processing rate: 8.44 jobs/sec
+[2023.12.18-19.03.03:283][150]LogShaderCompilers: Display: Total thread time: 26.872 s
+[2023.12.18-19.03.03:283][150]LogShaderCompilers: Display: Total thread preprocess time: 3.18 s
+[2023.12.18-19.03.03:283][150]LogShaderCompilers: Display: Percentage time preprocessing: 11.84%
+[2023.12.18-19.03.03:283][150]LogShaderCompilers: Display: Effective parallelization: 3.06 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.12.18-19.03.03:283][150]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.12.18-19.03.03:283][150]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled    2 times, average 1.30 sec, max 1.31 sec, min 1.30 sec)
+[2023.12.18-19.03.03:283][150]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    2 times, average 0.99 sec, max 1.16 sec, min 0.82 sec)
+[2023.12.18-19.03.03:283][150]LogShaderCompilers: Display:                                               FHWRasterizePS (compiled    2 times, average 0.70 sec, max 0.75 sec, min 0.64 sec)
+[2023.12.18-19.03.03:283][150]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   10 times, average 0.50 sec, max 1.26 sec, min 0.23 sec)
+[2023.12.18-19.03.03:283][150]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    6 times, average 0.36 sec, max 0.72 sec, min 0.26 sec)
+[2023.12.18-19.03.03:283][150]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.12.18-19.03.03:283][150]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.75% of total time (compiled   10 times, average 0.50 sec, max 1.26 sec, min 0.23 sec)
+[2023.12.18-19.03.03:283][150]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 9.71% of total time (compiled    2 times, average 1.30 sec, max 1.31 sec, min 1.30 sec)
+[2023.12.18-19.03.03:283][150]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.52% of total time (compiled    8 times, average 0.32 sec, max 0.73 sec, min 0.17 sec)
+[2023.12.18-19.03.03:283][150]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 8.15% of total time (compiled    6 times, average 0.36 sec, max 0.72 sec, min 0.26 sec)
+[2023.12.18-19.03.03:283][150]LogShaderCompilers: Display:                                           FLumenCardPS<true> - 7.36% of total time (compiled    2 times, average 0.99 sec, max 1.16 sec, min 0.82 sec)
+[2023.12.18-19.03.03:283][150]LogShaderCompilers: Display: ================================================
+[2023.12.18-19.03.03:986][186]LogMeshUtilities: Finished distance field build in 1.3s - 126x126x126 sparse distance field, 2.7Mb total, 0.1Mb always loaded, 79% occupied, 45014 triangles, SM_Front_Statue
+[2023.12.18-19.03.05:346][280]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Temple/SM_Front_Statue.SM_Front_Statue
+[2023.12.18-19.03.05:346][280]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Temple/SM_Front_Statue.SM_Front_Statue
+[2023.12.18-19.03.05:346][280]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Temple/SM_Front_Statue.SM_Front_Statue as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_43
+[2023.12.18-19.03.05:886][320]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Temple/SM_Front_Statue.SM_Front_Statue
+[2023.12.18-19.03.05:886][320]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Temple/SM_Front_Statue.SM_Front_Statue
+[2023.12.18-19.03.05:888][320]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Temple/SM_Front_Statue.SM_Front_Statue as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6112C701_1684615515
+[2023.12.18-19.03.42:762][303]LogStaticMesh: Display: Building static mesh SM_column_01...
+[2023.12.18-19.03.43:393][347]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Temple/SM_column_01.SM_column_01
+[2023.12.18-19.03.43:393][347]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Temple/SM_column_01.SM_column_01
+[2023.12.18-19.03.43:393][347]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Temple/SM_column_01.SM_column_01 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_44
+[2023.12.18-19.03.43:410][347]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Greek_island/Assets/Temple/SM_column_01) ...
+[2023.12.18-19.03.43:568][347]LogStaticMesh: Built static mesh [0.81s] /Game/Greek_island/Assets/Temple/SM_column_01.SM_column_01
+[2023.12.18-19.03.44:792][470]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Temple/SM_column_01.SM_column_01
+[2023.12.18-19.03.44:792][470]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Temple/SM_column_01.SM_column_01
+[2023.12.18-19.03.44:794][470]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Temple/SM_column_01.SM_column_01 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6112C701_1723521516
+[2023.12.18-19.04.49:463][748]Cmd: EDIT COPY
+[2023.12.18-19.04.49:463][748]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'EDIT'. 
+[2023.12.18-19.04.49:721][779]Cmd: EDIT PASTE
+[2023.12.18-19.05.41:449][498]LogViewport: Scene viewport resized to 1170x900, mode Windowed.
+[2023.12.18-19.05.55:576][ 56]Cmd: TRANSACTION UNDO
+[2023.12.18-19.05.55:576][ 56]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2023.12.18-19.05.56:207][ 69]Cmd: TRANSACTION UNDO
+[2023.12.18-19.05.56:207][ 69]LogEditorTransaction: Undo Clicking on Elements
+[2023.12.18-19.06.04:025][800]Cmd: TRANSACTION UNDO
+[2023.12.18-19.06.04:025][800]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2023.12.18-19.06.13:593][682]Cmd: TRANSACTION UNDO
+[2023.12.18-19.06.13:593][682]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2023.12.18-19.06.51:982][419]LogViewport: Scene viewport resized to 1526x900, mode Windowed.
+[2023.12.18-19.07.30:143][679]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.18-19.07.30:148][679]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.12.18-19.07.30:148][679]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2023.12.18-19.07.30:155][679]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 7 ms (total: 61 ms)
+[2023.12.18-19.07.30:155][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.18-19.07.30:155][679]PIE: New page: PIE session: ThirdPersonMap (18 Dec 2023, 19:07:30)
+[2023.12.18-19.07.30:156][679]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.12.18-19.07.30:177][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021040s)
+[2023.12.18-19.07.30:177][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.021070s)
+[2023.12.18-19.07.30:182][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.12.18-19.07.30:186][679]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.18-19.07.30:186][679]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.18-19.07.30:187][679]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.12.18-19.07.30:187][679]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.12.18-19.07.30:187][679]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.12.18-19.07.30:187][679]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.12.18-19.07.30:187][679]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.12.18-19.07.30:192][679]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.12.18-19.07.30:192][679]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 1.08 sec)
+[2023.12.18-19.07.30:192][679]LogPlayLevel: PIE: World Init took: (0.006080s)
+[2023.12.18-19.07.30:192][679]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.12.18-19.07.30:192][679]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.18-19.07.30:192][679]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.18-19.07.30:192][679]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.18-19.07.30:192][679]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.18-19.07.30:192][679]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.18-19.07.30:192][679]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.18-19.07.30:192][679]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.18-19.07.30:192][679]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.18-19.07.30:192][679]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.18-19.07.30:192][679]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.18-19.07.30:192][679]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.18-19.07.30:194][679]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.18-19.07.30:212][679]LogAudioMixer: Display: Using Audio Hardware Device Wave Link System (2- Elgato Wave:3)
+[2023.12.18-19.07.30:213][679]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.18-19.07.30:213][679]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.18-19.07.30:213][679]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.18-19.07.30:214][679]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.12.18-19.07.30:214][679]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.12.18-19.07.30:215][679]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.12.18-19.07.30:215][679]LogInit: FAudioDevice initialized with ID 18.
+[2023.12.18-19.07.30:215][679]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.12.18-19.07.30:215][679]LogAudio: Display: Audio Device (ID: 18) registered with world 'ThirdPersonMap'.
+[2023.12.18-19.07.30:215][679]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2023.12.18-19.07.30:217][679]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.12.18-19.07.30:233][679]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.12.18-19.07.30
+[2023.12.18-19.07.30:233][679]LogWorld: Bringing up level for play took: 0.015329
+[2023.12.18-19.07.30:235][679]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.12.18-19.07.30:238][679]PIE: Server logged in
+[2023.12.18-19.07.30:239][679]PIE: Play in editor total start time 0.091 seconds.
+[2023.12.18-19.08.00:171][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.18-19.08.00:171][245]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.12.18-19.08.00:172][245]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.12.18-19.08.00:175][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.18-19.08.00:175][245]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.12.18-19.08.00:179][245]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.18-19.08.00:181][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.18-19.08.00:188][245]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.18-19.08.00:188][245]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2023.12.18-19.08.00:188][245]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.12.18-19.08.00:190][245]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.12.18-19.08.00:197][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.18-19.08.00:204][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.12.18-19.08.00:250][246]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.12.18-19.08.09:884][311]LogStaticMesh: Display: Building static mesh SM_temple_bottom...
+[2023.12.18-19.08.10:046][319]LogStaticMesh: Built static mesh [0.16s] /Game/Greek_island/Assets/Temple/SM_temple_bottom.SM_temple_bottom
+[2023.12.18-19.08.10:713][359]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Temple/SM_temple_bottom.SM_temple_bottom
+[2023.12.18-19.08.10:713][359]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Temple/SM_temple_bottom.SM_temple_bottom
+[2023.12.18-19.08.10:713][359]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Temple/SM_temple_bottom.SM_temple_bottom as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_45
+[2023.12.18-19.08.11:712][453]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Temple/SM_temple_bottom.SM_temple_bottom
+[2023.12.18-19.08.11:712][453]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Temple/SM_temple_bottom.SM_temple_bottom
+[2023.12.18-19.08.11:713][453]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Temple/SM_temple_bottom.SM_temple_bottom as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6112C701_1990441518
+[2023.12.18-19.08.46:702][342]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.18-19.08.46:708][342]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.12.18-19.08.46:708][342]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2023.12.18-19.08.46:712][342]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4 ms (total: 66 ms)
+[2023.12.18-19.08.46:712][342]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.18-19.08.46:712][342]PIE: New page: PIE session: ThirdPersonMap (18 Dec 2023, 19:08:46)
+[2023.12.18-19.08.46:713][342]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.12.18-19.08.46:733][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020898s)
+[2023.12.18-19.08.46:733][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.020927s)
+[2023.12.18-19.08.46:738][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.12.18-19.08.46:742][342]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.18-19.08.46:742][342]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.18-19.08.46:743][342]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.12.18-19.08.46:743][342]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.12.18-19.08.46:743][342]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.12.18-19.08.46:743][342]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.12.18-19.08.46:743][342]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.12.18-19.08.46:749][342]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.12.18-19.08.46:749][342]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 1.08 sec)
+[2023.12.18-19.08.46:749][342]LogPlayLevel: PIE: World Init took: (0.006282s)
+[2023.12.18-19.08.46:749][342]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.12.18-19.08.46:749][342]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.18-19.08.46:749][342]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.18-19.08.46:749][342]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.18-19.08.46:749][342]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.18-19.08.46:749][342]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.18-19.08.46:749][342]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.18-19.08.46:749][342]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.18-19.08.46:749][342]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.18-19.08.46:749][342]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.18-19.08.46:749][342]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.18-19.08.46:749][342]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.18-19.08.46:751][342]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.18-19.08.46:768][342]LogAudioMixer: Display: Using Audio Hardware Device Wave Link System (2- Elgato Wave:3)
+[2023.12.18-19.08.46:769][342]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.18-19.08.46:769][342]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.18-19.08.46:769][342]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.18-19.08.46:770][342]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2023.12.18-19.08.46:770][342]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2023.12.18-19.08.46:771][342]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2023.12.18-19.08.46:771][342]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2023.12.18-19.08.46:771][342]LogInit: FAudioDevice initialized with ID 19.
+[2023.12.18-19.08.46:771][342]LogAudio: Display: Audio Device (ID: 19) registered with world 'ThirdPersonMap'.
+[2023.12.18-19.08.46:771][342]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2023.12.18-19.08.46:773][342]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.12.18-19.08.46:789][342]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.12.18-19.08.46
+[2023.12.18-19.08.46:789][342]LogWorld: Bringing up level for play took: 0.015466
+[2023.12.18-19.08.46:791][342]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.12.18-19.08.46:794][342]PIE: Server logged in
+[2023.12.18-19.08.46:795][342]PIE: Play in editor total start time 0.087 seconds.
+[2023.12.18-19.09.00:823][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.18-19.09.00:823][  4]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.12.18-19.09.00:824][  4]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.12.18-19.09.00:827][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.18-19.09.00:827][  4]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.12.18-19.09.00:830][  4]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.18-19.09.00:833][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.18-19.09.00:839][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.18-19.09.00:840][  4]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2023.12.18-19.09.00:840][  4]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.12.18-19.09.00:842][  4]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.12.18-19.09.00:852][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.12.18-19.09.00:908][  5]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.12.18-19.09.34:319][679]LogStaticMesh: Display: Building static mesh SM_back_wall_02...
+[2023.12.18-19.09.34:354][679]LogStaticMesh: Built static mesh [0.04s] /Game/Greek_island/Assets/Temple/SM_back_wall_02.SM_back_wall_02
+[2023.12.18-19.09.34:593][686]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Temple/SM_back_wall_02.SM_back_wall_02
+[2023.12.18-19.09.34:593][686]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Temple/SM_back_wall_02.SM_back_wall_02
+[2023.12.18-19.09.34:594][686]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Temple/SM_back_wall_02.SM_back_wall_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_46
+[2023.12.18-19.09.35:502][774]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Temple/SM_back_wall_02.SM_back_wall_02
+[2023.12.18-19.09.35:502][774]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Temple/SM_back_wall_02.SM_back_wall_02
+[2023.12.18-19.09.35:504][774]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Temple/SM_back_wall_02.SM_back_wall_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6112C701_2074231519
+[2023.12.18-19.10.35:834][433]Cmd: EDIT COPY
+[2023.12.18-19.10.36:100][465]Cmd: EDIT PASTE
+[2023.12.18-19.11.52:976][948]LogStaticMesh: Display: Building static mesh SM_temple_roof...
+[2023.12.18-19.11.53:020][948]LogStaticMesh: Built static mesh [0.04s] /Game/Greek_island/Assets/Temple/SM_temple_roof.SM_temple_roof
+[2023.12.18-19.11.53:180][951]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Temple/SM_temple_roof.SM_temple_roof
+[2023.12.18-19.11.53:180][951]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Temple/SM_temple_roof.SM_temple_roof
+[2023.12.18-19.11.53:180][951]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Temple/SM_temple_roof.SM_temple_roof as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_47
+[2023.12.18-19.11.55:212][133]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Temple/SM_temple_roof.SM_temple_roof
+[2023.12.18-19.11.55:213][133]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Temple/SM_temple_roof.SM_temple_roof
+[2023.12.18-19.11.55:214][133]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Temple/SM_temple_roof.SM_temple_roof as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6113C701_1140199697
+[2023.12.18-19.12.52:492][613]Cmd: EDIT COPY
+[2023.12.18-19.12.52:744][636]Cmd: EDIT PASTE
+[2023.12.18-19.13.07:983][306]Cmd: EDIT COPY
+[2023.12.18-19.13.08:250][338]Cmd: EDIT PASTE
+[2023.12.18-19.13.55:614][745]Cmd: EDIT COPY
+[2023.12.18-19.13.55:989][790]Cmd: EDIT PASTE
+[2023.12.18-19.14.07:125][995]Cmd: EDIT COPY
+[2023.12.18-19.14.07:414][ 28]Cmd: EDIT PASTE
+[2023.12.18-19.14.20:589][520]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-19.14.20:638][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.12.18-19.14.20:647][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.12.18-19.14.20:652][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.12.18-19.14.20:653][520]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_3_0.Heightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.18-19.14.20:653][520]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_3_0.Heightmap_1 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.14.20:653][520]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_3_0.Heightmap_2 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.18-19.14.20:653][520]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_3_0.Heightmap_3 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.14.20:654][520]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_3_0.Weightmap_1 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.18-19.14.20:656][520]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_2_0.Heightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.18-19.14.20:656][520]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_2_0.Heightmap_1 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.14.20:656][520]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_2_0.Heightmap_2 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.18-19.14.20:657][520]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_2_0.Heightmap_3 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.14.20:658][520]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_4_0.Heightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.18-19.14.20:658][520]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_4_0.Heightmap_1 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.14.20:658][520]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_4_0.Heightmap_2 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.18-19.14.20:659][520]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_4_0.Heightmap_3 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.14.20:659][520]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_4_0.Weightmap_1 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.18-19.14.20:660][520]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_4_0.Heightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.18-19.14.20:661][520]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_4_0.Heightmap_1 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.14.20:661][520]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_4_0.Heightmap_2 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.18-19.14.20:661][520]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_4_0.Heightmap_3 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.14.20:662][520]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_4_0.Heightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.18-19.14.20:662][520]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_4_0.Heightmap_1 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.14.20:662][520]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_4_0.Weightmap_1 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.18-19.14.20:665][520]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_3_0.Heightmap_1 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.14.20:667][520]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_3_0.Heightmap_3 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.14.20:675][520]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/DI/FPTL9JXY9XC7PM04JM44DV
+[2023.12.18-19.14.20:676][520]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/FPTL9JXY9XC7PM04JM44DVA5CAC91B499FBF6B59C68493B0E2C72B.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/DI/FPTL9JXY9XC7PM04JM44DV.uasset'
+[2023.12.18-19.14.20:688][520]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/A2/JT8VUZEOP69TK0KEAADVC5
+[2023.12.18-19.14.20:688][520]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/JT8VUZEOP69TK0KEAADVC58E740BBA49B573AFC9A6C481F9F5CB17.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/A2/JT8VUZEOP69TK0KEAADVC5.uasset'
+[2023.12.18-19.14.20:691][520]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_2_0.Heightmap_1 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.14.20:692][520]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_2_0.Heightmap_3 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.14.20:697][520]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/LY/P99YL1QZKUPWCL71MNDDL3
+[2023.12.18-19.14.20:698][520]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/P99YL1QZKUPWCL71MNDDL33DA93A1944E734D87525BABD8931F953.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/LY/P99YL1QZKUPWCL71MNDDL3.uasset'
+[2023.12.18-19.14.20:704][520]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/OD/62J46R0EALIDLGOIDUCEE3
+[2023.12.18-19.14.20:705][520]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/62J46R0EALIDLGOIDUCEE32F4CDC5D4B20A990703134A8ECEF220F.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/OD/62J46R0EALIDLGOIDUCEE3.uasset'
+[2023.12.18-19.14.20:707][520]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_4_0.Heightmap_1 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.14.20:708][520]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_4_0.Heightmap_3 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.14.20:713][520]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/13/7VZ0SPJADTHILH6FN3KDMH
+[2023.12.18-19.14.20:714][520]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/7VZ0SPJADTHILH6FN3KDMHA7EA9A6544DADFFDA4E1FBB4731DA5C6.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/13/7VZ0SPJADTHILH6FN3KDMH.uasset'
+[2023.12.18-19.14.20:723][520]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/AX/UH2LHZ9CRFINDEIY6ZD5MM
+[2023.12.18-19.14.20:723][520]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/UH2LHZ9CRFINDEIY6ZD5MMCFA1F77940E8FBEE4332DE81A9F23FF0.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/AX/UH2LHZ9CRFINDEIY6ZD5MM.uasset'
+[2023.12.18-19.14.20:732][520]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FH/H8UTW5Z9CW0PEWSGSNUC9M
+[2023.12.18-19.14.20:733][520]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/H8UTW5Z9CW0PEWSGSNUC9M0E2BD9074DDA1C66B1DCD185AFB6501F.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FH/H8UTW5Z9CW0PEWSGSNUC9M.uasset'
+[2023.12.18-19.14.20:739][520]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/F6/7W4I4I5AEV9DDZYZHCLUSW
+[2023.12.18-19.14.20:740][520]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/7W4I4I5AEV9DDZYZHCLUSW5D487FA1470B609F239F218C8EEE61EF.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/F6/7W4I4I5AEV9DDZYZHCLUSW.uasset'
+[2023.12.18-19.14.20:742][520]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_4_0.Heightmap_1 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.14.20:743][520]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_4_0.Heightmap_3 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.14.20:748][520]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/SH/LWPK6VKIBUHSIAGZZY65IY
+[2023.12.18-19.14.20:749][520]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/LWPK6VKIBUHSIAGZZY65IYE5C2265942C4D2099CB2D6800BA0C925.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/SH/LWPK6VKIBUHSIAGZZY65IY.uasset'
+[2023.12.18-19.14.20:751][520]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_4_0.Heightmap_1 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.14.20:755][520]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/YQ/QU5T9MU8352052GIJX3WSC
+[2023.12.18-19.14.20:756][520]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/QU5T9MU8352052GIJX3WSC36C00C3947CEFFD2CFC7AAB5BCD4B742.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/YQ/QU5T9MU8352052GIJX3WSC.uasset'
+[2023.12.18-19.14.20:757][520]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/JP/UD1FF80BRSW08NGBI4JOKN
+[2023.12.18-19.14.20:757][520]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/UD1FF80BRSW08NGBI4JOKN78F4AF5A45A13169FBE2A199BB341857.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/JP/UD1FF80BRSW08NGBI4JOKN.uasset'
+[2023.12.18-19.14.20:759][520]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/QA/ZSSVM09P88VHIH0V8MICIK
+[2023.12.18-19.14.20:759][520]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/ZSSVM09P88VHIH0V8MICIK46A77CE94248C74BD68499935F05CA7B.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/QA/ZSSVM09P88VHIH0V8MICIK.uasset'
+[2023.12.18-19.14.20:761][520]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/IJ/0WCFRBV8AUZVY3LJAUXTXH
+[2023.12.18-19.14.20:761][520]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/0WCFRBV8AUZVY3LJAUXTXH78713871473ED3E3CCD1AF91820642EC.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/IJ/0WCFRBV8AUZVY3LJAUXTXH.uasset'
+[2023.12.18-19.14.20:763][520]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/DT/AX88UMAJFV1UPEO14OT8H9
+[2023.12.18-19.14.20:763][520]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/AX88UMAJFV1UPEO14OT8H95C7B224E4A1AF2B65C7899A9EB003E7F.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/DT/AX88UMAJFV1UPEO14OT8H9.uasset'
+[2023.12.18-19.14.20:764][520]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/39/SPBJ3UCZ6ABA3I9J3IOLQQ
+[2023.12.18-19.14.20:764][520]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/SPBJ3UCZ6ABA3I9J3IOLQQ6C0F5A174D3C9562BEB6A7BF42068E23.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/39/SPBJ3UCZ6ABA3I9J3IOLQQ.uasset'
+[2023.12.18-19.14.20:766][520]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/Z4/GNLS5O96ARQ4FKL0283WQK
+[2023.12.18-19.14.20:766][520]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/GNLS5O96ARQ4FKL0283WQKED240D584C2691A31BF984A0053475C2.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/Z4/GNLS5O96ARQ4FKL0283WQK.uasset'
+[2023.12.18-19.14.20:768][520]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/LX/9ZYF13ZUK69ZYQ4T8W1E7D
+[2023.12.18-19.14.20:768][520]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/9ZYF13ZUK69ZYQ4T8W1E7D0B1CE0B14BF1DDC85064E782F01D8B0E.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/LX/9ZYF13ZUK69ZYQ4T8W1E7D.uasset'
+[2023.12.18-19.14.20:769][520]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/T0/QT9YC80EVF5XVIIHIUDC0B
+[2023.12.18-19.14.20:769][520]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/QT9YC80EVF5XVIIHIUDC0B02ECA56E498C0063A4FC879DA17D7B66.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/T0/QT9YC80EVF5XVIIHIUDC0B.uasset'
+[2023.12.18-19.14.20:771][520]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/5T/C6THYZIAJV3BIGL1K95HBG
+[2023.12.18-19.14.20:771][520]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/C6THYZIAJV3BIGL1K95HBGC5772E8044F9AF8C89D2BF9EBCDA39D5.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/5T/C6THYZIAJV3BIGL1K95HBG.uasset'
+[2023.12.18-19.14.20:773][520]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/QE/F3VLVQ2W9SKBQRVS136HAN
+[2023.12.18-19.14.20:773][520]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/F3VLVQ2W9SKBQRVS136HAN4FABB8A143485C4A46A101A8AE0F2546.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/QE/F3VLVQ2W9SKBQRVS136HAN.uasset'
+[2023.12.18-19.14.20:774][520]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/LQ/I91SR15U1CGMP68AFCRSZK
+[2023.12.18-19.14.20:774][520]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/I91SR15U1CGMP68AFCRSZKF7628AF848A13F5F96E7D38778BC7B95.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/LQ/I91SR15U1CGMP68AFCRSZK.uasset'
+[2023.12.18-19.14.20:776][520]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/79/18K2RVW4NC8MQ25MIWYEA9
+[2023.12.18-19.14.20:776][520]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/18K2RVW4NC8MQ25MIWYEA916E525474F9C7A23132FC6A2EBBAF5A1.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/79/18K2RVW4NC8MQ25MIWYEA9.uasset'
+[2023.12.18-19.14.20:777][520]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/N5/ZLA1UFSBNUWVK4Z998JROJ
+[2023.12.18-19.14.20:778][520]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/ZLA1UFSBNUWVK4Z998JROJ0DAFB6B94BD45971414E3782DE18C679.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/N5/ZLA1UFSBNUWVK4Z998JROJ.uasset'
+[2023.12.18-19.14.20:792][520]LogFileHelpers: InternalPromptForCheckoutAndSave took 203 ms (total: 1.24 sec)
+[2023.12.18-19.14.20:796][520]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.18-19.14.20:796][520]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_3_0
+[2023.12.18-19.14.20:796][520]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_2_0
+[2023.12.18-19.14.20:796][520]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_2_0
+[2023.12.18-19.14.20:796][520]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_1_0
+[2023.12.18-19.14.20:796][520]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_4_0
+[2023.12.18-19.14.20:796][520]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_3_0
+[2023.12.18-19.14.20:796][520]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_3_0
+[2023.12.18-19.14.20:796][520]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_1_4_0
+[2023.12.18-19.14.20:796][520]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_4_0
+[2023.12.18-19.14.20:796][520]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_4_0
+[2023.12.18-19.14.20:796][520]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6112C701_1412404513
+[2023.12.18-19.14.20:796][520]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6112C701_1567309514
+[2023.12.18-19.14.20:796][520]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6112C701_1788451517
+[2023.12.18-19.14.20:796][520]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6112C701_1723521516
+[2023.12.18-19.14.20:796][520]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6112C701_1684615515
+[2023.12.18-19.14.20:796][520]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6112C701_1990441518
+[2023.12.18-19.14.20:796][520]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6112C701_2074231519
+[2023.12.18-19.14.20:796][520]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6112C701_2134830520
+[2023.12.18-19.14.20:796][520]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6113C701_1140199697
+[2023.12.18-19.14.20:796][520]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6113C701_1197732698
+[2023.12.18-19.14.20:796][520]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6113C701_1213237699
+[2023.12.18-19.14.20:796][520]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6113C701_1260976700
+[2023.12.18-19.14.20:796][520]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6113C701_1272402701
+[2023.12.18-19.23.02:466][110]LogDerivedDataCache: C:/Users/zakwh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:23.244 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 12457 files in 14539 folders with total size 2826 MiB.
+[2023.12.18-19.42.54:546][975]Cmd: EDIT COPY
+[2023.12.18-19.42.54:852][ 10]Cmd: EDIT PASTE
+[2023.12.18-19.43.48:699][ 18]LogStaticMesh: Display: Building static mesh SM_mosaic...
+[2023.12.18-19.43.48:713][ 18]LogStaticMesh: Built static mesh [0.01s] /Game/Greek_island/Assets/Temple/SM_mosaic.SM_mosaic
+[2023.12.18-19.43.48:782][ 18]LogTexture: Display: Building textures: /Game/Greek_island/Textures/T_floor_temple/T_floor_temple_AORM.T_floor_temple_AORM (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2023.12.18-19.43.48:785][ 18]LogTexture: Display: Building textures: /Game/Greek_island/Textures/T_floor_temple/T_floor_temple_D.T_floor_temple_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2023.12.18-19.43.48:817][ 19]LogTexture: Display: Building textures: /Game/Greek_island/Textures/T_floor_temple/T_floor_temple_N.T_floor_temple_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 471.562488 MB), EncodeSpeed: Fast
+[2023.12.18-19.43.49:579][ 75]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Temple/SM_mosaic.SM_mosaic
+[2023.12.18-19.43.49:579][ 75]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Temple/SM_mosaic.SM_mosaic
+[2023.12.18-19.43.49:579][ 75]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Temple/SM_mosaic.SM_mosaic as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_48
+[2023.12.18-19.43.51:247][257]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Temple/SM_mosaic.SM_mosaic
+[2023.12.18-19.43.51:247][257]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Temple/SM_mosaic.SM_mosaic
+[2023.12.18-19.43.51:249][257]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Temple/SM_mosaic.SM_mosaic as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6114C701_1982492879
+[2023.12.18-19.44.47:075][155]LogStaticMesh: Display: Building static mesh SM_temple_wall...
+[2023.12.18-19.44.47:080][155]LogStaticMesh: Built static mesh [0.00s] /Game/Greek_island/Assets/Temple/SM_temple_wall.SM_temple_wall
+[2023.12.18-19.44.47:520][181]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Temple/SM_temple_wall.SM_temple_wall
+[2023.12.18-19.44.47:520][181]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Temple/SM_temple_wall.SM_temple_wall
+[2023.12.18-19.44.47:520][181]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Temple/SM_temple_wall.SM_temple_wall as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_49
+[2023.12.18-19.44.48:728][309]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Temple/SM_temple_wall.SM_temple_wall
+[2023.12.18-19.44.48:728][309]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Temple/SM_temple_wall.SM_temple_wall
+[2023.12.18-19.44.48:729][309]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Temple/SM_temple_wall.SM_temple_wall as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6114C701_2039973880
+[2023.12.18-19.46.06:801][993]Cmd: EDIT COPY
+[2023.12.18-19.46.07:109][ 30]Cmd: EDIT PASTE
+[2023.12.18-19.46.29:790][642]Cmd: TRANSACTION UNDO
+[2023.12.18-19.46.29:790][642]LogEditorTransaction: Undo Rotate Elements
+[2023.12.18-19.46.31:283][734]Cmd: EDIT COPY
+[2023.12.18-19.46.31:542][758]Cmd: EDIT PASTE
+[2023.12.18-19.46.35:969][213]Cmd: TRANSACTION UNDO
+[2023.12.18-19.46.35:969][213]LogEditorTransaction: Undo Rotate Elements
+[2023.12.18-19.46.37:590][316]Cmd: TRANSACTION UNDO
+[2023.12.18-19.46.37:591][316]LogEditorTransaction: Undo Rotate Elements
+[2023.12.18-19.47.00:064][740]Cmd: EDIT COPY
+[2023.12.18-19.47.00:314][770]Cmd: EDIT PASTE
+[2023.12.18-19.47.07:287][595]Cmd: EDIT COPY
+[2023.12.18-19.47.07:542][624]Cmd: EDIT PASTE
+[2023.12.18-19.47.21:439][173]Cmd: EDIT COPY
+[2023.12.18-19.47.21:681][202]Cmd: EDIT PASTE
+[2023.12.18-19.47.53:279][587]Cmd: MODE GRID=0
+[2023.12.18-19.48.50:490][990]LogViewport: Scene viewport resized to 1170x900, mode Windowed.
+[2023.12.18-19.48.54:262][366]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2023.12.18-19.48.58:744][886]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_3_0.Weightmap_6 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.48.58:746][886]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_3_0.Weightmap_2 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.48.58:993][915]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_3_0.Weightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.49.01:448][209]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_2_0.Weightmap_2 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.50.04:439][964]LogViewport: Scene viewport resized to 1526x900, mode Windowed.
+[2023.12.18-19.50.20:890][828]LogViewport: Scene viewport resized to 1170x900, mode Windowed.
+[2023.12.18-19.50.34:837][382]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_1_0.Weightmap_2 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.50.55:973][660]LogViewport: Scene viewport resized to 1526x900, mode Windowed.
+[2023.12.18-19.50.58:529][953]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-19.50.58:590][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.12.18-19.50.58:600][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.12.18-19.50.58:605][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.12.18-19.50.58:607][953]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_2_0.Weightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.50.58:607][953]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_2_0.Weightmap_1 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.18-19.50.58:607][953]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_2_0.Weightmap_8 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.50.58:608][953]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_2_0.Weightmap_9 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.18-19.50.58:609][953]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_1_0.Weightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.50.58:610][953]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_1_0.Weightmap_12 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.50.58:611][953]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_1_0.Weightmap_13 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.070305 MB), EncodeSpeed: Fast
+[2023.12.18-19.50.58:612][953]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_2_0.Weightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.50.58:613][953]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_2_0.Weightmap_2 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.50.58:622][953]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/A2/JT8VUZEOP69TK0KEAADVC5
+[2023.12.18-19.50.58:623][953]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/JT8VUZEOP69TK0KEAADVC503EAC91744C975142EB1B5AF8F0D5827.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/A2/JT8VUZEOP69TK0KEAADVC5.uasset'
+[2023.12.18-19.50.58:625][953]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_2_0.Weightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.50.58:632][953]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/LY/P99YL1QZKUPWCL71MNDDL3
+[2023.12.18-19.50.58:632][953]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/P99YL1QZKUPWCL71MNDDL3B50B25DC4B08C863AE5F4CBB7526E634.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/LY/P99YL1QZKUPWCL71MNDDL3.uasset'
+[2023.12.18-19.50.58:634][953]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_1_0.Weightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.50.58:639][953]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/OD/62J46R0EALIDLGOIDUCEE3
+[2023.12.18-19.50.58:639][953]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/62J46R0EALIDLGOIDUCEE3D5273A2A4852557F59BAAAB272750CFF.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/OD/62J46R0EALIDLGOIDUCEE3.uasset'
+[2023.12.18-19.50.58:641][953]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_2_0.Weightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.50.58:643][953]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_2_0.Weightmap_8 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.50.58:651][953]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/0J/00RIQ2WS6X5B9ITR4PUI38
+[2023.12.18-19.50.58:651][953]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/00RIQ2WS6X5B9ITR4PUI380DEF47BF4DA3C02F6B3F208431137874.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/0J/00RIQ2WS6X5B9ITR4PUI38.uasset'
+[2023.12.18-19.50.58:653][953]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_3_0.Weightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.50.58:654][953]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_3_0.Weightmap_6 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.50.58:662][953]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/AX/UH2LHZ9CRFINDEIY6ZD5MM
+[2023.12.18-19.50.58:662][953]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/UH2LHZ9CRFINDEIY6ZD5MM1A37103649210728B8E49FA33035E239.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/AX/UH2LHZ9CRFINDEIY6ZD5MM.uasset'
+[2023.12.18-19.50.58:664][953]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_3_0.Weightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.50.58:671][953]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FH/H8UTW5Z9CW0PEWSGSNUC9M
+[2023.12.18-19.50.58:672][953]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/H8UTW5Z9CW0PEWSGSNUC9MB24175D746C4AA107C5D758E082BACF1.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FH/H8UTW5Z9CW0PEWSGSNUC9M.uasset'
+[2023.12.18-19.50.58:674][953]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_1_0.Weightmap_0 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.50.58:675][953]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_1_0.Weightmap_2 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.50.58:683][953]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/HO/LWCLT7MEPBRTRBFWKJBV21
+[2023.12.18-19.50.58:683][953]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/LWCLT7MEPBRTRBFWKJBV210224739D451321CA91B81A89C8026EC4.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/HO/LWCLT7MEPBRTRBFWKJBV21.uasset'
+[2023.12.18-19.50.58:685][953]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_1_0.Weightmap_12 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2023.12.18-19.50.58:693][953]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XB/UKOPGKPKJEZ5D1HBFBZ3EZ
+[2023.12.18-19.50.58:694][953]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/UKOPGKPKJEZ5D1HBFBZ3EZ07C704C14BC7FE5F43875FBE4D445421.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XB/UKOPGKPKJEZ5D1HBFBZ3EZ.uasset'
+[2023.12.18-19.50.58:697][953]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/2Y/EXME7P4EBYMNNL5OIHFKNX
+[2023.12.18-19.50.58:698][953]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/EXME7P4EBYMNNL5OIHFKNX0F4F39D742604F052C11E8A7A01759FE.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/2Y/EXME7P4EBYMNNL5OIHFKNX.uasset'
+[2023.12.18-19.50.58:699][953]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/LX/9ZYF13ZUK69ZYQ4T8W1E7D
+[2023.12.18-19.50.58:700][953]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/9ZYF13ZUK69ZYQ4T8W1E7DE917FF064207C01684E1FC9A8E98ABEF.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/LX/9ZYF13ZUK69ZYQ4T8W1E7D.uasset'
+[2023.12.18-19.50.58:701][953]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/OP/A3DE0BN9AQWAAF7669YMB1
+[2023.12.18-19.50.58:702][953]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/A3DE0BN9AQWAAF7669YMB1AADF316C4703B6B59912B9A3D6258282.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/OP/A3DE0BN9AQWAAF7669YMB1.uasset'
+[2023.12.18-19.50.58:703][953]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/UK/16UNT0T888GWPTGOD7RWGZ
+[2023.12.18-19.50.58:703][953]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/16UNT0T888GWPTGOD7RWGZC8CBB2C84A1B59A3BA44A7AEF22F32E6.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/UK/16UNT0T888GWPTGOD7RWGZ.uasset'
+[2023.12.18-19.50.58:705][953]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/BQ/IEON07XIFXFH8G5GDZQK7F
+[2023.12.18-19.50.58:705][953]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/IEON07XIFXFH8G5GDZQK7FE5F6911C408BF6EC4ABC308CB48FCDE0.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/BQ/IEON07XIFXFH8G5GDZQK7F.uasset'
+[2023.12.18-19.50.58:707][953]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HU/DUPPQ1DBSO54OTFKRQ1J3J
+[2023.12.18-19.50.58:707][953]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/DUPPQ1DBSO54OTFKRQ1J3JAB3A0D964359AC8AD6ABC4898F08319E.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HU/DUPPQ1DBSO54OTFKRQ1J3J.uasset'
+[2023.12.18-19.50.58:708][953]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/KS/9J5XEV9FE2HHEMGHPZL0G2
+[2023.12.18-19.50.58:708][953]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/9J5XEV9FE2HHEMGHPZL0G2F3243252461886591A64999460AEFBAB.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/KS/9J5XEV9FE2HHEMGHPZL0G2.uasset'
+[2023.12.18-19.50.58:710][953]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/ST/JN3WI8VTMJB5COU5VSGFVQ
+[2023.12.18-19.50.58:710][953]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/JN3WI8VTMJB5COU5VSGFVQ563EFFFF4239999ED66A48A5B08D81D1.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/ST/JN3WI8VTMJB5COU5VSGFVQ.uasset'
+[2023.12.18-19.50.58:712][953]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/DQ/8KCNN9XDGQFZD3KQ31QFHB
+[2023.12.18-19.50.58:712][953]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/8KCNN9XDGQFZD3KQ31QFHBE1E506A94E1A4C415E1543A883152F12.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/DQ/8KCNN9XDGQFZD3KQ31QFHB.uasset'
+[2023.12.18-19.50.58:713][953]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/8Y/LZAKQ5B78B19GBTYV9WODF
+[2023.12.18-19.50.58:713][953]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/LZAKQ5B78B19GBTYV9WODFEF553EE642C21A7D62C3FCBEB7994D19.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/8Y/LZAKQ5B78B19GBTYV9WODF.uasset'
+[2023.12.18-19.50.58:715][953]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/W4/N3QTYRA200BE9EF6BGEIUE
+[2023.12.18-19.50.58:715][953]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/N3QTYRA200BE9EF6BGEIUE93780A0A4B260697F65E998E0B9F73E2.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/W4/N3QTYRA200BE9EF6BGEIUE.uasset'
+[2023.12.18-19.50.58:717][953]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/12/J4YB1OGKJZ9YOORQ9YG9WT
+[2023.12.18-19.50.58:717][953]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/J4YB1OGKJZ9YOORQ9YG9WT3ADA6811459410D1076178A2EFC197FB.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/12/J4YB1OGKJZ9YOORQ9YG9WT.uasset'
+[2023.12.18-19.50.58:730][953]LogFileHelpers: InternalPromptForCheckoutAndSave took 200 ms (total: 1.44 sec)
+[2023.12.18-19.50.58:734][953]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.18-19.50.58:734][953]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_2_0
+[2023.12.18-19.50.58:734][953]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_2_0
+[2023.12.18-19.50.58:734][953]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_4_1_0
+[2023.12.18-19.50.58:734][953]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_2_0
+[2023.12.18-19.50.58:734][953]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_3_0
+[2023.12.18-19.50.58:734][953]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_3_0
+[2023.12.18-19.50.58:734][953]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_3_1_0
+[2023.12.18-19.50.58:734][953]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_72UFLEGXBYRN70VYORVB900O3_30_2_1_0
+[2023.12.18-19.50.58:734][953]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.InstancedFoliageActor_25600_0_0_-1
+[2023.12.18-19.50.58:734][953]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6112C701_2074231519
+[2023.12.18-19.50.58:734][953]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6114C701_1926097878
+[2023.12.18-19.50.58:734][953]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6114C701_1982492879
+[2023.12.18-19.50.58:734][953]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6114C701_2039973880
+[2023.12.18-19.50.58:734][953]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6114C701_2118355881
+[2023.12.18-19.50.58:734][953]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6114C701_2142787882
+[2023.12.18-19.50.58:734][953]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6115C701_1097818059
+[2023.12.18-19.50.58:734][953]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6115C701_1105047060
+[2023.12.18-19.50.58:734][953]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6115C701_1119185061
+[2023.12.18-19.50.58:734][953]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6115C701_1119187062
+[2023.12.18-19.50.58:734][953]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6115C701_1119188063
+[2023.12.18-19.51.06:885][818]LogStaticMesh: Display: Building static mesh SM_Fence_wood_04...
+[2023.12.18-19.51.07:040][827]LogStaticMesh: Built static mesh [0.16s] /Game/Greek_island/Assets/Fence/SM_Fence_wood_04.SM_Fence_wood_04
+[2023.12.18-19.51.10:638][153]LogStaticMesh: Display: Building static mesh SM_Fence_wood_02...
+[2023.12.18-19.51.10:998][177]LogStaticMesh: Built static mesh [0.36s] /Game/Greek_island/Assets/Fence/SM_Fence_wood_02.SM_Fence_wood_02
+[2023.12.18-19.51.11:020][177]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Fence/SM_Fence_wood_02.SM_Fence_wood_02
+[2023.12.18-19.51.11:020][177]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Fence/SM_Fence_wood_02.SM_Fence_wood_02
+[2023.12.18-19.51.11:020][177]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Fence/SM_Fence_wood_02.SM_Fence_wood_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_50
+[2023.12.18-19.51.12:676][349]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Fence/SM_Fence_wood_02.SM_Fence_wood_02
+[2023.12.18-19.51.12:676][349]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Fence/SM_Fence_wood_02.SM_Fence_wood_02
+[2023.12.18-19.51.12:678][349]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Fence/SM_Fence_wood_02.SM_Fence_wood_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6115C701_1350180064
+[2023.12.18-19.51.25:251][666]Cmd: EDIT COPY
+[2023.12.18-19.51.25:513][696]Cmd: EDIT PASTE
+[2023.12.18-19.51.31:942][351]Cmd: EDIT COPY
+[2023.12.18-19.51.32:207][381]Cmd: EDIT PASTE
+[2023.12.18-19.51.36:220][826]Cmd: EDIT COPY
+[2023.12.18-19.51.36:476][855]Cmd: EDIT PASTE
+[2023.12.18-19.51.44:104][654]Cmd: EDIT COPY
+[2023.12.18-19.51.44:350][682]Cmd: EDIT PASTE
+[2023.12.18-19.51.50:932][398]Cmd: EDIT COPY
+[2023.12.18-19.51.51:185][427]Cmd: EDIT PASTE
+[2023.12.18-19.52.17:525][302]Cmd: EDIT COPY
+[2023.12.18-19.52.17:764][326]Cmd: EDIT PASTE
+[2023.12.18-19.52.27:475][378]Cmd: EDIT COPY
+[2023.12.18-19.52.27:728][407]Cmd: EDIT PASTE
+[2023.12.18-19.53.05:375][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.12.18-19.53.05:381][471]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/TM/0OWMMH67S1V4VT9THRQZ79_Auto3
+[2023.12.18-19.53.05:381][471]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/0OWMMH67S1V4VT9THRQZ79_Auto326E0345D428EE696675CE8AA4249775B.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/TM/0OWMMH67S1V4VT9THRQZ79_Auto3.uasset'
+[2023.12.18-19.53.05:383][471]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/LZ/CDXC0Y4LSLPIFT4GT8HUGW_Auto3
+[2023.12.18-19.53.05:383][471]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/CDXC0Y4LSLPIFT4GT8HUGW_Auto38AD0C67A4FE1B34FC092FB9CB35C3AAA.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/LZ/CDXC0Y4LSLPIFT4GT8HUGW_Auto3.uasset'
+[2023.12.18-19.53.05:384][471]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/RA/HKI0MS1SJ7KN4DFU32X436_Auto3
+[2023.12.18-19.53.05:384][471]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/HKI0MS1SJ7KN4DFU32X436_Auto38ED9204B4EF74F36A1D2B2974F75AD3A.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/RA/HKI0MS1SJ7KN4DFU32X436_Auto3.uasset'
+[2023.12.18-19.53.05:386][471]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/AW/T5B67D5OCSN44B9SAB9YD6_Auto3
+[2023.12.18-19.53.05:386][471]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/T5B67D5OCSN44B9SAB9YD6_Auto3D88E305C4F68810BA802848E167438F5.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/AW/T5B67D5OCSN44B9SAB9YD6_Auto3.uasset'
+[2023.12.18-19.53.05:388][471]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/11/MX7NJ1CKJJ5MHUAS3H1TC8_Auto3
+[2023.12.18-19.53.05:388][471]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/MX7NJ1CKJJ5MHUAS3H1TC8_Auto3095ACBE1428357DB5F39DFBF4137AAA7.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/11/MX7NJ1CKJJ5MHUAS3H1TC8_Auto3.uasset'
+[2023.12.18-19.53.05:390][471]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/03/GAQ29MGYEP90R7HQ2R0RWH_Auto3
+[2023.12.18-19.53.05:390][471]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/GAQ29MGYEP90R7HQ2R0RWH_Auto35FE7B6464FC095C207C705BEBF3C951E.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/03/GAQ29MGYEP90R7HQ2R0RWH_Auto3.uasset'
+[2023.12.18-19.53.05:392][471]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/XG/CFS3KRFGOKZSFATMOTQ0YB_Auto3
+[2023.12.18-19.53.05:392][471]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/CFS3KRFGOKZSFATMOTQ0YB_Auto315FCEB7A44BA4A0FE4FBA89BD7D9A5E0.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/XG/CFS3KRFGOKZSFATMOTQ0YB_Auto3.uasset'
+[2023.12.18-19.53.05:393][471]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/JG/L2X416AY03SNHVONDOF800_Auto3
+[2023.12.18-19.53.05:393][471]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/L2X416AY03SNHVONDOF800_Auto3D077B0D448013A6386E5E991EA10D3B5.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/JG/L2X416AY03SNHVONDOF800_Auto3.uasset'
+[2023.12.18-19.53.05:394][471]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.027
+[2023.12.18-19.53.05:394][471]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.027
+[2023.12.18-19.53.15:312][831]Cmd: EDIT COPY
+[2023.12.18-19.53.15:609][865]Cmd: EDIT PASTE
+[2023.12.18-19.53.26:741][ 89]Cmd: EDIT COPY
+[2023.12.18-19.53.26:981][101]Cmd: EDIT PASTE
+[2023.12.18-19.54.49:268][324]Cmd: EDIT COPY
+[2023.12.18-19.54.49:693][366]Cmd: EDIT PASTE
+[2023.12.18-19.54.54:604][881]Cmd: EDIT COPY
+[2023.12.18-19.54.54:873][901]Cmd: EDIT PASTE
+[2023.12.18-19.54.58:453][294]Cmd: EDIT COPY
+[2023.12.18-19.54.58:690][321]Cmd: EDIT PASTE
+[2023.12.18-19.55.03:468][856]Cmd: EDIT COPY
+[2023.12.18-19.55.03:699][882]Cmd: EDIT PASTE
+[2023.12.18-19.55.19:072][598]Cmd: EDIT COPY
+[2023.12.18-19.55.19:342][611]Cmd: EDIT PASTE
+[2023.12.18-19.55.59:958][263]Cmd: EDIT COPY
+[2023.12.18-19.56.00:204][291]Cmd: EDIT PASTE
+[2023.12.18-19.56.08:695][128]Cmd: EDIT COPY
+[2023.12.18-19.56.08:958][158]Cmd: EDIT PASTE
+[2023.12.18-19.56.13:638][650]Cmd: EDIT COPY
+[2023.12.18-19.56.13:893][679]Cmd: EDIT PASTE
+[2023.12.18-19.56.19:820][322]Cmd: EDIT COPY
+[2023.12.18-19.56.20:055][335]Cmd: EDIT PASTE
+[2023.12.18-19.56.29:602][341]Cmd: EDIT COPY
+[2023.12.18-19.56.29:865][371]Cmd: EDIT PASTE
+[2023.12.18-19.56.47:374][321]Cmd: EDIT COPY
+[2023.12.18-19.56.47:619][349]Cmd: EDIT PASTE
+[2023.12.18-19.56.52:954][953]Cmd: EDIT COPY
+[2023.12.18-19.56.53:212][984]Cmd: EDIT PASTE
+[2023.12.18-19.57.38:709][359]Cmd: EDIT COPY
+[2023.12.18-19.57.38:944][377]Cmd: EDIT PASTE
+[2023.12.18-19.57.44:797][ 21]Cmd: EDIT COPY
+[2023.12.18-19.57.45:022][ 48]Cmd: EDIT PASTE
+[2023.12.18-19.57.50:044][623]Cmd: EDIT COPY
+[2023.12.18-19.57.50:381][662]Cmd: EDIT PASTE
+[2023.12.18-19.57.56:644][351]Cmd: EDIT COPY
+[2023.12.18-19.57.56:899][380]Cmd: EDIT PASTE
+[2023.12.18-19.58.16:566][524]Cmd: EDIT COPY
+[2023.12.18-19.58.16:814][552]Cmd: EDIT PASTE
+[2023.12.18-19.58.20:707][942]Cmd: EDIT COPY
+[2023.12.18-19.58.20:954][970]Cmd: EDIT PASTE
+[2023.12.18-19.58.25:114][434]Cmd: EDIT COPY
+[2023.12.18-19.58.25:380][466]Cmd: EDIT PASTE
+[2023.12.18-19.58.29:641][937]Cmd: EDIT COPY
+[2023.12.18-19.58.29:874][965]Cmd: EDIT PASTE
+[2023.12.18-19.58.36:044][642]Cmd: EDIT CUT
+[2023.12.18-19.58.36:049][642]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.18-19.58.36:056][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.12.18-19.58.36:060][642]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2023.12.18-19.58.37:567][816]Cmd: TRANSACTION UNDO
+[2023.12.18-19.58.37:567][816]LogEditorTransaction: Undo Cut
+[2023.12.18-19.58.39:039][903]Cmd: EDIT COPY
+[2023.12.18-19.58.39:324][927]Cmd: EDIT PASTE
+[2023.12.18-19.59.04:245][688]Cmd: EDIT COPY
+[2023.12.18-19.59.04:483][715]Cmd: EDIT PASTE
+[2023.12.18-19.59.13:545][725]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.18-19.59.13:550][725]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.12.18-19.59.13:550][725]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2023.12.18-19.59.13:555][725]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4 ms (total: 70 ms)
+[2023.12.18-19.59.13:555][725]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.18-19.59.13:555][725]PIE: New page: PIE session: ThirdPersonMap (18 Dec 2023, 19:59:13)
+[2023.12.18-19.59.13:578][725]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.12.18-19.59.13:602][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023370s)
+[2023.12.18-19.59.13:602][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.023407s)
+[2023.12.18-19.59.13:608][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.12.18-19.59.13:611][725]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.18-19.59.13:611][725]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.18-19.59.13:611][725]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.12.18-19.59.13:612][725]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.12.18-19.59.13:612][725]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.12.18-19.59.13:612][725]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.12.18-19.59.13:612][725]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.12.18-19.59.13:617][725]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.12.18-19.59.13:617][725]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 1.09 sec)
+[2023.12.18-19.59.13:617][725]LogPlayLevel: PIE: World Init took: (0.006762s)
+[2023.12.18-19.59.13:617][725]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.12.18-19.59.13:618][725]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.18-19.59.13:618][725]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.18-19.59.13:618][725]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.18-19.59.13:618][725]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.18-19.59.13:618][725]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.18-19.59.13:618][725]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.18-19.59.13:618][725]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.18-19.59.13:618][725]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.18-19.59.13:618][725]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.18-19.59.13:618][725]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.18-19.59.13:618][725]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.18-19.59.13:620][725]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.18-19.59.13:638][725]LogAudioMixer: Display: Using Audio Hardware Device Wave Link System (2- Elgato Wave:3)
+[2023.12.18-19.59.13:638][725]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.18-19.59.13:638][725]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.18-19.59.13:638][725]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.18-19.59.13:639][725]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2023.12.18-19.59.13:639][725]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2023.12.18-19.59.13:640][725]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.12.18-19.59.13:640][725]LogInit: FAudioDevice initialized with ID 20.
+[2023.12.18-19.59.13:640][725]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2023.12.18-19.59.13:640][725]LogAudio: Display: Audio Device (ID: 20) registered with world 'ThirdPersonMap'.
+[2023.12.18-19.59.13:640][725]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2023.12.18-19.59.13:643][725]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.12.18-19.59.13:660][725]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.12.18-19.59.13
+[2023.12.18-19.59.13:660][725]LogWorld: Bringing up level for play took: 0.016966
+[2023.12.18-19.59.13:662][725]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.12.18-19.59.13:665][725]PIE: Server logged in
+[2023.12.18-19.59.13:666][725]PIE: Play in editor total start time 0.116 seconds.
+[2023.12.18-19.59.46:946][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.18-19.59.46:947][686]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.12.18-19.59.46:947][686]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.12.18-19.59.46:951][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.18-19.59.46:951][686]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.12.18-19.59.46:954][686]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.18-19.59.46:957][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.18-19.59.46:965][686]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.18-19.59.46:965][686]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2023.12.18-19.59.46:965][686]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.12.18-19.59.46:967][686]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.12.18-19.59.46:971][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.18-19.59.46:978][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.12.18-19.59.47:037][687]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.12.18-20.00.39:962][608]LogStaticMesh: Display: Building static mesh SM_rock_02...
+[2023.12.18-20.00.40:105][611]LogTexture: Display: Building textures: /Game/Greek_island/Textures/T_normals/T_rock_hell_normal.T_rock_hell_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 471.562488 MB), EncodeSpeed: Fast
+[2023.12.18-20.00.40:260][618]LogTexture: Display: Building textures: /Game/Greek_island/Textures/T_rock_02_B/T_rock_02/T_rock_02_AORM.T_rock_02_AORM (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.12.18-20.00.40:323][618]LogTexture: Display: Building textures: /Game/Greek_island/Textures/T_rock_02_B/T_rock_02/T_rock_02_D.T_rock_02_D (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.12.18-20.00.40:566][622]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Rocks/SM_rock_02.SM_rock_02
+[2023.12.18-20.00.40:566][622]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Rocks/SM_rock_02.SM_rock_02
+[2023.12.18-20.00.40:567][622]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Rocks/SM_rock_02.SM_rock_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_51
+[2023.12.18-20.00.40:584][622]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Greek_island/Assets/Rocks/SM_rock_02) ...
+[2023.12.18-20.00.40:707][622]LogTexture: Display: Building textures: /Game/Greek_island/Textures/T_rock_02_B/T_rock_02/T_rock_02_N.T_rock_02_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1216.062484 MB), EncodeSpeed: Fast
+[2023.12.18-20.00.46:583][622]LogStaticMesh: Built static mesh [6.62s] /Game/Greek_island/Assets/Rocks/SM_rock_02.SM_rock_02
+[2023.12.18-20.00.50:277][851]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Rocks/SM_rock_02.SM_rock_02
+[2023.12.18-20.00.50:278][851]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Rocks/SM_rock_02.SM_rock_02
+[2023.12.18-20.00.50:279][851]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Rocks/SM_rock_02.SM_rock_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6115C701_1927781096
+[2023.12.18-20.01.00:846][860]Cmd: TRANSACTION UNDO
+[2023.12.18-20.01.00:846][860]LogEditorTransaction: Undo Scale Elements
+[2023.12.18-20.01.20:762][843]LogStaticMesh: Display: Building static mesh SM_wood_top...
+[2023.12.18-20.01.21:015][856]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Wood_kit/SM_wood_top.SM_wood_top
+[2023.12.18-20.01.21:016][856]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Wood_kit/SM_wood_top.SM_wood_top
+[2023.12.18-20.01.21:016][856]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Wood_kit/SM_wood_top.SM_wood_top as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_52
+[2023.12.18-20.01.21:033][856]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Greek_island/Assets/Wood_kit/SM_wood_top) ...
+[2023.12.18-20.01.21:180][856]LogStaticMesh: Built static mesh [0.42s] /Game/Greek_island/Assets/Wood_kit/SM_wood_top.SM_wood_top
+[2023.12.18-20.01.23:456][ 59]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Wood_kit/SM_wood_top.SM_wood_top
+[2023.12.18-20.01.23:456][ 59]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Wood_kit/SM_wood_top.SM_wood_top
+[2023.12.18-20.01.23:458][ 59]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Wood_kit/SM_wood_top.SM_wood_top as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6115C701_1960960097
+[2023.12.18-20.01.24:631][188]Cmd: DELETE
+[2023.12.18-20.01.24:631][188]Cmd: ACTOR DELETE
+[2023.12.18-20.01.24:634][188]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.18-20.01.24:641][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.12.18-20.01.24:644][188]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2023.12.18-20.01.31:889][984]LogStaticMesh: Display: Building static mesh SM_wood_kit_02...
+[2023.12.18-20.01.32:360][ 20]LogStaticMesh: Built static mesh [0.47s] /Game/Greek_island/Assets/Wood_kit/SM_wood_kit_02.SM_wood_kit_02
+[2023.12.18-20.01.32:497][ 25]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Wood_kit/SM_wood_kit_02.SM_wood_kit_02
+[2023.12.18-20.01.32:497][ 25]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Wood_kit/SM_wood_kit_02.SM_wood_kit_02
+[2023.12.18-20.01.32:498][ 25]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Wood_kit/SM_wood_kit_02.SM_wood_kit_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_53
+[2023.12.18-20.01.33:522][133]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Wood_kit/SM_wood_kit_02.SM_wood_kit_02
+[2023.12.18-20.01.33:522][133]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Wood_kit/SM_wood_kit_02.SM_wood_kit_02
+[2023.12.18-20.01.33:524][133]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Wood_kit/SM_wood_kit_02.SM_wood_kit_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6115C701_1971026098
+[2023.12.18-20.02.03:586][464]Cmd: EDIT COPY
+[2023.12.18-20.02.03:857][485]Cmd: EDIT PASTE
+[2023.12.18-20.02.07:508][899]Cmd: EDIT COPY
+[2023.12.18-20.02.07:753][927]Cmd: EDIT PASTE
+[2023.12.18-20.03.12:726][626]LogStaticMesh: Display: Building static mesh SM_decorative_fabric...
+[2023.12.18-20.03.12:812][627]LogTexture: Display: Building textures: /Game/Greek_island/Textures/T_fabric/T_fabric_D.T_fabric_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2023.12.18-20.03.12:848][628]LogTexture: Display: Building textures: /Game/Greek_island/Textures/T_fabric/T_fabric_AORM.T_fabric_AORM (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2023.12.18-20.03.12:876][628]LogStaticMesh: Built static mesh [0.15s] /Game/Greek_island/Assets/Decorative_fabric/SM_decorative_fabric.SM_decorative_fabric
+[2023.12.18-20.03.12:911][629]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Decorative_fabric/SM_decorative_fabric.SM_decorative_fabric
+[2023.12.18-20.03.12:911][629]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Decorative_fabric/SM_decorative_fabric.SM_decorative_fabric
+[2023.12.18-20.03.12:911][629]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Decorative_fabric/SM_decorative_fabric.SM_decorative_fabric as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_54
+[2023.12.18-20.03.12:994][629]LogTexture: Display: Building textures: /Game/Greek_island/Textures/T_fabric/T_fabric_N.T_fabric_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 487.562488 MB), EncodeSpeed: Fast
+[2023.12.18-20.03.13:484][635]LogShaderCompilers: Display: ================================================
+[2023.12.18-20.03.13:484][635]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.18-20.03.13:484][635]LogShaderCompilers: Display: Total job queries 303, among them cache hits 54 (17.82%)
+[2023.12.18-20.03.13:484][635]LogShaderCompilers: Display: Tracking 241 distinct input hashes that result in 198 distinct outputs (82.16%)
+[2023.12.18-20.03.13:484][635]LogShaderCompilers: Display: RAM used: 6.32 MiB of 1.60 GiB budget. Usage: 0.39%
+[2023.12.18-20.03.13:484][635]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.18-20.03.13:484][635]LogShaderCompilers: Display: Shaders Compiled: 79
+[2023.12.18-20.03.13:484][635]LogShaderCompilers: Display: Jobs assigned 87, completed 79 (90.80%)
+[2023.12.18-20.03.13:484][635]LogShaderCompilers: Display: Average time worker was idle: 810.61 s
+[2023.12.18-20.03.13:484][635]LogShaderCompilers: Display: Time job spent in pending queue: average 0.15 s, longest 1.12 s
+[2023.12.18-20.03.13:484][635]LogShaderCompilers: Display: Job execution time: average 0.76 s, max 2.48 s
+[2023.12.18-20.03.13:484][635]LogShaderCompilers: Display: Job life time (pending + execution): average 0.92 s, max 2.50
+[2023.12.18-20.03.13:484][635]LogShaderCompilers: Display: Shader code size: average 37.815 KiB, min 30.809 KiB, max 57.273 KiB
+[2023.12.18-20.03.13:484][635]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.59 s
+[2023.12.18-20.03.13:485][635]LogShaderCompilers: Display: Jobs were issued in 87 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.12.18-20.03.13:485][635]LogShaderCompilers: Display: Average processing rate: 8.24 jobs/sec
+[2023.12.18-20.03.13:485][635]LogShaderCompilers: Display: Total thread time: 28.319 s
+[2023.12.18-20.03.13:485][635]LogShaderCompilers: Display: Total thread preprocess time: 3.394 s
+[2023.12.18-20.03.13:485][635]LogShaderCompilers: Display: Percentage time preprocessing: 11.98%
+[2023.12.18-20.03.13:485][635]LogShaderCompilers: Display: Effective parallelization: 2.95 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.12.18-20.03.13:485][635]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.12.18-20.03.13:485][635]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled    2 times, average 1.30 sec, max 1.31 sec, min 1.30 sec)
+[2023.12.18-20.03.13:485][635]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    2 times, average 0.99 sec, max 1.16 sec, min 0.82 sec)
+[2023.12.18-20.03.13:485][635]LogShaderCompilers: Display:                                               FHWRasterizePS (compiled    2 times, average 0.70 sec, max 0.75 sec, min 0.64 sec)
+[2023.12.18-20.03.13:485][635]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   11 times, average 0.50 sec, max 1.26 sec, min 0.23 sec)
+[2023.12.18-20.03.13:485][635]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    6 times, average 0.36 sec, max 0.72 sec, min 0.26 sec)
+[2023.12.18-20.03.13:485][635]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.12.18-20.03.13:485][635]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.28% of total time (compiled   11 times, average 0.50 sec, max 1.26 sec, min 0.23 sec)
+[2023.12.18-20.03.13:485][635]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.14% of total time (compiled    9 times, average 0.32 sec, max 0.73 sec, min 0.17 sec)
+[2023.12.18-20.03.13:485][635]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 9.21% of total time (compiled    2 times, average 1.30 sec, max 1.31 sec, min 1.30 sec)
+[2023.12.18-20.03.13:485][635]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 7.73% of total time (compiled    6 times, average 0.36 sec, max 0.72 sec, min 0.26 sec)
+[2023.12.18-20.03.13:485][635]LogShaderCompilers: Display:                                           FLumenCardPS<true> - 6.98% of total time (compiled    2 times, average 0.99 sec, max 1.16 sec, min 0.82 sec)
+[2023.12.18-20.03.13:485][635]LogShaderCompilers: Display: ================================================
+[2023.12.18-20.03.14:899][760]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Decorative_fabric/SM_decorative_fabric.SM_decorative_fabric
+[2023.12.18-20.03.14:899][760]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Decorative_fabric/SM_decorative_fabric.SM_decorative_fabric
+[2023.12.18-20.03.14:901][760]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Decorative_fabric/SM_decorative_fabric.SM_decorative_fabric as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6115C701_2072403101
+[2023.12.18-20.03.59:384][719]Cmd: EDIT COPY
+[2023.12.18-20.03.59:659][745]Cmd: EDIT PASTE
+[2023.12.18-20.04.08:787][739]Cmd: EDIT COPY
+[2023.12.18-20.04.09:047][752]Cmd: EDIT PASTE
+[2023.12.18-20.04.20:249][ 62]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.18-20.04.20:254][ 62]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.12.18-20.04.20:254][ 62]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2023.12.18-20.04.20:259][ 62]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4 ms (total: 75 ms)
+[2023.12.18-20.04.20:259][ 62]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.18-20.04.20:259][ 62]PIE: New page: PIE session: ThirdPersonMap (18 Dec 2023, 20:04:20)
+[2023.12.18-20.04.20:259][ 62]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.12.18-20.04.20:284][ 62]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024573s)
+[2023.12.18-20.04.20:284][ 62]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.024603s)
+[2023.12.18-20.04.20:291][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.12.18-20.04.20:295][ 62]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.18-20.04.20:295][ 62]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.18-20.04.20:296][ 62]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.12.18-20.04.20:296][ 62]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.12.18-20.04.20:296][ 62]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.12.18-20.04.20:296][ 62]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.12.18-20.04.20:296][ 62]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.12.18-20.04.20:302][ 62]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.12.18-20.04.20:302][ 62]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 1.09 sec)
+[2023.12.18-20.04.20:302][ 62]LogPlayLevel: PIE: World Init took: (0.006952s)
+[2023.12.18-20.04.20:302][ 62]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.12.18-20.04.20:302][ 62]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.18-20.04.20:302][ 62]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.18-20.04.20:302][ 62]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.18-20.04.20:302][ 62]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.18-20.04.20:302][ 62]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.18-20.04.20:302][ 62]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.18-20.04.20:302][ 62]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.18-20.04.20:302][ 62]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.18-20.04.20:303][ 62]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.18-20.04.20:303][ 62]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.18-20.04.20:303][ 62]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.18-20.04.20:305][ 62]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.18-20.04.20:323][ 62]LogAudioMixer: Display: Using Audio Hardware Device Wave Link System (2- Elgato Wave:3)
+[2023.12.18-20.04.20:323][ 62]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.18-20.04.20:323][ 62]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.18-20.04.20:323][ 62]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.18-20.04.20:324][ 62]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2023.12.18-20.04.20:324][ 62]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2023.12.18-20.04.20:325][ 62]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2023.12.18-20.04.20:325][ 62]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2023.12.18-20.04.20:325][ 62]LogInit: FAudioDevice initialized with ID 21.
+[2023.12.18-20.04.20:325][ 62]LogAudio: Display: Audio Device (ID: 21) registered with world 'ThirdPersonMap'.
+[2023.12.18-20.04.20:325][ 62]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2023.12.18-20.04.20:328][ 62]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.12.18-20.04.20:345][ 62]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.12.18-20.04.20
+[2023.12.18-20.04.20:346][ 62]LogWorld: Bringing up level for play took: 0.017580
+[2023.12.18-20.04.20:347][ 62]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.12.18-20.04.20:351][ 62]PIE: Server logged in
+[2023.12.18-20.04.20:351][ 62]PIE: Play in editor total start time 0.098 seconds.
+[2023.12.18-20.04.37:918][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.18-20.04.37:919][143]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.12.18-20.04.37:919][143]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.12.18-20.04.37:923][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.18-20.04.37:923][143]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.12.18-20.04.37:926][143]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.18-20.04.37:929][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.18-20.04.37:937][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.18-20.04.37:938][143]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2023.12.18-20.04.37:938][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.12.18-20.04.37:940][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.12.18-20.04.37:953][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.12.18-20.04.38:009][144]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.12.18-20.05.08:285][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.12.18-20.05.08:290][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/TM/0OWMMH67S1V4VT9THRQZ79_Auto4
+[2023.12.18-20.05.08:290][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/0OWMMH67S1V4VT9THRQZ79_Auto4DA6641FD4F77DF03ED385899BB64F8C3.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/TM/0OWMMH67S1V4VT9THRQZ79_Auto4.uasset'
+[2023.12.18-20.05.08:292][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/LZ/CDXC0Y4LSLPIFT4GT8HUGW_Auto4
+[2023.12.18-20.05.08:292][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/CDXC0Y4LSLPIFT4GT8HUGW_Auto42FD05C1C47EE9FDF99DC41A964247CF2.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/LZ/CDXC0Y4LSLPIFT4GT8HUGW_Auto4.uasset'
+[2023.12.18-20.05.08:293][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/RA/HKI0MS1SJ7KN4DFU32X436_Auto4
+[2023.12.18-20.05.08:293][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/HKI0MS1SJ7KN4DFU32X436_Auto42248DAC8454790084D656E96A54AC5A3.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/RA/HKI0MS1SJ7KN4DFU32X436_Auto4.uasset'
+[2023.12.18-20.05.08:296][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/AW/T5B67D5OCSN44B9SAB9YD6_Auto4
+[2023.12.18-20.05.08:296][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/T5B67D5OCSN44B9SAB9YD6_Auto44600DD1E462189953C47FC97FC72C6A5.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/AW/T5B67D5OCSN44B9SAB9YD6_Auto4.uasset'
+[2023.12.18-20.05.08:298][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/11/MX7NJ1CKJJ5MHUAS3H1TC8_Auto4
+[2023.12.18-20.05.08:298][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/MX7NJ1CKJJ5MHUAS3H1TC8_Auto4BF0A5A9B4C0E0C94B8724EBBC9A1D106.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/11/MX7NJ1CKJJ5MHUAS3H1TC8_Auto4.uasset'
+[2023.12.18-20.05.08:299][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/03/GAQ29MGYEP90R7HQ2R0RWH_Auto4
+[2023.12.18-20.05.08:299][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/GAQ29MGYEP90R7HQ2R0RWH_Auto4CA3AFA2F44F27E0F1544EF9AB4A9674A.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/03/GAQ29MGYEP90R7HQ2R0RWH_Auto4.uasset'
+[2023.12.18-20.05.08:301][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/XG/CFS3KRFGOKZSFATMOTQ0YB_Auto4
+[2023.12.18-20.05.08:301][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/CFS3KRFGOKZSFATMOTQ0YB_Auto4B79AD93C4A2BD0F985B34F9863BB31D0.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/XG/CFS3KRFGOKZSFATMOTQ0YB_Auto4.uasset'
+[2023.12.18-20.05.08:302][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/JG/L2X416AY03SNHVONDOF800_Auto4
+[2023.12.18-20.05.08:302][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/L2X416AY03SNHVONDOF800_Auto49538569A40EFD669AC32CC9DC3071DC6.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/JG/L2X416AY03SNHVONDOF800_Auto4.uasset'
+[2023.12.18-20.05.08:304][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/BN/17U3RB97KJ73HU28WUXY4T_Auto4
+[2023.12.18-20.05.08:304][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/17U3RB97KJ73HU28WUXY4T_Auto4CDD5FB3444E2C0B6C88EAAA2A14E23DA.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/BN/17U3RB97KJ73HU28WUXY4T_Auto4.uasset'
+[2023.12.18-20.05.08:306][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/3A/WL79BE58BICGHZSSCAJPXU_Auto4
+[2023.12.18-20.05.08:306][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/WL79BE58BICGHZSSCAJPXU_Auto4E1DDFAC244433ECE5356FE8822F520F2.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/3A/WL79BE58BICGHZSSCAJPXU_Auto4.uasset'
+[2023.12.18-20.05.08:308][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/XC/R0S2SQ5JIVZWAM65B9Q1QF_Auto4
+[2023.12.18-20.05.08:308][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/R0S2SQ5JIVZWAM65B9Q1QF_Auto42D600640495A56B29EEEAEA09C909D1B.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/XC/R0S2SQ5JIVZWAM65B9Q1QF_Auto4.uasset'
+[2023.12.18-20.05.08:309][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/JW/A0W3Z0IH9KKOA6VLSIWF0L_Auto4
+[2023.12.18-20.05.08:309][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/A0W3Z0IH9KKOA6VLSIWF0L_Auto4475E6FD748632832808CB5AE06FD5548.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/JW/A0W3Z0IH9KKOA6VLSIWF0L_Auto4.uasset'
+[2023.12.18-20.05.08:311][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7G/XXSJA6HAPJJJF0BDACV8TN_Auto4
+[2023.12.18-20.05.08:311][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/XXSJA6HAPJJJF0BDACV8TN_Auto4279F2C944F335625F5FE0694E62556BE.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7G/XXSJA6HAPJJJF0BDACV8TN_Auto4.uasset'
+[2023.12.18-20.05.08:313][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/XS/83NLOOVG9HXBWGCOUGWHPB_Auto4
+[2023.12.18-20.05.08:313][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/83NLOOVG9HXBWGCOUGWHPB_Auto475096D10432FCFB41A626EAAAA51B365.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/XS/83NLOOVG9HXBWGCOUGWHPB_Auto4.uasset'
+[2023.12.18-20.05.08:314][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/HE/XCDX9C6VIKIQ3UILIJEXB4_Auto4
+[2023.12.18-20.05.08:315][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/XCDX9C6VIKIQ3UILIJEXB4_Auto421663A6B4579701DA964FEB8D3C7F5B0.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/HE/XCDX9C6VIKIQ3UILIJEXB4_Auto4.uasset'
+[2023.12.18-20.05.08:316][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/JT/N58GUGSQHX01DH4C9SRTKR_Auto4
+[2023.12.18-20.05.08:316][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/N58GUGSQHX01DH4C9SRTKR_Auto4E58DCDE44C02D12F690F52BD3B96CC49.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/JT/N58GUGSQHX01DH4C9SRTKR_Auto4.uasset'
+[2023.12.18-20.05.08:318][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/QB/4B9IN5QJNOMVY44FL1EKPC_Auto4
+[2023.12.18-20.05.08:318][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/4B9IN5QJNOMVY44FL1EKPC_Auto44F35F6B741F41FA4514544AFEDC5F14F.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/QB/4B9IN5QJNOMVY44FL1EKPC_Auto4.uasset'
+[2023.12.18-20.05.08:320][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LS/6J39T2RC6AA9GB24UQR9M7_Auto4
+[2023.12.18-20.05.08:320][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/6J39T2RC6AA9GB24UQR9M7_Auto4E77249E4439DE13E960A4A908AB3DE50.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LS/6J39T2RC6AA9GB24UQR9M7_Auto4.uasset'
+[2023.12.18-20.05.08:321][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/E0/S2Z5UO5CDIOG6X5Y7CP5OC_Auto4
+[2023.12.18-20.05.08:321][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/S2Z5UO5CDIOG6X5Y7CP5OC_Auto40CA9D82E464E906B65768AB43D5EFBC8.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/E0/S2Z5UO5CDIOG6X5Y7CP5OC_Auto4.uasset'
+[2023.12.18-20.05.08:324][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/9P/ZEIKZM6RY80C95KW8G0N7Y_Auto4
+[2023.12.18-20.05.08:324][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/ZEIKZM6RY80C95KW8G0N7Y_Auto4BBDD6BE14F9EB8195822938ACEFAF4AE.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/9P/ZEIKZM6RY80C95KW8G0N7Y_Auto4.uasset'
+[2023.12.18-20.05.08:326][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/OB/BENR2WBF4SU77T7VR1GPYG_Auto4
+[2023.12.18-20.05.08:326][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/BENR2WBF4SU77T7VR1GPYG_Auto4A4870BCB48E8482BF41CEE86DC74CF9A.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/OB/BENR2WBF4SU77T7VR1GPYG_Auto4.uasset'
+[2023.12.18-20.05.08:327][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/Y1/KNSS56HCW6LAP94EB8NKMU_Auto4
+[2023.12.18-20.05.08:327][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/KNSS56HCW6LAP94EB8NKMU_Auto4871E08B3444B578A1A689B9033541CAC.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/Y1/KNSS56HCW6LAP94EB8NKMU_Auto4.uasset'
+[2023.12.18-20.05.08:329][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/JD/XCCDZRWOQ040UEKHB36YJA_Auto4
+[2023.12.18-20.05.08:329][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/XCCDZRWOQ040UEKHB36YJA_Auto4E2EAD32D4761AF0AA21BFF91F6152527.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/JD/XCCDZRWOQ040UEKHB36YJA_Auto4.uasset'
+[2023.12.18-20.05.08:331][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/C0/4P645VCDC4B3I42AMC6AQJ_Auto4
+[2023.12.18-20.05.08:331][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/4P645VCDC4B3I42AMC6AQJ_Auto439F742064F53620D3C920396451DDBBB.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/C0/4P645VCDC4B3I42AMC6AQJ_Auto4.uasset'
+[2023.12.18-20.05.08:333][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/ET/V2F98O07V1NGBF7JG9IUU6_Auto4
+[2023.12.18-20.05.08:333][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/V2F98O07V1NGBF7JG9IUU6_Auto4FC762B53436684A0C95B108BCC99F7D9.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/ET/V2F98O07V1NGBF7JG9IUU6_Auto4.uasset'
+[2023.12.18-20.05.08:334][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FZ/ZSK1BMXB3AHY8FGFQ9XFSX_Auto4
+[2023.12.18-20.05.08:334][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/ZSK1BMXB3AHY8FGFQ9XFSX_Auto40C3D8100431E3C916137CAA9323E1484.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FZ/ZSK1BMXB3AHY8FGFQ9XFSX_Auto4.uasset'
+[2023.12.18-20.05.08:336][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/UJ/7A6RFC005K71L4C565Q6SU_Auto4
+[2023.12.18-20.05.08:336][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/7A6RFC005K71L4C565Q6SU_Auto463285BA1407A7F97144962B55A93E26B.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/UJ/7A6RFC005K71L4C565Q6SU_Auto4.uasset'
+[2023.12.18-20.05.08:338][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/39/D8J04NT1PCG082FW8XMUGN_Auto4
+[2023.12.18-20.05.08:338][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/D8J04NT1PCG082FW8XMUGN_Auto44AB46660486D655FEA6041942D3B2300.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/39/D8J04NT1PCG082FW8XMUGN_Auto4.uasset'
+[2023.12.18-20.05.08:339][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/2Q/K166WILMKKPP24OLMLPPB0_Auto4
+[2023.12.18-20.05.08:339][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/K166WILMKKPP24OLMLPPB0_Auto4A75519BB4ED456D06E9F1D86C1D2D829.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/2Q/K166WILMKKPP24OLMLPPB0_Auto4.uasset'
+[2023.12.18-20.05.08:341][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/KD/6SAE4983QQ5ONEUCZD87BM_Auto4
+[2023.12.18-20.05.08:341][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/6SAE4983QQ5ONEUCZD87BM_Auto48F3D31BF4043ACA8E8466281874975DB.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/KD/6SAE4983QQ5ONEUCZD87BM_Auto4.uasset'
+[2023.12.18-20.05.08:343][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/EN/ZUBTVWZA8V7GBTG33C0Q11_Auto4
+[2023.12.18-20.05.08:343][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/ZUBTVWZA8V7GBTG33C0Q11_Auto4BFEA2DD843D1144AD87664A492C2DDB4.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/EN/ZUBTVWZA8V7GBTG33C0Q11_Auto4.uasset'
+[2023.12.18-20.05.08:344][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/HJ/5KX3AQ2HU5A4XOYXRJU9GK_Auto4
+[2023.12.18-20.05.08:344][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/5KX3AQ2HU5A4XOYXRJU9GK_Auto493AE0AFB483F1172663FDBB49E9F0FF9.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/HJ/5KX3AQ2HU5A4XOYXRJU9GK_Auto4.uasset'
+[2023.12.18-20.05.08:346][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/BQ/DAZU4XR7QNARAH5WMISTBR_Auto4
+[2023.12.18-20.05.08:346][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/DAZU4XR7QNARAH5WMISTBR_Auto44D9347FC4B1402695751CEB06829EA9E.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/BQ/DAZU4XR7QNARAH5WMISTBR_Auto4.uasset'
+[2023.12.18-20.05.08:348][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/3I/9TWVJ2ORI1DUQ2MI0247N3_Auto4
+[2023.12.18-20.05.08:348][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/9TWVJ2ORI1DUQ2MI0247N3_Auto407DA861C41907C82B05FB08D0CBBB417.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/3I/9TWVJ2ORI1DUQ2MI0247N3_Auto4.uasset'
+[2023.12.18-20.05.08:349][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/W6/TCBR26B298UKT4FAOZIBFN_Auto4
+[2023.12.18-20.05.08:349][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/TCBR26B298UKT4FAOZIBFN_Auto4C379730F47C7F4F1B284DC9F38353099.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/W6/TCBR26B298UKT4FAOZIBFN_Auto4.uasset'
+[2023.12.18-20.05.08:351][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/7F/C91HBMD9BG5RM04BD3Y3XU_Auto4
+[2023.12.18-20.05.08:351][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/C91HBMD9BG5RM04BD3Y3XU_Auto4FE82EC074D18C1D3F906D28825104489.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/7F/C91HBMD9BG5RM04BD3Y3XU_Auto4.uasset'
+[2023.12.18-20.05.08:353][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/TF/E5Q5KIGC7OU4P3ACKSB1K2_Auto4
+[2023.12.18-20.05.08:353][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/E5Q5KIGC7OU4P3ACKSB1K2_Auto44D2BA1814A82832CEBB266B94EE72951.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/TF/E5Q5KIGC7OU4P3ACKSB1K2_Auto4.uasset'
+[2023.12.18-20.05.08:354][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/AS/WXPX0X9PVMPVFBLYCVCSZS_Auto4
+[2023.12.18-20.05.08:354][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/WXPX0X9PVMPVFBLYCVCSZS_Auto4B83AF7974FD4AA6E39BEC9BFF1FDAD66.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/AS/WXPX0X9PVMPVFBLYCVCSZS_Auto4.uasset'
+[2023.12.18-20.05.08:356][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/QI/3ZZUQ8PKE5T8GDEP3SUAQY_Auto4
+[2023.12.18-20.05.08:356][962]LogSavePackage: Moving '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/3ZZUQ8PKE5T8GDEP3SUAQY_Auto4E67DE53E4624443ECCDFA481E1E93F24.tmp' to '../../../../../../Games Dev/SoftwareEngeneringCA2/Software_Dev_CA_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/QI/3ZZUQ8PKE5T8GDEP3SUAQY_Auto4.uasset'
+[2023.12.18-20.05.08:357][962]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.079
+[2023.12.18-20.05.08:357][962]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.079
+[2023.12.18-20.06.15:453][244]LogStaticMesh: Display: Building static mesh SM_Cart...
+[2023.12.18-20.06.15:722][258]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Cart/SM_Cart.SM_Cart
+[2023.12.18-20.06.15:722][258]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Cart/SM_Cart.SM_Cart
+[2023.12.18-20.06.15:722][258]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Cart/SM_Cart.SM_Cart as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_55
+[2023.12.18-20.06.15:739][258]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Greek_island/Assets/Cart/SM_Cart) ...
+[2023.12.18-20.06.16:621][258]LogStaticMesh: Built static mesh [1.17s] /Game/Greek_island/Assets/Cart/SM_Cart.SM_Cart
+[2023.12.18-20.06.20:084][612]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Cart/SM_Cart.SM_Cart
+[2023.12.18-20.06.20:084][612]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Cart/SM_Cart.SM_Cart
+[2023.12.18-20.06.20:085][612]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Cart/SM_Cart.SM_Cart as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6116C701_1183846280
+[2023.12.18-20.07.00:123][271]LogStaticMesh: Display: Building static mesh SM_Table_03...
+[2023.12.18-20.07.00:225][273]LogTexture: Display: Building textures: /Game/Greek_island/Textures/T_fabric/T_fabric_O.T_fabric_O (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 321.145823 MB), EncodeSpeed: Fast
+[2023.12.18-20.07.00:577][298]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Tables/SM_Table_03.SM_Table_03
+[2023.12.18-20.07.00:577][298]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Tables/SM_Table_03.SM_Table_03
+[2023.12.18-20.07.00:578][298]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Tables/SM_Table_03.SM_Table_03 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_56
+[2023.12.18-20.07.00:595][298]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Greek_island/Assets/Tables/SM_Table_03) ...
+[2023.12.18-20.07.00:861][298]LogStaticMesh: Built static mesh [0.74s] /Game/Greek_island/Assets/Tables/SM_Table_03.SM_Table_03
+[2023.12.18-20.07.00:944][298]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Tables/SM_Table_03.SM_Table_03
+[2023.12.18-20.07.00:944][298]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Tables/SM_Table_03.SM_Table_03
+[2023.12.18-20.07.00:944][298]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Tables/SM_Table_03.SM_Table_03 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_57
+[2023.12.18-20.07.01:420][308]LogShaderCompilers: Display: ================================================
+[2023.12.18-20.07.01:420][308]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.18-20.07.01:420][308]LogShaderCompilers: Display: Total job queries 322, among them cache hits 63 (19.57%)
+[2023.12.18-20.07.01:420][308]LogShaderCompilers: Display: Tracking 256 distinct input hashes that result in 206 distinct outputs (80.47%)
+[2023.12.18-20.07.01:420][308]LogShaderCompilers: Display: RAM used: 6.69 MiB of 1.60 GiB budget. Usage: 0.41%
+[2023.12.18-20.07.01:420][308]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.18-20.07.01:420][308]LogShaderCompilers: Display: Shaders Compiled: 94
+[2023.12.18-20.07.01:420][308]LogShaderCompilers: Display: Jobs assigned 97, completed 94 (96.91%)
+[2023.12.18-20.07.01:420][308]LogShaderCompilers: Display: Average time worker was idle: 742.00 s
+[2023.12.18-20.07.01:420][308]LogShaderCompilers: Display: Time job spent in pending queue: average 0.14 s, longest 1.12 s
+[2023.12.18-20.07.01:420][308]LogShaderCompilers: Display: Job execution time: average 0.72 s, max 2.48 s
+[2023.12.18-20.07.01:420][308]LogShaderCompilers: Display: Job life time (pending + execution): average 0.86 s, max 2.50
+[2023.12.18-20.07.01:420][308]LogShaderCompilers: Display: Shader code size: average 37.742 KiB, min 30.809 KiB, max 57.273 KiB
+[2023.12.18-20.07.01:420][308]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.35 s
+[2023.12.18-20.07.01:420][308]LogShaderCompilers: Display: Jobs were issued in 97 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.12.18-20.07.01:420][308]LogShaderCompilers: Display: Average processing rate: 9.08 jobs/sec
+[2023.12.18-20.07.01:420][308]LogShaderCompilers: Display: Total thread time: 32.124 s
+[2023.12.18-20.07.01:420][308]LogShaderCompilers: Display: Total thread preprocess time: 3.843 s
+[2023.12.18-20.07.01:420][308]LogShaderCompilers: Display: Percentage time preprocessing: 11.96%
+[2023.12.18-20.07.01:420][308]LogShaderCompilers: Display: Effective parallelization: 3.10 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.12.18-20.07.01:420][308]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.12.18-20.07.01:420][308]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled    2 times, average 1.30 sec, max 1.31 sec, min 1.30 sec)
+[2023.12.18-20.07.01:420][308]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    2 times, average 0.99 sec, max 1.16 sec, min 0.82 sec)
+[2023.12.18-20.07.01:420][308]LogShaderCompilers: Display:                                               FHWRasterizePS (compiled    2 times, average 0.70 sec, max 0.75 sec, min 0.64 sec)
+[2023.12.18-20.07.01:420][308]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   12 times, average 0.48 sec, max 1.26 sec, min 0.23 sec)
+[2023.12.18-20.07.01:420][308]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    8 times, average 0.34 sec, max 0.72 sec, min 0.26 sec)
+[2023.12.18-20.07.01:420][308]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.12.18-20.07.01:420][308]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.07% of total time (compiled   12 times, average 0.48 sec, max 1.26 sec, min 0.23 sec)
+[2023.12.18-20.07.01:420][308]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.57% of total time (compiled   11 times, average 0.31 sec, max 0.73 sec, min 0.17 sec)
+[2023.12.18-20.07.01:420][308]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 8.56% of total time (compiled    8 times, average 0.34 sec, max 0.72 sec, min 0.26 sec)
+[2023.12.18-20.07.01:420][308]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 8.12% of total time (compiled    2 times, average 1.30 sec, max 1.31 sec, min 1.30 sec)
+[2023.12.18-20.07.01:420][308]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.47% of total time (compiled    9 times, average 0.27 sec, max 0.37 sec, min 0.16 sec)
+[2023.12.18-20.07.01:420][308]LogShaderCompilers: Display: ================================================
+[2023.12.18-20.07.02:530][408]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Tables/SM_Table_03.SM_Table_03
+[2023.12.18-20.07.02:530][408]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Tables/SM_Table_03.SM_Table_03
+[2023.12.18-20.07.02:532][408]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Tables/SM_Table_03.SM_Table_03 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6116C701_1226292281
+[2023.12.18-20.07.13:727][598]LogStaticMesh: Display: Building static mesh SM_Table_02...
+[2023.12.18-20.07.14:254][635]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Tables/SM_Table_02.SM_Table_02
+[2023.12.18-20.07.14:255][635]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Tables/SM_Table_02.SM_Table_02
+[2023.12.18-20.07.14:255][635]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Tables/SM_Table_02.SM_Table_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_58
+[2023.12.18-20.07.14:272][635]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Greek_island/Assets/Tables/SM_Table_02) ...
+[2023.12.18-20.07.15:269][635]LogStaticMesh: Built static mesh [1.54s] /Game/Greek_island/Assets/Tables/SM_Table_02.SM_Table_02
+[2023.12.18-20.07.16:258][713]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Tables/SM_Table_02.SM_Table_02
+[2023.12.18-20.07.16:258][713]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Tables/SM_Table_02.SM_Table_02
+[2023.12.18-20.07.16:258][713]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Tables/SM_Table_02.SM_Table_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_59
+[2023.12.18-20.07.17:045][784]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Tables/SM_Table_02.SM_Table_02
+[2023.12.18-20.07.17:045][784]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Tables/SM_Table_02.SM_Table_02
+[2023.12.18-20.07.17:045][784]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Tables/SM_Table_02.SM_Table_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_60
+[2023.12.18-20.07.17:531][839]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Tables/SM_Table_02.SM_Table_02
+[2023.12.18-20.07.17:531][839]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Tables/SM_Table_02.SM_Table_02
+[2023.12.18-20.07.17:533][839]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Tables/SM_Table_02.SM_Table_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6116C701_1241293282
+[2023.12.18-20.07.38:381][175]LogStaticMesh: Display: Building static mesh SM_Boxes_04...
+[2023.12.18-20.07.38:457][175]LogTexture: Display: Building textures: /Game/Greek_island/Textures/T_trim_02/T_trim_02_D.T_trim_02_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2023.12.18-20.07.38:498][176]LogTexture: Display: Building textures: /Game/Greek_island/Textures/T_trim_02/T_trim_02_N.T_trim_02_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 471.562488 MB), EncodeSpeed: Fast
+[2023.12.18-20.07.38:506][176]LogTexture: Display: Building textures: /Game/Greek_island/Textures/T_trim_02/T_trim_02_AORM.T_trim_02_AORM (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2023.12.18-20.07.38:514][176]LogStaticMesh: Built static mesh [0.13s] /Game/Greek_island/Assets/Tables/SM_Boxes_04.SM_Boxes_04
+[2023.12.18-20.07.38:571][177]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Tables/SM_Boxes_04.SM_Boxes_04
+[2023.12.18-20.07.38:571][177]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Tables/SM_Boxes_04.SM_Boxes_04
+[2023.12.18-20.07.38:572][177]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Tables/SM_Boxes_04.SM_Boxes_04 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_61
+[2023.12.18-20.07.39:916][314]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Tables/SM_Boxes_04.SM_Boxes_04
+[2023.12.18-20.07.39:916][314]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Tables/SM_Boxes_04.SM_Boxes_04
+[2023.12.18-20.07.39:917][314]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Tables/SM_Boxes_04.SM_Boxes_04 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6116C701_1263678283
+[2023.12.18-20.07.48:302][179]LogStaticMesh: Display: Building static mesh SM_Boxes_03...
+[2023.12.18-20.07.48:389][179]LogStaticMesh: Built static mesh [0.09s] /Game/Greek_island/Assets/Tables/SM_Boxes_03.SM_Boxes_03
+[2023.12.18-20.07.48:731][200]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Tables/SM_Boxes_03.SM_Boxes_03
+[2023.12.18-20.07.48:731][200]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Tables/SM_Boxes_03.SM_Boxes_03
+[2023.12.18-20.07.48:732][200]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Tables/SM_Boxes_03.SM_Boxes_03 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_62
+[2023.12.18-20.07.49:694][303]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Tables/SM_Boxes_03.SM_Boxes_03
+[2023.12.18-20.07.49:695][303]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Tables/SM_Boxes_03.SM_Boxes_03
+[2023.12.18-20.07.49:696][303]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Tables/SM_Boxes_03.SM_Boxes_03 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6116C701_1273456284
+[2023.12.18-20.07.52:757][594]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Tables/SM_Boxes_03.SM_Boxes_03
+[2023.12.18-20.07.52:757][594]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Tables/SM_Boxes_03.SM_Boxes_03
+[2023.12.18-20.07.52:757][594]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Tables/SM_Boxes_03.SM_Boxes_03 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_63
+[2023.12.18-20.07.54:211][748]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Tables/SM_Boxes_03.SM_Boxes_03
+[2023.12.18-20.07.54:211][748]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Tables/SM_Boxes_03.SM_Boxes_03
+[2023.12.18-20.07.54:213][748]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Tables/SM_Boxes_03.SM_Boxes_03 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6116C701_1277973285
+[2023.12.18-20.08.17:062][229]Cmd: EDIT COPY
+[2023.12.18-20.08.17:290][255]Cmd: EDIT PASTE
+[2023.12.18-20.08.34:553][144]Cmd: EDIT COPY
+[2023.12.18-20.08.34:794][155]Cmd: EDIT PASTE
+[2023.12.18-20.08.44:058][134]Cmd: EDIT COPY
+[2023.12.18-20.08.44:287][160]Cmd: EDIT PASTE
+[2023.12.18-20.08.55:824][356]LogStaticMesh: Display: Building static mesh SM_Boxes_01...
+[2023.12.18-20.08.55:892][356]LogStaticMesh: Built static mesh [0.07s] /Game/Greek_island/Assets/Tables/SM_Boxes_01.SM_Boxes_01
+[2023.12.18-20.08.56:582][409]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Tables/SM_Boxes_01.SM_Boxes_01
+[2023.12.18-20.08.56:582][409]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Tables/SM_Boxes_01.SM_Boxes_01
+[2023.12.18-20.08.56:582][409]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Tables/SM_Boxes_01.SM_Boxes_01 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_64
+[2023.12.18-20.08.57:709][522]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Tables/SM_Boxes_01.SM_Boxes_01
+[2023.12.18-20.08.57:709][522]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Tables/SM_Boxes_01.SM_Boxes_01
+[2023.12.18-20.08.57:711][522]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Tables/SM_Boxes_01.SM_Boxes_01 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6116C701_1341471289
+[2023.12.18-20.09.11:076][969]LogStaticMesh: Display: Building static mesh SM_merch_06...
+[2023.12.18-20.09.11:147][969]LogStaticMesh: Built static mesh [0.07s] /Game/Greek_island/Assets/Merchandise/SM_merch_06.SM_merch_06
+[2023.12.18-20.09.11:673][  8]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Merchandise/SM_merch_06.SM_merch_06
+[2023.12.18-20.09.11:673][  8]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Merchandise/SM_merch_06.SM_merch_06
+[2023.12.18-20.09.11:673][  8]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Merchandise/SM_merch_06.SM_merch_06 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_65
+[2023.12.18-20.09.12:840][140]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Merchandise/SM_merch_06.SM_merch_06
+[2023.12.18-20.09.12:840][140]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Merchandise/SM_merch_06.SM_merch_06
+[2023.12.18-20.09.12:842][140]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Merchandise/SM_merch_06.SM_merch_06 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6116C701_1356602290
+[2023.12.18-20.09.26:393][584]LogStaticMesh: Display: Building static mesh SM_merch_01...
+[2023.12.18-20.09.26:561][593]LogStaticMesh: Built static mesh [0.17s] /Game/Greek_island/Assets/Merchandise/SM_merch_01.SM_merch_01
+[2023.12.18-20.09.27:458][666]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Merchandise/SM_merch_01.SM_merch_01
+[2023.12.18-20.09.27:458][666]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Merchandise/SM_merch_01.SM_merch_01
+[2023.12.18-20.09.27:458][666]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Merchandise/SM_merch_01.SM_merch_01 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_66
+[2023.12.18-20.09.31:516][107]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Merchandise/SM_merch_01.SM_merch_01
+[2023.12.18-20.09.31:516][107]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Merchandise/SM_merch_01.SM_merch_01
+[2023.12.18-20.09.31:518][107]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Merchandise/SM_merch_01.SM_merch_01 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6116C701_1375278291
+[2023.12.18-20.09.56:377][899]LogStaticMesh: Display: Building static mesh SM_merch_03...
+[2023.12.18-20.09.56:677][916]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Merchandise/SM_merch_03.SM_merch_03
+[2023.12.18-20.09.56:677][916]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Merchandise/SM_merch_03.SM_merch_03
+[2023.12.18-20.09.56:677][916]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Merchandise/SM_merch_03.SM_merch_03 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_67
+[2023.12.18-20.09.56:694][916]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Greek_island/Assets/Merchandise/SM_merch_03) ...
+[2023.12.18-20.09.57:311][916]LogStaticMesh: Built static mesh [0.93s] /Game/Greek_island/Assets/Merchandise/SM_merch_03.SM_merch_03
+[2023.12.18-20.09.58:973][ 67]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Merchandise/SM_merch_03.SM_merch_03
+[2023.12.18-20.09.58:973][ 67]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Greek_island/Assets/Merchandise/SM_merch_03.SM_merch_03
+[2023.12.18-20.09.58:975][ 67]LogActorFactory: Actor Factory spawned StaticMesh /Game/Greek_island/Assets/Merchandise/SM_merch_03.SM_merch_03 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A6116C701_1402735292
+[2023.12.18-20.10.05:749][711]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.18-20.10.05:754][711]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.12.18-20.10.05:754][711]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2023.12.18-20.10.05:759][711]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 5 ms (total: 81 ms)
+[2023.12.18-20.10.05:759][711]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.18-20.10.05:759][711]PIE: New page: PIE session: ThirdPersonMap (18 Dec 2023, 20:10:05)
+[2023.12.18-20.10.05:782][711]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.12.18-20.10.05:806][711]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023899s)
+[2023.12.18-20.10.05:806][711]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.023933s)
+[2023.12.18-20.10.05:814][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.12.18-20.10.05:819][711]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.18-20.10.05:819][711]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.18-20.10.05:819][711]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.12.18-20.10.05:820][711]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.12.18-20.10.05:820][711]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.12.18-20.10.05:820][711]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.12.18-20.10.05:820][711]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.12.18-20.10.05:825][711]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.12.18-20.10.05:825][711]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 1.10 sec)
+[2023.12.18-20.10.05:826][711]LogPlayLevel: PIE: World Init took: (0.006933s)
+[2023.12.18-20.10.05:826][711]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.12.18-20.10.05:826][711]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.18-20.10.05:826][711]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.18-20.10.05:826][711]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.18-20.10.05:826][711]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.18-20.10.05:826][711]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.18-20.10.05:826][711]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.18-20.10.05:826][711]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.18-20.10.05:826][711]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.18-20.10.05:826][711]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.18-20.10.05:826][711]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.18-20.10.05:826][711]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.18-20.10.05:828][711]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.18-20.10.05:846][711]LogAudioMixer: Display: Using Audio Hardware Device Wave Link System (2- Elgato Wave:3)
+[2023.12.18-20.10.05:846][711]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.18-20.10.05:846][711]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.18-20.10.05:846][711]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.18-20.10.05:847][711]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.12.18-20.10.05:847][711]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.12.18-20.10.05:848][711]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.12.18-20.10.05:848][711]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.12.18-20.10.05:848][711]LogInit: FAudioDevice initialized with ID 22.
+[2023.12.18-20.10.05:848][711]LogAudio: Display: Audio Device (ID: 22) registered with world 'ThirdPersonMap'.
+[2023.12.18-20.10.05:848][711]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2023.12.18-20.10.05:851][711]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.12.18-20.10.05:871][711]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.12.18-20.10.05
+[2023.12.18-20.10.05:871][711]LogWorld: Bringing up level for play took: 0.019687
+[2023.12.18-20.10.05:873][711]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2023.12.18-20.10.05:876][711]PIE: Server logged in
+[2023.12.18-20.10.05:877][711]PIE: Play in editor total start time 0.123 seconds.
+[2023.12.18-20.10.55:195][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.18-20.10.55:195][603]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.12.18-20.10.55:195][603]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.12.18-20.10.55:199][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.18-20.10.55:199][603]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.12.18-20.10.55:202][603]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.18-20.10.55:205][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.18-20.10.55:214][603]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.18-20.10.55:214][603]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2023.12.18-20.10.55:214][603]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.12.18-20.10.55:216][603]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.12.18-20.10.55:220][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.18-20.10.55:228][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.12.18-20.10.55:285][604]LogPlayLevel: Display: Destroying online subsystem :Context_27
